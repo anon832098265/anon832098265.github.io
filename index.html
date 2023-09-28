@@ -96,13 +96,20 @@
 </head>
 
 
+
 <body>
+
   <div >
     <label for="fname">Sample ID (x):</label>
     <input onchange="udpateSampleUsed(this.value)" value="0"></input> <br><br>
   </div>
 
 <table style="display:table;" class="answer_key">
+    <tr><td> Rontgen </td></tr>
+    <tr><td> Curie </td></tr>
+    <tr><td> XX </td></tr>
+    <tr><td> XX </td></tr>
+
 </table>
 <div >
     <b> Output Classes: </b>
@@ -128,5 +135,353 @@
 </div>
 <br>
 <div class="long_document"></div>
-</body>
 
+<br>
+
+
+
+
+<script>
+  var longdoc = d3.select("div.long_document");
+
+
+
+  function rgb(r, g, b){return "rgb("+r+","+g+","+b+")";}
+  function rgba(r, g, b, a){return "rgba("+r+","+g+","+b+","+a+")";}
+  const lightred = rgb(255,128,128);
+  const lightblu = rgb(128,128,255);
+
+  const tab_blue = "#4477ee"
+  const tab_orng = "#ffaa55"
+  const tab_gren = "#55aa55"
+  const tab_redd = "#dd5555"
+  const tab_purp = "#8855cc"
+  const tab_gray = "#aaaaaa"
+
+
+
+  var text_hierarchy_level = "para" //"para", "sent", or "word"
+  var GLOBAL_MAX_C = 5; //color support for 1 through 5
+
+  para_max_color_show = 0.50
+  para_min_color_show = 0.10
+  sent_max_color_show = 0.25
+  sent_min_color_show = 0.05
+  word_max_color_show = 0.10
+  word_min_color_show = 0.00
+
+
+  var rontgenJson = d3.json("json_data/visualizable_results_x0.json");
+  rontgenJson.then( function(json_payload) {
+      console.log('new json loaded');
+      window.loaded_json_payload = json_payload;
+      setupVisualization(json_payload);
+  })
+    
+
+
+  function setupVisualization(json_payload) {
+
+    hierarchyDictInOneJSON = json_payload
+
+    
+
+    function argMax(array) {   return array.map((x, i) => [x, i]).reduce((r, a) => (a[0] > r[0] ? a : r))[1];  }
+    function indexOfMax(arr) {
+        if (arr.length === 0) {        return [-1,0];    }
+        var max = arr[0];
+        var maxIndex = 0;
+        for (var i = 1; i < arr.length; i++) {
+            if (arr[i] > max) {            maxIndex = i;            max = arr[i];        }
+        }
+        return [maxIndex,max];
+    }
+    function maxIndToColor(max_ind) {
+      if (max_ind>=GLOBAL_MAX_C) { return tab_gray }
+
+        if (max_ind==0) { return tab_blue }
+        else if (max_ind==1) { return tab_orng } 
+        else if (max_ind==2) { return tab_gren } 
+        else if (max_ind==3) { return tab_redd } 
+        else if (max_ind==4) { return tab_purp } 
+        else { return tab_gray } 
+    }
+    function componentToHex(c) { /* https://stackoverflow.com/questions/5623838/rgb-to-hex-and-hex-to-rgb */
+      var hex = c.toString(16);
+      return hex.length == 1 ? "0" + hex : hex;
+    }
+    // function rgbToHex(r, g, b) {
+    function rgbToHex(rgb) {
+      return "#" + componentToHex(rgb.r) + componentToHex(rgb.g) + componentToHex(rgb.b);
+    }
+    function hexToRgb(hex) {
+      var result = /^#?([a-f\d]{2})([a-f\d]{2})([a-f\d]{2})$/i.exec(hex);
+      return result ? {
+        r: parseInt(result[1], 16),
+        g: parseInt(result[2], 16),
+        b: parseInt(result[3], 16)
+      } : null;
+    }
+    function getColorFromScores(scores_list, local_min_color_show, local_max_color_show) {
+          max = indexOfMax(scores_list)
+          max_ind=max[0];max_val=max[1];
+          rescaled_max_val = Math.min(Math.max(   (max_val-local_min_color_show)/(local_max_color_show-local_min_color_show)  ,0.0),1.0)
+          max_col = maxIndToColor(max_ind)
+          max_col_rgb = hexToRgb(max_col)
+
+          max_col_rgb_rescaled = {}
+          for (let c=0;c<3;c++) {
+            col_let = ['r','g','b'][c] 
+            max_col_rgb_rescaled[col_let] = parseInt( max_col_rgb[col_let] * rescaled_max_val + 255*(1-rescaled_max_val) )
+          }
+          max_col_rescaled_hex = rgbToHex(max_col_rgb_rescaled)
+          return max_col_rescaled_hex
+    }
+
+
+
+    C_MAX = GLOBAL_MAX_C;
+    answer_table = d3.select('table.answer_key')
+    faux_data_for_table = []
+    for (let i=0;i<C_MAX;i++) {
+      data_dict_list = []
+      for (let j=0;j<2;j++) {
+        data_dict_ij = {'i':i, 'j':j, 'out_text':hierarchyDictInOneJSON['text_outputs'][i] }
+        data_dict_list.push( data_dict_ij );
+      }
+      data_dict_i = {'i':i, 'cols':data_dict_list}
+      faux_data_for_table.push( data_dict_i )
+    }
+
+    answer_table
+    .selectAll("tr")
+    .remove("tr")
+
+
+    table_rows = answer_table.selectAll("tr").data(faux_data_for_table).join("tr")
+
+    
+    table_rows.selectAll("td").data(d=>d.cols).join("td")
+    .text(function(d) { 
+      if (d.j==1){
+        return "\"" + d.out_text + "\"";
+      } else {
+        return "#"+String(d.i+1)
+      }
+    })
+    .attr("style",function(d) {
+      style_str = "";
+      max_col = maxIndToColor(d['i']);
+      style_str += "background:"+String(max_col);
+      return style_str;
+    })
+    
+
+
+    var adding_some_more_text = longdoc
+    .selectAll("div")
+    .remove("div")
+
+    var adding_some_more_text = longdoc
+    .selectAll("div")
+    .data(hierarchyDictInOneJSON["children"])
+    .join("div")
+    .attr('class',function(d) {
+        if (d.children.length>0 && text_hierarchy_level!='para'){
+          return 'paragraph';
+        }
+        return 'paragraph_only'
+    })
+    .text(function(d) {
+        if (d.children.length>0 && text_hierarchy_level!='para'){
+            return "";
+        } else {
+            return d.text;
+        }
+    })
+    .attr('style',function(d) {
+        basestyle = "border-width:thin; border-style: solid;"
+        if (!(d.children.length>0 && text_hierarchy_level!='para')) {
+
+          xd = JSON.parse(d.scores)
+          new_col = getColorFromScores(xd, para_min_color_show, para_max_color_show)
+          basestyle += "background:"+new_col
+
+        }
+        return basestyle
+    });
+
+    
+    var paragraph_text_tooltips = longdoc.selectAll('div.paragraph_only')
+    .append('div') 
+    .attr('class','para_tooltiptext')
+
+    list_of_para_tips = []
+    list_of_para_tips.push(  paragraph_text_tooltips.append('span').attr('class','para_tooltip_line')  )
+    for (let i=1; i<C_MAX;i++) {
+      paragraph_text_tooltips.insert('br')
+      list_of_para_tips.push(  paragraph_text_tooltips.insert('span').attr('class','para_tooltip_line')  )
+    }
+    for (let i=0; i<C_MAX;i++) {
+      list_of_para_tips[i].text( function(d) {
+        xd = JSON.parse(d.scores)
+        class_text = hierarchyDictInOneJSON['text_outputs'][i];
+        perc_str = Number(xd[i]).toLocaleString(undefined,{style: 'percent', minimumFractionDigits:0});
+        return "\"" + class_text + "\"           \t" + perc_str
+      })
+      list_of_para_tips[i].attr("style", function(d) {
+        style_str = "background:"
+        max_col = maxIndToColor(i);
+        style_str += max_col;
+        return style_str
+      })
+    }
+
+
+
+
+    if (text_hierarchy_level=='sent' || text_hierarchy_level=='word') {
+      var sentence_text_spans = adding_some_more_text
+      .selectAll('div.paragraph')
+      .data(function (d) { return d.children })
+      .join('div')
+      .attr('class',function(s) {
+          if (s.children.length>0 && text_hierarchy_level=='word'){
+            return 'sentence';
+          }
+          return 'sentence_only'
+      })
+      .text(function(s) {
+          if (s.children.length>0 && text_hierarchy_level=='word'){
+              return "";
+          } else {
+              return s.text+" ";
+          }
+      })
+      .attr('style',function(s) {
+          basestyle = "display: inline; text-align: center; border-width:thin; border-style: solid;"
+          xd = JSON.parse(s.scores)
+          new_col = getColorFromScores(xd, sent_min_color_show, sent_max_color_show)
+          basestyle += "background:"+new_col
+          return basestyle
+      })
+
+      
+      var sentence_text_tooltips = adding_some_more_text.selectAll('div.sentence_only')
+      .append('div') 
+      .attr('class','sent_tooltiptext')
+
+      
+
+      
+      list_of_sent_tips = []
+      list_of_sent_tips.push(  sentence_text_tooltips.append('span').attr('class','sent_tooltip_line')  )
+      for (let i=1; i<C_MAX;i++) {
+        sentence_text_tooltips.insert('br')
+        list_of_sent_tips.push(  sentence_text_tooltips.insert('span').attr('class','sent_tooltip_line')  )
+      }
+      for (let i=0; i<C_MAX;i++) {
+        list_of_sent_tips[i].text( function(d) {
+          xd = JSON.parse(d.scores)
+          class_text = hierarchyDictInOneJSON['text_outputs'][i];
+          perc_str = Number(xd[i]).toLocaleString(undefined,{style: 'percent', minimumFractionDigits:0});
+          return "\"" + class_text + "\"           \t" + perc_str
+        })
+        list_of_sent_tips[i].attr("style", function(d) { 
+          style_str = "background:"
+          max_col = maxIndToColor(i);
+          style_str += max_col;
+          return style_str
+        })
+      }
+
+    }
+
+
+
+    if (text_hierarchy_level=='word') {
+      var word_text_spans = sentence_text_spans
+      .selectAll('div.sentence')
+      .data(function (d) { return d.children })
+      .join('div')
+      .attr('class','word')
+      .text(function(w) {
+          return w.text+" ";
+      })
+      .attr('style',function(w) {
+          basestyle = "display: inline; text-align: center;"
+          basestyle = "display: inline; text-align: center; border-width:thin; border-style: solid;"
+
+          xd = JSON.parse(w.scores)
+          new_col = getColorFromScores(xd, word_min_color_show, word_max_color_show)
+          basestyle += "background:"+new_col
+          return basestyle
+      })
+
+
+
+      console.log('sentence_text_spans',sentence_text_spans)
+      var word_text_tooltips = word_text_spans
+      .append('div') 
+      .attr('class','word_tooltiptext')
+
+    list_of_word_tips = []
+    list_of_word_tips.push(  word_text_tooltips.append('span').attr('class','word_tooltip_line')  )
+    for (let i=1; i<C_MAX;i++) {
+      word_text_tooltips.insert('br')
+      list_of_word_tips.push(  word_text_tooltips.insert('span').attr('class','word_tooltip_line')  )
+    }
+    for (let i=0; i<C_MAX;i++) {
+      list_of_word_tips[i].text( function(d) {
+        xd = JSON.parse(d.scores)
+        class_text = hierarchyDictInOneJSON['text_outputs'][i];
+        perc_str = Number(xd[i]).toLocaleString(undefined,{style: 'percent', minimumFractionDigits:0});
+        return "\"" + class_text + "\"           \t" + perc_str
+      })
+      list_of_word_tips[i].attr("style", function(d) { //nope this is about bring-to-top, not vertical position
+        style_str = "background:"
+        max_col = maxIndToColor(i);
+        style_str += max_col;
+        return style_str
+      })
+    }
+
+    }
+
+
+  }
+
+
+
+
+  function textLevelPara() {
+    text_hierarchy_level = 'para'
+    refreshViz()
+  }
+  function textLevelSent() {
+    text_hierarchy_level = 'sent'
+    refreshViz()
+  }
+  function textLevelWord() {
+    text_hierarchy_level = 'word'
+    refreshViz()
+  }
+  function refreshViz() {
+    setupVisualization(window.loaded_json_payload)
+  }
+  function classOutputCount(count) {
+    GLOBAL_MAX_C = count
+    refreshViz()
+  }
+  function udpateSampleUsed(x_str) {
+    var rontgenJson = d3.json("json_data/visualizable_results_x"+x_str+".json");
+
+    rontgenJson.then( function(json_payload) {
+        console.log('new json loaded');
+        window.loaded_json_payload = json_payload;
+        setupVisualization(json_payload);
+    })
+  }
+</script>
+
+</body>
