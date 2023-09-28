@@ -1,0 +1,132 @@
+<!DOCTYPE html>
+<head>
+    <script src="https://d3js.org/d3.v5.min.js"></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-csv/0.71/jquery.csv-0.71.min.js"></script>
+
+    <meta charset="utf-8" />
+    <style>
+    div {
+      font-size: 24px;
+    }
+    table {
+      font-size: 24px;
+    }
+    .links line {
+        stroke: #999;
+        stroke-opacity: 0.6;
+    }
+
+    .nodes circle {
+        stroke: #fff;
+        stroke-width: 1.5px;
+    }
+    .nodes rect {
+        stroke: #fff;
+        stroke-width: 1.5px;
+        stroke : black;
+    }
+    .box-select {
+        height : 102px;
+        width : 100px;
+        border-width: 2px;
+        border-style: solid;
+        border-color : black;
+        display : table-cell;
+    }
+
+    table, th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+    }
+
+
+
+    .paragraph_only .para_tooltiptext { /* https://www.w3schools.com/css/tryit.asp?filename=trycss_tooltip */
+      visibility: hidden;
+      /* width: 240px; */
+      background-color: black;
+      color: #fff;
+      text-align: center;
+      border-radius: 6px;
+      padding: 5px 0;
+
+      /* Position the tooltip */
+      position: absolute;
+      z-index: 1;
+    }
+    .paragraph_only:hover .para_tooltiptext {
+      visibility: visible;
+    }
+    .sentence_only .sent_tooltiptext { /* https://www.w3schools.com/css/tryit.asp?filename=trycss_tooltip */
+      visibility: hidden;
+      /* width: 120px; */
+      background-color: black;
+      color: #fff;
+      text-align: center;
+      border-radius: 6px;
+      padding: 5px 0;
+
+      /* Position the tooltip */
+      position: absolute;
+      z-index: 1;
+    }
+    .sentence_only:hover .sent_tooltiptext {
+      visibility: visible;
+    }
+    
+    .word .word_tooltiptext { 
+      visibility: hidden;
+      /* width: 120px; */
+      background-color: black;
+      color: #fff;
+      text-align: center;
+      border-radius: 6px;
+      padding: 5px 0;
+
+      /* Position the tooltip */
+      position: absolute;
+      z-index: 1;
+    }
+    .word:hover .word_tooltiptext {
+      visibility: visible;
+    }
+    
+    </style>
+</head>
+
+
+<body>
+  <div >
+    <label for="fname">Sample ID (x):</label>
+    <input onchange="udpateSampleUsed(this.value)" value="0"></input> <br><br>
+  </div>
+
+<table style="display:table;" class="answer_key">
+</table>
+<div >
+    <b> Output Classes: </b>
+    <input type="radio" name="class_output_count" style="width:30px;height:30px;"
+     id="pred_output_classes1" onclick="classOutputCount(1)" checked="true" > </input> 1
+     <input type="radio" name="class_output_count" style="width:30px;height:30px;"
+      id="pred_output_classes2" onclick="classOutputCount(2)" checked="false" > </input> 2
+      <input type="radio" name="class_output_count" style="width:30px;height:30px;"
+       id="pred_output_classes3" onclick="classOutputCount(3)" checked="false" > </input> 3
+       <input type="radio" name="class_output_count" style="width:30px;height:30px;"
+        id="pred_output_classes4" onclick="classOutputCount(4)" checked="false" > </input> 4
+        <input type="radio" name="class_output_count" style="width:30px;height:30px;"
+         id="pred_output_classes5" onclick="classOutputCount(5)" checked="false" > </input> 5
+</div>
+<div >
+    <b> Text Level: </b>
+    <input type="radio" name="text_hierarchy_level" style="width:30px;height:30px;"
+     id="para_level_hierarchy" onclick="textLevelPara()" checked="true" > </input> paragraph
+    <input type="radio" name="text_hierarchy_level" style="width:30px;height:30px;"
+     id="sent_level_hierarchy" onclick="textLevelSent()" > </input> sentence
+    <input type="radio" name="text_hierarchy_level" style="width:30px;height:30px;"
+     id="word_level_hierarchy" onclick="textLevelWord()" > </input> word
+</div>
+<br>
+<div class="long_document"></div>
+</body>
+
