@@ -1,0 +1,353 @@
+{
+  "children": [
+    {
+      "index1": 0,
+      "text": "Document [1] (Title: Lithium) Late in the 20th century, lithium became an important component of battery electrolytes and electrodes, because of its high electrode potential. Because of its low atomic mass, it has a high charge- and power-to-weight ratio. A typical lithium-ion battery can generate approximately 3 volts per cell, compared with 2.1 volts for lead-acid or 1.5 volts for zinc-carbon cells. Lithium-ion batteries, which are rechargeable and have a high energy density, should not be confused with lithium batteries, which are disposable (primary) batteries with lithium or its compounds as the anode. Other rechargeable batteries that use lithium include the lithium-ion polymer battery, lithium iron phosphate battery, and the nanowire battery.",
+      "children": [
+        {
+          "index1": 0,
+          "index2": 0,
+          "text": "Document [1] (Title: Lithium)",
+          "children": [],
+          "scores": "[0.025, 0.09, 0.05, 0.01, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.005, 0.0, 0.0, 0.0, 0.0]"
+        },
+        {
+          "index1": 0,
+          "index2": 1,
+          "text": "Late in the 20th century,",
+          "children": [],
+          "scores": "[0.035, 0.09, 0.02, 0.035, 0.0, 0.0, 0.0, 0.0, 0.01, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]"
+        },
+        {
+          "index1": 0,
+          "index2": 2,
+          "text": "lithium became an important component of battery electrolytes and electrodes,",
+          "children": [
+            {
+              "index3": 0,
+              "text": "lithium",
+              "children": [],
+              "scores": "[0.29, 0.0, 0.02, 0.02, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]"
+            },
+            {
+              "index3": 1,
+              "text": "became",
+              "children": [],
+              "scores": "[0.03, 0.03, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]"
+            },
+            {
+              "index3": 2,
+              "text": "an",
+              "children": [],
+              "scores": "[0.02, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.01, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]"
+            },
+            {
+              "index3": 3,
+              "text": "important",
+              "children": [],
+              "scores": "[0.01, 0.04, 0.02, 0.01, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]"
+            },
+            {
+              "index3": 4,
+              "text": "component",
+              "children": [],
+              "scores": "[0.06, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]"
+            },
+            {
+              "index3": 5,
+              "text": "of",
+              "children": [],
+              "scores": "[0.06, 0.0, 0.0, 0.01, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]"
+            },
+            {
+              "index3": 6,
+              "text": "battery",
+              "children": [],
+              "scores": "[0.06, 0.01, 0.0, 0.01, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]"
+            },
+            {
+              "index3": 7,
+              "text": "electrolytes",
+              "children": [],
+              "scores": "[0.03, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]"
+            },
+            {
+              "index3": 8,
+              "text": "and",
+              "children": [],
+              "scores": "[0.02, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]"
+            },
+            {
+              "index3": 9,
+              "text": "electrodes,",
+              "children": [],
+              "scores": "[0.02, 0.01, 0.01, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]"
+            }
+          ],
+          "scores": "[0.445, 0.0, 0.01, 0.01, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.005, 0.0, 0.0, 0.0, 0.0, 0.0, 0.005, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]"
+        },
+        {
+          "index1": 0,
+          "index2": 3,
+          "text": "because of its high electrode potential.",
+          "children": [],
+          "scores": "[0.06, 0.015, 0.01, 0.0, 0.0, 0.0, 0.0, 0.0, 0.005, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.005, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]"
+        },
+        {
+          "index1": 0,
+          "index2": 4,
+          "text": "Because of its low atomic mass,",
+          "children": [],
+          "scores": "[0.035, 0.02, 0.025, 0.005, 0.0, 0.0, 0.005, 0.0, 0.005, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]"
+        },
+        {
+          "index1": 0,
+          "index2": 5,
+          "text": "it has a high charge- and power-to-weight ratio.",
+          "children": [],
+          "scores": "[0.08, 0.015, 0.01, 0.005, 0.0, 0.0, 0.0, 0.0, 0.005, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.005, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]"
+        },
+        {
+          "index1": 0,
+          "index2": 6,
+          "text": "A typical lithium-ion battery can generate approximately 3 volts per cell,",
+          "children": [],
+          "scores": "[0.065, 0.01, 0.04, 0.03, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]"
+        },
+        {
+          "index1": 0,
+          "index2": 7,
+          "text": "compared with 2.1 volts for lead-acid or 1.5 volts for zinc-carbon cells.",
+          "children": [],
+          "scores": "[0.04, 0.015, 0.025, 0.01, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]"
+        },
+        {
+          "index1": 0,
+          "index2": 8,
+          "text": "Lithium-ion batteries,",
+          "children": [],
+          "scores": "[0.015, 0.045, 0.005, 0.005, 0.0, 0.0, 0.0, 0.005, 0.005, 0.015, 0.0, 0.0, 0.005, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.005, 0.0, 0.0, 0.0, 0.0]"
+        },
+        {
+          "index1": 0,
+          "index2": 9,
+          "text": "which are rechargeable and have a high energy density,",
+          "children": [],
+          "scores": "[0.035, 0.01, 0.01, 0.005, 0.0, 0.0, 0.005, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]"
+        },
+        {
+          "index1": 0,
+          "index2": 10,
+          "text": "should not be confused with lithium batteries,",
+          "children": [],
+          "scores": "[0.05, 0.04, 0.005, 0.005, 0.0, 0.0, 0.0, 0.0, 0.0, 0.01, 0.0, 0.0, 0.0, 0.0, 0.01, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]"
+        },
+        {
+          "index1": 0,
+          "index2": 11,
+          "text": "which are disposable (primary) batteries with lithium or its compounds as the anode.",
+          "children": [],
+          "scores": "[0.08, 0.04, 0.01, 0.005, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.005, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.005, 0.0, 0.0]"
+        },
+        {
+          "index1": 0,
+          "index2": 12,
+          "text": "Other rechargeable batteries that use lithium include the lithium-ion polymer battery,",
+          "children": [],
+          "scores": "[0.145, 0.03, 0.025, 0.02, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.01, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]"
+        },
+        {
+          "index1": 0,
+          "index2": 13,
+          "text": "lithium iron phosphate battery,",
+          "children": [],
+          "scores": "[0.065, 0.005, 0.06, 0.025, 0.0, 0.0, 0.0, 0.0, 0.035, 0.0, 0.005, 0.0, 0.005, 0.0, 0.0, 0.0, 0.005, 0.005, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]"
+        },
+        {
+          "index1": 0,
+          "index2": 14,
+          "text": "and the nanowire battery.",
+          "children": [],
+          "scores": "[0.035, 0.025, 0.015, 0.015, 0.0, 0.0, 0.0, 0.0, 0.0, 0.005, 0.0, 0.0, 0.0, 0.0, 0.005, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.005, 0.0, 0.0, 0.0]"
+        }
+      ],
+      "layer1_tspans": [],
+      "scores": "[0.6766666666666666, 0.02666666666666667, 0.03, 0.006666666666666667, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]"
+    },
+    {
+      "index1": 1,
+      "text": "Document [2] (Title: Lithium ion manganese oxide battery) and de-insertion of ions during discharge and charge of the battery. In particular, the ions occupy the interstitial spaces defined by the polyhedral frameworks. Thus, batteries with cathodes should be able to provide a higher rate-capability compared to materials with two-dimensional frameworks for diffusion. One main disadvantage of based batteries is that they suffer from lower overall capacities as a result of their spinel structure. Furthermore, at higher temperatures, the spinel structure is inherently unstable in the Li-based electrolytes used in Li-ion batteries. This results in dissolution of Mn ions and further capacity loss. is layered rocksalt structure that is",
+      "children": [],
+      "layer1_tspans": [],
+      "scores": "[0.05333333333333334, 0.02, 0.03, 0.006666666666666667, 0.2, 0.0, 0.0, 0.013333333333333334, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]"
+    },
+    {
+      "index1": 2,
+      "text": "Document [3] (Title: Electric battery) cell comprises a zinc anode, usually in the form of a cylindrical pot, with a carbon cathode in the form of a central rod. The electrolyte is ammonium chloride in the form of a paste next to the zinc anode. The remaining space between the electrolyte and carbon cathode is taken up by a second paste consisting of ammonium chloride and manganese dioxide, the latter acting as a depolariser. In some designs, the ammonium chloride is replaced by zinc chloride. Molten salt batteries are primary or secondary batteries that use a molten salt as electrolyte. They operate at high temperatures",
+      "children": [],
+      "layer1_tspans": [],
+      "scores": "[0.19, 0.056666666666666664, 0.0033333333333333335, 0.0, 0.013333333333333334, 0.0033333333333333335, 0.0033333333333333335, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]"
+    },
+    {
+      "index1": 3,
+      "text": "Document [4] (Title: Lithium\u2013air battery) electrochemical reactions energetically practical. Non-aqueous Li-air batteries were demonstrated first. They usually use mixed ethylene carbonate+ propylene carbonate solvents with LiPF or Li bis-sulfonimide salts like conventional li-ion batteries, however, with a gelled rather than liquid electrolyte. The voltage difference upon constant current charge and discharge is usually between 1.3 and 1.8 V (with an OCP of ca. 4.2 V) even at such ridiculously low currents as 0.01-0.5 mA/cm2 and 50-500 mA/g of C on the positive electrode (see Figure 2), However, the carbonate solvents evaporate and get oxidized due to a high overvoltage upon charge. Other solvents, such as",
+      "children": [],
+      "layer1_tspans": [],
+      "scores": "[0.04, 0.17666666666666667, 0.016666666666666666, 0.013333333333333334, 0.0033333333333333335, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]"
+    },
+    {
+      "index1": 4,
+      "text": "Document [5] (Title: Alkaline battery) With mercury content reduced by law and improvements in the purity and consistency of materials, manufacturers have reduced the mercury content in modern cells. In an alkaline battery, the negative electrode is zinc and the positive electrode is manganese dioxide (MnO). The alkaline electrolyte of potassium hydroxide is not part of the reaction, only the zinc and MnO are consumed during discharge. The alkaline electrolyte of potassium hydroxide remains, as there are equal amounts of OH consumed and produced. The half-reactions are: Overall reaction: The chemical energy is stored mostly in the zinc metal, whose cohesive free energy per atom",
+      "children": [],
+      "layer1_tspans": [],
+      "scores": "[0.13333333333333333, 0.03, 0.056666666666666664, 0.0, 0.006666666666666667, 0.0033333333333333335, 0.016666666666666666, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]"
+    },
+    {
+      "index1": 5,
+      "text": "Document [6] (Title: Alkaline battery) shreds and separates the battery case metals, manganese and zinc. Alkaline battery Alkaline batteries (IEC code: L) are a type of primary battery dependent upon the reaction between zinc metal and manganese dioxide. Another type of alkaline batteries are secondary rechargeable alkaline battery, which allows reuse of specially designed cells. Compared with zinc-carbon batteries of the Leclanch\u00e9 cell or zinc chloride types, alkaline batteries have a higher energy density and longer shelf-life, with the same voltage. The alkaline battery gets its name because it has an alkaline electrolyte of potassium hydroxide, instead of the acidic ammonium chloride or zinc chloride",
+      "children": [],
+      "layer1_tspans": [],
+      "scores": "[0.16666666666666666, 0.056666666666666664, 0.02, 0.05, 0.006666666666666667, 0.0033333333333333335, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]"
+    },
+    {
+      "index1": 6,
+      "text": "Document [7] (Title: Doron Aurbach) Yair Ein-Eli Dean of the faculty of Materials Science and Engineering at the Technion. The scope of Aurbach research includes all aspects of nonaqueous electrochemistry, many kinds of batteries: Li, Li-ion, Na-ion, Mg, metal (Li, Al)-air, Li-sulfur and lead-acid systems, super and pseudocapacitors, and electrochemical water desalination. He pioneered the use of the most effective analytical (spectroscopic and microscopic) techniques for operando studies of the most reactive electrochemical systems (e.g. Li and Mg metal anodes in nonaqueous electrolyte solutions). In his research Aurbach was able to identify all the major surface reactions which lead to the passivation of active electrodes",
+      "children": [],
+      "layer1_tspans": [],
+      "scores": "[0.03333333333333333, 0.19666666666666666, 0.02666666666666667, 0.0, 0.023333333333333334, 0.0, 0.013333333333333334, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.006666666666666667, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]"
+    },
+    {
+      "index1": 7,
+      "text": "Document [8] (Title: Manganese) battery and the alkaline battery normally use industrially produced manganese dioxide because naturally occurring manganese dioxide contains impurities. In the 20th century, manganese dioxide was widely used as the cathodic for commercial disposable dry batteries of both the standard (zinc-carbon) and alkaline types. Manganese comprises about 1000 ppm (0.1%) of the Earth's crust, the 12th most abundant of the crust's elements. Soil contains 7\u20139000 ppm of manganese with an average of 440 ppm. Seawater has only 10 ppm manganese and the atmosphere contains 0.01 <unk>g/m. Manganese occurs principally as pyrolusite (MnO), braunite, (MnMn)(SiO), psilomelane (Ba,HO)MnO, and to a lesser extent",
+      "children": [
+        {
+          "index1": 7,
+          "index2": 0,
+          "text": "Document [8] (Title: Manganese)",
+          "children": [],
+          "scores": "[0.02, 0.02, 0.055, 0.035, 0.0, 0.005, 0.005, 0.0, 0.0, 0.0, 0.0, 0.0, 0.005, 0.015, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.005]"
+        },
+        {
+          "index1": 7,
+          "index2": 1,
+          "text": "battery and the alkaline battery normally use industrially produced manganese dioxide because naturally occurring manganese dioxide contains impurities.",
+          "children": [],
+          "scores": "[0.035, 0.01, 0.065, 0.005, 0.01, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]"
+        },
+        {
+          "index1": 7,
+          "index2": 2,
+          "text": "In the 20th century,",
+          "children": [],
+          "scores": "[0.01, 0.015, 0.01, 0.005, 0.005, 0.005, 0.0, 0.005, 0.0, 0.005, 0.0, 0.005, 0.0, 0.005, 0.0, 0.0, 0.0, 0.0, 0.0, 0.005, 0.0, 0.0, 0.0, 0.0, 0.0]"
+        },
+        {
+          "index1": 7,
+          "index2": 3,
+          "text": "manganese dioxide was widely used as the cathodic for commercial disposable dry batteries of both the standard (zinc-carbon) and alkaline types.",
+          "children": [],
+          "scores": "[0.03, 0.015, 0.14, 0.0, 0.01, 0.0, 0.005, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.005, 0.0, 0.0, 0.0, 0.0, 0.0]"
+        },
+        {
+          "index1": 7,
+          "index2": 4,
+          "text": "Manganese comprises about 1000 ppm (0.1%) of the Earth's crust,",
+          "children": [],
+          "scores": "[0.005, 0.065, 0.015, 0.01, 0.005, 0.015, 0.005, 0.0, 0.0, 0.0, 0.0, 0.005, 0.0, 0.005, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]"
+        },
+        {
+          "index1": 7,
+          "index2": 5,
+          "text": "the 12th most abundant of the crust's elements.",
+          "children": [],
+          "scores": "[0.015, 0.0, 0.03, 0.0, 0.005, 0.015, 0.01, 0.005, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]"
+        },
+        {
+          "index1": 7,
+          "index2": 6,
+          "text": "Soil contains 7\u20139000 ppm of manganese with an average of 440 ppm.",
+          "children": [],
+          "scores": "[0.035, 0.01, 0.015, 0.01, 0.005, 0.0, 0.01, 0.0, 0.0, 0.0, 0.0, 0.01, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.005, 0.0]"
+        },
+        {
+          "index1": 7,
+          "index2": 7,
+          "text": "Seawater has only 10 ppm manganese and the atmosphere contains 0.01 <unk>g/m.",
+          "children": [],
+          "scores": "[0.01, 0.015, 0.015, 0.03, 0.0, 0.005, 0.015, 0.0, 0.0, 0.0, 0.0, 0.0, 0.005, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]"
+        },
+        {
+          "index1": 7,
+          "index2": 8,
+          "text": "Manganese occurs principally as pyrolusite (MnO), braunite,",
+          "children": [],
+          "scores": "[0.02, 0.03, 0.03, 0.015, 0.0, 0.015, 0.01, 0.0, 0.0, 0.0, 0.0, 0.005, 0.0, 0.01, 0.0, 0.0, 0.0, 0.0, 0.015, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]"
+        },
+        {
+          "index1": 7,
+          "index2": 9,
+          "text": "(MnMn)(SiO), psilomelane (Ba,",
+          "children": [],
+          "scores": "[0.01, 0.02, 0.03, 0.005, 0.005, 0.0, 0.005, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.005, 0.0, 0.0, 0.0, 0.0, 0.0, 0.005, 0.0, 0.0, 0.0, 0.0, 0.0]"
+        },
+        {
+          "index1": 7,
+          "index2": 10,
+          "text": "HO)MnO,",
+          "children": [],
+          "scores": "[0.01, 0.03, 0.03, 0.01, 0.0, 0.005, 0.005, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]"
+        },
+        {
+          "index1": 7,
+          "index2": 11,
+          "text": "and to a lesser extent",
+          "children": [],
+          "scores": "[0.01, 0.0, 0.015, 0.005, 0.005, 0.015, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]"
+        }
+      ],
+      "layer1_tspans": [],
+      "scores": "[0.023333333333333334, 0.01, 0.32666666666666666, 0.0, 0.01, 0.01, 0.0033333333333333335, 0.0033333333333333335, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]"
+    },
+    {
+      "index1": 8,
+      "text": "Document [9] (Title: Doron Aurbach) which compose rechargeable battery systems (Li, Li-C, Li-Si, lithiated transition metal oxides, Mg) in the relevant non-aqueous electrolyte solutions. His work promoted and developed important basic scientific topics which form the solid basis for the practical development of high energy density power sources. These included nonaqueous electrochemistry, active metals electrochemistry, understanding intercalation electrodes and the correlation between structure, morphology, surface chemistry and electrochemical performance of electrodes which are relevant to high energy density batteries. Prof. Aurbach also invented the field of rechargeable magnesium batteries, demonstrating working prototypes of rechargeable Mg batteries. Doron Aurbach has won several prizes, among them is",
+      "children": [],
+      "layer1_tspans": [],
+      "scores": "[0.08, 0.2833333333333333, 0.0, 0.0, 0.01, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.01, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]"
+    },
+    {
+      "index1": 9,
+      "text": "Document [10] (Title: Lithium-ion battery) can generally be divided into four groups: Cells with a cylindrical shape are made in a characteristic \"swiss roll\" manner (known as a \"jelly roll\" in the US), which means it is a single long sandwich of positive electrode, separator, negative electrode and separator rolled into a single spool. The main disadvantage of this method of construction is that the cell will have a higher series inductance. The absence of a case gives pouch cells the highest gravimetric energy density; however, for many practical applications they still require an external means of containment to prevent expansion when their state-of-charge (SOC)",
+      "children": [],
+      "layer1_tspans": [],
+      "scores": "[0.09666666666666666, 0.30666666666666664, 0.0, 0.0, 0.0, 0.013333333333333334, 0.0, 0.016666666666666666, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]"
+    }
+  ],
+  "text_outputs": [
+    "lithium",
+    "Lithium",
+    "manganese dioxide",
+    "manganese",
+    "Lithium ion manganese oxide battery",
+    "Lithium hydroxide",
+    "Lithium ion",
+    "Lithium-ion battery",
+    "lithium iron phosphate",
+    "Lithium-ion batteries",
+    "lithium iron phosphate battery, and the nanowire battery.",
+    "Lithium manganese oxide",
+    "Lithium-ion batteries, which are rechargeable and have a high energy density",
+    "Manganese",
+    "zinc",
+    "Li",
+    "Lithium iron phosphate",
+    "lithium iron phosphate battery",
+    "Manganese occurs principally as pyrolusite (MnO), bra",
+    "(MnMn)(SiO), psilomelane (B",
+    "lithium hydroxide",
+    "lithium carbonate",
+    "Lithium-ion",
+    "Manganese dioxide",
+    "Lithium manganese phosphate"
+  ]
+}

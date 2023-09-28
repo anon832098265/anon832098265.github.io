@@ -1,0 +1,282 @@
+{
+  "children": [
+    {
+      "index1": 0,
+      "text": "Document [1] (Title: Middle cranial fossa) It houses the temporal lobes of the brain and the pituitary gland. A middle fossa craniotomy is one means to surgically remove acoustic neuromas (vestibular schwannoma) growing within the internal auditory canal of the temporal bone.",
+      "children": [
+        {
+          "index1": 0,
+          "index2": 0,
+          "text": "Document [1] (Title: Middle cranial fossa)",
+          "children": [],
+          "scores": "[0.31, 0.04, 0.02, 0.005, 0.01, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.005, 0.0, 0.0, 0.03, 0.0, 0.02, 0.0, 0.0, 0.0, 0.02, 0.0, 0.0, 0.0, 0.0, 0.005, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.01, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.005, 0.005, 0.0, 0.0, 0.0, 0.0, 0.0, 0.005, 0.0, 0.0, 0.0, 0.0, 0.0, 0.005, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.005, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]"
+        },
+        {
+          "index1": 0,
+          "index2": 1,
+          "text": "It houses the temporal lobes of the brain and the pituitary gland.",
+          "children": [
+            {
+              "index3": 0,
+              "text": "It",
+              "children": [],
+              "scores": "[0.04, 0.0, 0.02, 0.01, 0.03, 0.01, 0.01, 0.0, 0.01, 0.01, 0.0, 0.01, 0.01, 0.01, 0.0, 0.0, 0.0, 0.0, 0.01, 0.0, 0.0, 0.0, 0.01, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.01, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.01, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.01, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.01, 0.0, 0.0, 0.0, 0.01, 0.0, 0.0, 0.01, 0.0, 0.0, 0.0, 0.01, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]"
+            },
+            {
+              "index3": 1,
+              "text": "houses",
+              "children": [],
+              "scores": "[0.03, 0.02, 0.01, 0.0, 0.02, 0.01, 0.0, 0.0, 0.01, 0.01, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.01, 0.0, 0.0, 0.0, 0.01, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.02, 0.0, 0.0, 0.0, 0.0, 0.0, 0.02, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.01, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.01, 0.0, 0.0, 0.01, 0.0, 0.0, 0.0, 0.0, 0.01, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.01, 0.0]"
+            },
+            {
+              "index3": 2,
+              "text": "the",
+              "children": [],
+              "scores": "[0.04, 0.03, 0.01, 0.02, 0.02, 0.01, 0.0, 0.0, 0.0, 0.01, 0.01, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.01, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.01, 0.0, 0.0, 0.01, 0.0, 0.0, 0.0, 0.0, 0.01, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.01, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.01, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.01, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.01, 0.0, 0.0, 0.01, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.01]"
+            },
+            {
+              "index3": 3,
+              "text": "temporal",
+              "children": [],
+              "scores": "[0.17, 0.0, 0.0, 0.0, 0.04, 0.02, 0.0, 0.02, 0.0, 0.02, 0.0, 0.01, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.02, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.02, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.02, 0.0, 0.0, 0.01, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.01, 0.0, 0.0, 0.0, 0.0, 0.01, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.01, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]"
+            },
+            {
+              "index3": 4,
+              "text": "lobes",
+              "children": [],
+              "scores": "[0.09, 0.05, 0.0, 0.03, 0.02, 0.02, 0.0, 0.0, 0.02, 0.01, 0.01, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.01, 0.0, 0.0, 0.0, 0.01, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.03, 0.0, 0.0, 0.0, 0.0, 0.0, 0.01, 0.0, 0.0, 0.01, 0.0, 0.0, 0.0, 0.01, 0.02, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.01, 0.0, 0.0, 0.0, 0.0, 0.0, 0.01, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.01, 0.0, 0.0, 0.01, 0.0, 0.0, 0.01, 0.0, 0.01, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.01, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]"
+            },
+            {
+              "index3": 5,
+              "text": "of",
+              "children": [],
+              "scores": "[0.01, 0.0, 0.01, 0.0, 0.03, 0.0, 0.01, 0.0, 0.0, 0.03, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.01, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.01, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.01, 0.0, 0.0, 0.01, 0.0, 0.01, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.01, 0.0, 0.0, 0.01, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]"
+            },
+            {
+              "index3": 6,
+              "text": "the",
+              "children": [],
+              "scores": "[0.0, 0.03, 0.0, 0.01, 0.0, 0.01, 0.0, 0.01, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.01, 0.0, 0.0, 0.0, 0.0, 0.01, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.01, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.01, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.01, 0.0, 0.0, 0.0, 0.01, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.01, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.01, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]"
+            },
+            {
+              "index3": 7,
+              "text": "brain",
+              "children": [],
+              "scores": "[0.03, 0.03, 0.0, 0.0, 0.0, 0.01, 0.0, 0.01, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.01, 0.0, 0.01, 0.01, 0.0, 0.0, 0.0, 0.0, 0.01, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.01, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.01, 0.01, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.01, 0.0, 0.0, 0.01, 0.01, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.01, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]"
+            },
+            {
+              "index3": 8,
+              "text": "and",
+              "children": [],
+              "scores": "[0.0, 0.02, 0.01, 0.0, 0.01, 0.0, 0.0, 0.0, 0.02, 0.0, 0.0, 0.01, 0.0, 0.0, 0.0, 0.0, 0.01, 0.0, 0.01, 0.0, 0.0, 0.0, 0.0, 0.0, 0.01, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.01, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.01, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.01, 0.0, 0.0, 0.0]"
+            },
+            {
+              "index3": 9,
+              "text": "the",
+              "children": [],
+              "scores": "[0.01, 0.02, 0.01, 0.01, 0.01, 0.0, 0.01, 0.0, 0.0, 0.0, 0.0, 0.01, 0.0, 0.01, 0.01, 0.0, 0.0, 0.0, 0.0, 0.0, 0.02, 0.0, 0.0, 0.0, 0.01, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.01, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.01, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.01, 0.0, 0.01, 0.0, 0.0, 0.01, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.01, 0.0, 0.0, 0.01, 0.0, 0.0]"
+            },
+            {
+              "index3": 10,
+              "text": "pituitary",
+              "children": [],
+              "scores": "[0.03, 0.02, 0.0, 0.0, 0.02, 0.01, 0.0, 0.0, 0.0, 0.01, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.02, 0.0, 0.0, 0.0, 0.01, 0.03, 0.0, 0.0, 0.0, 0.01, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.01, 0.01, 0.0, 0.0, 0.0, 0.01, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.01, 0.0, 0.01, 0.0, 0.01, 0.0, 0.0, 0.0, 0.0, 0.01, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.01, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.01, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]"
+            },
+            {
+              "index3": 11,
+              "text": "gland.",
+              "children": [],
+              "scores": "[0.01, 0.02, 0.0, 0.01, 0.0, 0.0, 0.0, 0.01, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.04, 0.01, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.02, 0.0, 0.0, 0.01, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.02, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.01, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.01, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.01, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.01, 0.0, 0.0, 0.0, 0.0]"
+            }
+          ],
+          "scores": "[0.37, 0.035, 0.005, 0.0, 0.285, 0.01, 0.005, 0.045, 0.005, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.025, 0.0, 0.0, 0.0, 0.0, 0.0, 0.005, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.005, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.005, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]"
+        },
+        {
+          "index1": 0,
+          "index2": 2,
+          "text": "A middle fossa craniotomy is one means to surgically remove acoustic neuromas (vestibular schwannoma) growing within the internal auditory canal of the temporal bone.",
+          "children": [],
+          "scores": "[0.095, 0.065, 0.015, 0.0, 0.01, 0.0, 0.0, 0.0, 0.005, 0.0, 0.005, 0.0, 0.01, 0.0, 0.0, 0.0, 0.015, 0.0, 0.025, 0.0, 0.005, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.04, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.005, 0.0, 0.0, 0.0, 0.0, 0.0, 0.005, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.005, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]"
+        }
+      ],
+      "layer1_tspans": [],
+      "scores": "[0.7666666666666667, 0.013333333333333334, 0.0, 0.0, 0.19, 0.0033333333333333335, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0033333333333333335, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0033333333333333335, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]"
+    },
+    {
+      "index1": 1,
+      "text": "Document [2] (Title: Middle cranial fossa) Middle cranial fossa The middle cranial fossa, deeper than the anterior cranial fossa, is narrow medially and widens laterally to the sides of the skull. It is separated from the posterior fossa by the clivus and the petrous crest. It is bounded in front by the posterior margins of the lesser wings of the sphenoid bone, the anterior clinoid processes, and the ridge forming the anterior margin of the chiasmatic groove; behind, by the superior angles of the petrous portions of the temporal bones and the dorsum sell<unk>; laterally by the temporal squam<unk>, sphenoidal angles of the parietals, and greater",
+      "children": [],
+      "layer1_tspans": [],
+      "scores": "[0.07, 0.14333333333333334, 0.013333333333333334, 0.006666666666666667, 0.006666666666666667, 0.0033333333333333335, 0.0, 0.11, 0.01, 0.016666666666666666, 0.0, 0.0, 0.0033333333333333335, 0.013333333333333334, 0.0, 0.0, 0.016666666666666666, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.01, 0.006666666666666667, 0.0, 0.0, 0.0, 0.0033333333333333335, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]"
+    },
+    {
+      "index1": 2,
+      "text": "Document [3] (Title: Anterior cranial fossa) upper margin of the optic foramen. The anterior cranial fossa contains the following parts of the brain: There are several openings connecting the anterior cranial fossa with other parts of the skull, and these are the following: The paired anterior ethmoidal foramen connects the anterior cranial fossa with each orbit and transmits the anterior ethmoidal artery, nerve and vein. The cribriform foramina are the openings in the cribriform plate of the ethmoid bone, which connect the anterior cranial fossa with the nasal cavity and transmit the olfactory nerves. Anterior cranial fossa The anterior cranial fossa is a depression in the",
+      "children": [],
+      "layer1_tspans": [],
+      "scores": "[0.05333333333333334, 0.1, 0.02, 0.05333333333333334, 0.006666666666666667, 0.0, 0.01, 0.0, 0.03333333333333333, 0.0033333333333333335, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.08666666666666667, 0.01, 0.006666666666666667, 0.0, 0.0, 0.0, 0.0, 0.006666666666666667, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0033333333333333335, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0033333333333333335, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]"
+    },
+    {
+      "index1": 3,
+      "text": "Document [4] (Title: Posterior cranial fossa) Posterior cranial fossa The posterior cranial fossa is part of the cranial cavity, located between the foramen magnum and tentorium cerebelli. It contains the brainstem and cerebellum. This is the most inferior of the fossae. It houses the cerebellum, medulla and pons. Anteriorly it extends to the apex of the petrous temporal. Posteriorly it is enclosed by the occipital bone. Laterally portions of the squamous temporal and mastoid part of the temporal bone form its walls. The most conspicuous, large opening in the floor of the fossa. It transmits the medulla, the ascending portions of the spinal accessory nerve (XI),",
+      "children": [],
+      "layer1_tspans": [],
+      "scores": "[0.043333333333333335, 0.006666666666666667, 0.02, 0.02666666666666667, 0.0, 0.18333333333333332, 0.006666666666666667, 0.0, 0.01, 0.01, 0.01, 0.0, 0.01, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.006666666666666667, 0.006666666666666667, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.006666666666666667, 0.0, 0.0033333333333333335, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0033333333333333335, 0.0, 0.0, 0.0, 0.0033333333333333335, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]"
+    },
+    {
+      "index1": 4,
+      "text": "Document [5] (Title: Posterior cranial fossa) enters the junction of the transverse and sigmoid sinuses. Also an inferior petrosal sinus enters the sigmoid sinus near the jugular foramen. The posterior cranial fossa is formed in the endocranium, and holds the most basal parts of the brain. An underdeveloped posterior cranial fossa can cause Arnold-Chiari Malformation. These can be either acquired or congenital disorders. Posterior cranial fossa The posterior cranial fossa is part of the cranial cavity, located between the foramen magnum and tentorium cerebelli. It contains the brainstem and cerebellum. This is the most inferior of the fossae. It houses the cerebellum, medulla and pons. Anteriorly",
+      "children": [],
+      "layer1_tspans": [],
+      "scores": "[0.06, 0.03333333333333333, 0.016666666666666666, 0.15666666666666668, 0.0033333333333333335, 0.02666666666666667, 0.006666666666666667, 0.0, 0.0, 0.016666666666666666, 0.01, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0033333333333333335, 0.0, 0.013333333333333334, 0.0, 0.0, 0.0, 0.0, 0.013333333333333334, 0.0, 0.013333333333333334, 0.0, 0.0, 0.0, 0.0, 0.0033333333333333335, 0.0033333333333333335, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0033333333333333335, 0.0, 0.0, 0.0, 0.0033333333333333335, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]"
+    },
+    {
+      "index1": 5,
+      "text": "Document [6] (Title: Middle cranial fossa) the sphenoid; it is usually completed laterally by the orbital plate of the frontal bone. It transmits to the orbital cavity the oculomotor, the trochlear, the ophthalmic division of the trigeminal, and the abducent nerves, some filaments from the cavernous plexus of the sympathetic, and the orbital branch of the middle meningeal artery; and from the orbital cavity a recurrent branch from the lacrimal artery to the dura mater, and the ophthalmic veins. Behind the medial end of the superior orbital fissure is the foramen rotundum, for the passage of the maxillary nerve. Behind and lateral to the foramen rotundum",
+      "children": [],
+      "layer1_tspans": [],
+      "scores": "[0.02666666666666667, 0.02666666666666667, 0.006666666666666667, 0.0033333333333333335, 0.0, 0.006666666666666667, 0.14333333333333334, 0.0033333333333333335, 0.0, 0.02, 0.05, 0.0, 0.0033333333333333335, 0.0, 0.0, 0.0, 0.01, 0.0, 0.0033333333333333335, 0.0, 0.0, 0.006666666666666667, 0.0, 0.0033333333333333335, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0033333333333333335, 0.0033333333333333335, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]"
+    },
+    {
+      "index1": 6,
+      "text": "Document [7] (Title: Pterygopalatine fossa) middle cranial fossa through eight foramina. It has the following boundaries: The following passages connect the fossa with other parts of the skull: The pterygopalatine fossa contains Pterygopalatine fossa In human anatomy, the pterygopalatine fossa (sphenopalatine fossa) is a fossa in the skull. A human skull contains two pterygopalatine fossae\u2014one on the left side, and another on the right side. Each fossa is a cone-shaped paired depression deep to the infratemporal fossa and posterior to the maxilla on each side of the skull, located between the pterygoid process and the maxillary tuberosity close to the apex of the orbit. It",
+      "children": [],
+      "layer1_tspans": [],
+      "scores": "[0.04, 0.043333333333333335, 0.03333333333333333, 0.013333333333333334, 0.006666666666666667, 0.0033333333333333335, 0.0033333333333333335, 0.016666666666666666, 0.0, 0.006666666666666667, 0.013333333333333334, 0.0, 0.0033333333333333335, 0.0, 0.02, 0.11, 0.0, 0.0, 0.0, 0.006666666666666667, 0.0, 0.013333333333333334, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0033333333333333335, 0.0, 0.0, 0.0, 0.006666666666666667, 0.006666666666666667, 0.0, 0.0, 0.0033333333333333335, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]"
+    },
+    {
+      "index1": 7,
+      "text": "Document [8] (Title: Anterior cranial fossa) Anterior cranial fossa The anterior cranial fossa is a depression in the floor of the cranial base which houses the projecting frontal lobes of the brain. It is formed by the orbital plates of the frontal, the cribriform plate of the ethmoid, and the small wings and front part of the body of the sphenoid; it is limited behind by the posterior borders of the small wings of the sphenoid and by the anterior margin of the chiasmatic groove. The lesser wings of the sphenoid separate the anterior and middle fossae. It is traversed by the frontoethmoidal, sphenoethmoidal, and sphenofrontal",
+      "children": [],
+      "layer1_tspans": [],
+      "scores": "[0.03333333333333333, 0.08, 0.016666666666666666, 0.02666666666666667, 0.0, 0.0033333333333333335, 0.016666666666666666, 0.12333333333333334, 0.0, 0.0033333333333333335, 0.0, 0.0, 0.0033333333333333335, 0.02666666666666667, 0.0, 0.0, 0.0, 0.0, 0.0, 0.016666666666666666, 0.0, 0.006666666666666667, 0.0, 0.0, 0.0, 0.006666666666666667, 0.03, 0.0, 0.0, 0.0, 0.006666666666666667, 0.0, 0.0033333333333333335, 0.0, 0.0, 0.0, 0.0, 0.0033333333333333335, 0.0, 0.0, 0.0, 0.0, 0.0033333333333333335, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]"
+    },
+    {
+      "index1": 8,
+      "text": "Document [9] (Title: Skull fracture) the inner portions of the sphenoid wings at the base of the skull. The middle cranial fossa, a depression at the base of the cranial cavity forms the thinnest part of the skull and is thus the weakest part. This area of the cranial floor is weakened further by the presence of multiple foramina as a result this section is at higher risk for basilar skull fractures to occur. Other areas more susceptible to fractures are the cribriform plate, the roof of orbits in the anterior cranial fossa, and the areas between the mastoid and dural sinuses in the posterior",
+      "children": [],
+      "layer1_tspans": [],
+      "scores": "[0.016666666666666666, 0.023333333333333334, 0.056666666666666664, 0.0, 0.0033333333333333335, 0.006666666666666667, 0.0033333333333333335, 0.0, 0.13666666666666666, 0.006666666666666667, 0.02, 0.0, 0.013333333333333334, 0.06, 0.013333333333333334, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.01, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0033333333333333335, 0.0, 0.0, 0.0033333333333333335, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]"
+    },
+    {
+      "index1": 9,
+      "text": "Document [10] (Title: Middle cranial fossa) canal, for the transmission of the greater superficial petrosal nerve and the petrosal branch of the middle meningeal artery; beneath it, the smaller groove, for the passage of the lesser superficial petrosal nerve; and, near the apex of the bone, the depression for the semilunar ganglion and the orifice of the carotid canal. Middle cranial fossa The middle cranial fossa, deeper than the anterior cranial fossa, is narrow medially and widens laterally to the sides of the skull. It is separated from the posterior fossa by the clivus and the petrous crest. It is bounded in front by the posterior",
+      "children": [],
+      "layer1_tspans": [],
+      "scores": "[0.02, 0.09333333333333334, 0.0033333333333333335, 0.023333333333333334, 0.0033333333333333335, 0.016666666666666666, 0.0, 0.016666666666666666, 0.02666666666666667, 0.013333333333333334, 0.0, 0.11, 0.013333333333333334, 0.0, 0.02666666666666667, 0.0, 0.03666666666666667, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.013333333333333334, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]"
+    }
+  ],
+  "text_outputs": [
+    "temporal lobes",
+    "The middle cranial fossa, deeper than the anterior cranial fos",
+    "The middle cranial fossa, a depression at the base of the ",
+    "thalamus",
+    "It houses the temporal lobes of the brain and the pituitary gland",
+    "cerebellum",
+    "the sphenoid; it is usually completed laterally by the orbital plate",
+    "the occipital lobes",
+    "the thalamus",
+    "the oculomotor, the trochlear, the ophthalmic",
+    "the sphenoid",
+    "the middle cranial fossa, deeper than the anterior cranial fos",
+    "medulla",
+    "the inner portions of the sphenoid wings at the base of the skull",
+    "the occipital lobe",
+    "pterygopalatine fossa",
+    "the middle cerebral artery",
+    "The paired anterior ethmoidal foramen connects the anterior cranial",
+    "the temporal lobes",
+    "The middle cranial fossa is a depression in the floor of the ",
+    "The anterior cranial fossa The anterior cranial fossa is",
+    "oculomotor, the trochlear, the ophthalmic division",
+    "pituitary gland",
+    "occipital lobe",
+    "The pterygopalatine fossa contains the thalamus.",
+    "The anterior cranial fossa is a depression in the floor of the ",
+    "the parietal lobes",
+    "A middle fossa craniotomy is one means to surgically remove ",
+    "the cerebrum",
+    "lobes",
+    "the middle cerebral arteries",
+    "temporal lobe",
+    "The middle cranial fossa is part of the cranial cavity, located",
+    "The middle cranial fossa The middle cranial fossa,",
+    "It houses the cerebellum, medulla and pons.",
+    "It houses the temporal lobes",
+    "brainstem and cerebellum",
+    "The middle cranial fossa is the largest of the cranial fos",
+    "medulla and pons",
+    "The anterior cranial fossa contains the following parts of the brain:",
+    "upper margin of the optic foramen. The anterior cranial fossa contains",
+    "the middle cranial fossa, a depression at the base of the ",
+    "occipital lobes",
+    "the temporal lobes of the brain",
+    "It houses the temporal lobes of the brain",
+    "The pterygopalatine fossa contains the thalamus,",
+    "cerebellum, medulla and pons",
+    "the brainstem",
+    "The anterior cranial fossa contains the following parts of the brain: There are",
+    "The pterygopalatine fossa (sphenopalatine fo",
+    "the middle temporal lobes",
+    "It houses the cerebellum, medulla and pons. Anterior",
+    "The middle cranial fossa is formed in the endocranium,",
+    "temporal lobes of the brain and the pituitary gland",
+    "It houses the occipital lobes and the pituitary gland",
+    "It houses temporal lobes of the brain and the pituitary gland.",
+    "sphenoid",
+    "pituitary",
+    "It houses the lobes of the brain and the pituitary gland",
+    "It houses the middle cranial lobes of the brain and the pituit",
+    "lobes of the brain",
+    "It transmits to the orbital cavity the oculomotor, the troch",
+    "cerebrum",
+    "The occipital lobes of the brain",
+    "The occipital lobes of the brain are located in the middle ",
+    "It houses the temporal lobes and the pituitary gland",
+    "It houses the temporal lobe of the brain and the pituitary gland",
+    "It houses the pituitary gland",
+    "It houses the lobes of the pituitary gland and the pituit",
+    "It houses the pituitary gland and the lobes of the brain.",
+    "the cerebellum",
+    "It houses the thalamus and the pituitary gland.",
+    "The middle cranial fossa houses the occipital lobe",
+    "The middle cranial fossa houses the parietal lobes",
+    "It houses the temporal lobes of the brain and",
+    "It houses the temporal lobes of the brain and pituitary",
+    "It houses the temporal lobes of the brain and pituitary gland.",
+    "It houses temporal lobes of the brain and the pituitary",
+    "It houses the middle cranial fossa (MCF) and the o",
+    "It houses the middle cranial fossa and the pituitary gland.",
+    "It houses the middle cranial fossa lobes of the thal",
+    "temporal",
+    "It houses the occipital lobe of the brain",
+    "It houses the lobes of the brain",
+    "It houses the pituitary gland.",
+    "It houses the temporal lobes of the brain and the carotid sinus",
+    "It houses the temporal lobes of the brain and the",
+    "It houses the temporal lobes of the brain and the olfactory",
+    "lobes of the brain and the pituitary gland",
+    "lobes of the brain and the pituitary",
+    "the pterygopalatine fossa",
+    "It houses the lobes of the brain and the pituitary gland. A",
+    "It houses temporal lobes and the pituitary gland. A middle fo",
+    "the temporal lobes of the brain and pituitary gland",
+    "the temporal lobes of the brain and the pituitary gland",
+    "the pituitary gland",
+    "It houses the pituitary",
+    "It houses the temporal lobes of the brain and the pituitary",
+    "It houses the middle cerebral artery, the pituitary gland, and the o",
+    "It houses the middle cranial fossa lobes of the pitu",
+    "It houses the lobes of the brain and the pituitary gland.",
+    "It houses the temporal lobe of the brain and the pituitary gland.",
+    "the temporal lobes and the pituitary gland",
+    "houses the temporal lobes of the brain and the pituitary gland",
+    "the inner portions of the sphenoid wings at the base of the skull.",
+    "It houses the lobes of the middle cranial fossa and the",
+    "It houses the middle cerebral lobes of the brain and the pituitary gland",
+    "the temporal lobes of the brain and the internal auditory canal of the temp",
+    "the temporal lobes of the brain and the internal auditory canal",
+    "It houses the temporal lobes the brain and the pituitary gland.",
+    "It houses the lobes of the brain and the gland."
+  ]
+}

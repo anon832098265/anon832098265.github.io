@@ -1,0 +1,404 @@
+{
+  "children": [
+    {
+      "index1": 0,
+      "text": "Document [1] (Title: The Outsiders (novel)) The story in the book takes place in Tulsa, Oklahoma, in 1965, but this is never explicitly stated in the book.",
+      "children": [
+        {
+          "index1": 0,
+          "index2": 0,
+          "text": "Document [1] (Title: The Outsiders (novel))",
+          "children": [],
+          "scores": "[0.1, 0.0, 0.0, 0.01, 0.045, 0.04, 0.01, 0.0, 0.0, 0.0, 0.005, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.02, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.01, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.005, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]"
+        },
+        {
+          "index1": 0,
+          "index2": 1,
+          "text": "The story in the book takes place in Tulsa,",
+          "children": [
+            {
+              "index3": 0,
+              "text": "The",
+              "children": [],
+              "scores": "[0.01, 0.02, 0.01, 0.01, 0.03, 0.01, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.01, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.01, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.01, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.01, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]"
+            },
+            {
+              "index3": 1,
+              "text": "story",
+              "children": [],
+              "scores": "[0.03, 0.01, 0.0, 0.0, 0.03, 0.0, 0.02, 0.01, 0.0, 0.0, 0.01, 0.01, 0.0, 0.0, 0.01, 0.0, 0.0, 0.01, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.01, 0.01, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.01, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.01, 0.0]"
+            },
+            {
+              "index3": 2,
+              "text": "in",
+              "children": [],
+              "scores": "[0.01, 0.01, 0.01, 0.0, 0.02, 0.02, 0.01, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.01, 0.0, 0.0, 0.01, 0.0, 0.0, 0.0, 0.0, 0.0, 0.02, 0.0, 0.0, 0.0, 0.0, 0.0, 0.01, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.02, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.01, 0.0, 0.0, 0.0]"
+            },
+            {
+              "index3": 3,
+              "text": "the",
+              "children": [],
+              "scores": "[0.01, 0.0, 0.0, 0.0, 0.0, 0.0, 0.01, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.01, 0.0, 0.0, 0.0, 0.0, 0.01, 0.0, 0.0, 0.0, 0.0, 0.0, 0.01, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.01, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.01]"
+            },
+            {
+              "index3": 4,
+              "text": "book",
+              "children": [],
+              "scores": "[0.02, 0.02, 0.0, 0.0, 0.01, 0.0, 0.02, 0.02, 0.0, 0.0, 0.0, 0.0, 0.0, 0.01, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.01, 0.0, 0.01, 0.0, 0.0, 0.01, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.01, 0.01, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]"
+            },
+            {
+              "index3": 5,
+              "text": "takes",
+              "children": [],
+              "scores": "[0.02, 0.0, 0.03, 0.0, 0.02, 0.0, 0.01, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.02, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.01, 0.0, 0.0]"
+            },
+            {
+              "index3": 6,
+              "text": "place",
+              "children": [],
+              "scores": "[0.04, 0.01, 0.0, 0.0, 0.04, 0.0, 0.05, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.01, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.01, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.01, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.01, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]"
+            },
+            {
+              "index3": 7,
+              "text": "in",
+              "children": [],
+              "scores": "[0.0, 0.0, 0.01, 0.0, 0.09, 0.0, 0.02, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.01, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.01, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.01, 0.01, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]"
+            },
+            {
+              "index3": 8,
+              "text": "Tulsa,",
+              "children": [],
+              "scores": "[0.39, 0.0, 0.0, 0.0, 0.22, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.02, 0.0, 0.0, 0.0, 0.0, 0.01, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.01, 0.0, 0.0, 0.0, 0.01, 0.0, 0.01, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.01, 0.0, 0.01, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]"
+            }
+          ],
+          "scores": "[0.435, 0.0, 0.01, 0.005, 0.35, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.015, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.01, 0.01, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]"
+        },
+        {
+          "index1": 0,
+          "index2": 2,
+          "text": "Oklahoma,",
+          "children": [
+            {
+              "index3": 0,
+              "text": "Oklahoma,",
+              "children": [],
+              "scores": "[0.45, 0.0, 0.0, 0.0, 0.0, 0.0, 0.24, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.01, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]"
+            }
+          ],
+          "scores": "[0.41, 0.0, 0.0, 0.0, 0.0, 0.0, 0.255, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.005, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]"
+        },
+        {
+          "index1": 0,
+          "index2": 3,
+          "text": "in 1965,",
+          "children": [],
+          "scores": "[0.055, 0.02, 0.0, 0.005, 0.005, 0.0, 0.005, 0.005, 0.0, 0.0, 0.005, 0.0, 0.0, 0.01, 0.0, 0.0, 0.0, 0.0, 0.005, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.005, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.005, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]"
+        },
+        {
+          "index1": 0,
+          "index2": 4,
+          "text": "but this is never explicitly stated in the book.",
+          "children": [],
+          "scores": "[0.015, 0.02, 0.0, 0.0, 0.025, 0.005, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.01, 0.0, 0.0, 0.0, 0.0, 0.005, 0.0, 0.0, 0.0, 0.0, 0.0, 0.005, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]"
+        }
+      ],
+      "layer1_tspans": [],
+      "scores": "[0.9833333333333333, 0.0, 0.0, 0.0033333333333333335, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]"
+    },
+    {
+      "index1": 1,
+      "text": "Document [2] (Title: Greaser (subculture)) time. The first cinematic representation of the greaser subculture was the 1953 film \"The Wild One\". Greasers are central characters in the 1957 musical \"West Side Story\" and its 1961 film adaptation, the 1967 novel \"The Outsiders\" and its 1983 film adaptation, the 1974 film \"The Lords of Flatbush\", and the 1979 film \"The Wanderers\". The phenomenon was given a more farcical treatment in the 1971 stage musical \"Grease\" (along with its 1978 film adaptation), which drew its name from the subculture and was based on real-life Chicago Polish greasers in the late 1950s. The band Sha-Na-Na models their on-stage",
+      "children": [],
+      "layer1_tspans": [],
+      "scores": "[0.0, 0.0, 0.023333333333333334, 0.0, 0.0, 0.04666666666666667, 0.0, 0.0033333333333333335, 0.0, 0.0, 0.12666666666666668, 0.02666666666666667, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0033333333333333335, 0.0, 0.0, 0.0, 0.0033333333333333335, 0.006666666666666667, 0.006666666666666667, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0033333333333333335, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]"
+    },
+    {
+      "index1": 2,
+      "text": "Document [3] (Title: The Outsiders (novel)) in 1965, but this is never explicitly stated in the book. A film adaptation was produced in 1983, and a little-known short-lived television series appeared in 1990, picking up where the movie left off. A stage adaptation was written by Christopher Sergel and published in 1990. Ponyboy Curtis, a teenaged member of a loose gang of \"greasers\", is leaving a movie theater when he is jumped by \"Socs\", the greasers' rival gang. Several greasers, including Ponyboy's two older brothers\u2014the paternal Darry and the popular Sodapop\u2014come to his rescue. The next night, Ponyboy and two greaser friends, the hardened Dally and",
+      "children": [],
+      "layer1_tspans": [],
+      "scores": "[0.013333333333333334, 0.0, 0.03, 0.023333333333333334, 0.0, 0.0, 0.0, 0.20333333333333334, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0033333333333333335, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.01, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]"
+    },
+    {
+      "index1": 3,
+      "text": "Document [4] (Title: The Outsiders (novel)) and a loaded gun, directing them to hide in an abandoned church in Windrixville. During their stay there, Pony cuts and dyes his hair as a disguise, reads \"Gone with the Wind\" to Johnny, and, upon viewing a beautiful sunrise, recites the poem \"Nothing Gold Can Stay\" by Robert Frost. Days later, Dally comes to check on them, revealing that violence between the greasers and Socs has escalated since Bob's death into all-out city-wide warfare, with Cherry acting out of guilt as a spy for the greasers. Johnny decides to turn himself in and Dally agrees to take the boys",
+      "children": [
+        {
+          "index1": 3,
+          "index2": 0,
+          "text": "Document [4] (Title: The Outsiders (novel))",
+          "children": [],
+          "scores": "[0.0, 0.02, 0.005, 0.0, 0.0, 0.025, 0.0, 0.0, 0.0, 0.01, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.005, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.005, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]"
+        },
+        {
+          "index1": 3,
+          "index2": 1,
+          "text": "and a loaded gun,",
+          "children": [],
+          "scores": "[0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.005, 0.0, 0.0, 0.0, 0.0, 0.0, 0.025, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]"
+        },
+        {
+          "index1": 3,
+          "index2": 2,
+          "text": "directing them to hide in an abandoned church in Windrixville.",
+          "children": [
+            {
+              "index3": 0,
+              "text": "directing",
+              "children": [],
+              "scores": "[0.0, 0.01, 0.01, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.01, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.01, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.01, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]"
+            },
+            {
+              "index3": 1,
+              "text": "them",
+              "children": [],
+              "scores": "[0.0, 0.02, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.01, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.01, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.01, 0.01, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]"
+            },
+            {
+              "index3": 2,
+              "text": "to",
+              "children": [],
+              "scores": "[0.0, 0.01, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.01, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.01, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]"
+            },
+            {
+              "index3": 3,
+              "text": "hide",
+              "children": [],
+              "scores": "[0.0, 0.0, 0.0, 0.01, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.01, 0.0, 0.0, 0.0, 0.0]"
+            },
+            {
+              "index3": 4,
+              "text": "in",
+              "children": [],
+              "scores": "[0.0, 0.01, 0.0, 0.0, 0.0, 0.01, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.01, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.01, 0.0, 0.0, 0.0, 0.01, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.01, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]"
+            },
+            {
+              "index3": 5,
+              "text": "an",
+              "children": [],
+              "scores": "[0.0, 0.01, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.02, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.01, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.01, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.01, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]"
+            },
+            {
+              "index3": 6,
+              "text": "abandoned",
+              "children": [],
+              "scores": "[0.0, 0.01, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.01, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.02, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.01, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.01, 0.0, 0.0, 0.0, 0.0, 0.0]"
+            },
+            {
+              "index3": 7,
+              "text": "church",
+              "children": [],
+              "scores": "[0.0, 0.01, 0.0, 0.01, 0.0, 0.01, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.01, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.01, 0.0, 0.01, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.01, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.01, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]"
+            },
+            {
+              "index3": 8,
+              "text": "in",
+              "children": [],
+              "scores": "[0.0, 0.0, 0.01, 0.0, 0.0, 0.01, 0.0, 0.0, 0.0, 0.02, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.01, 0.0, 0.01, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]"
+            },
+            {
+              "index3": 9,
+              "text": "Windrixville.",
+              "children": [],
+              "scores": "[0.0, 0.36, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.01, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.01, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]"
+            }
+          ],
+          "scores": "[0.0, 0.375, 0.0, 0.005, 0.0, 0.025, 0.0, 0.0, 0.0, 0.04, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.005, 0.0, 0.0, 0.005, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.005, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.005, 0.0, 0.0, 0.0, 0.0, 0.0]"
+        },
+        {
+          "index1": 3,
+          "index2": 3,
+          "text": "During their stay there,",
+          "children": [],
+          "scores": "[0.0, 0.02, 0.005, 0.005, 0.0, 0.025, 0.0, 0.0, 0.0, 0.005, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.01, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]"
+        },
+        {
+          "index1": 3,
+          "index2": 4,
+          "text": "Pony cuts and dyes his hair as a disguise,",
+          "children": [],
+          "scores": "[0.0, 0.025, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.01, 0.0, 0.005, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.01, 0.0, 0.0, 0.015, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]"
+        },
+        {
+          "index1": 3,
+          "index2": 5,
+          "text": "reads \"Gone with the Wind\" to Johnny,",
+          "children": [],
+          "scores": "[0.0, 0.02, 0.0, 0.0, 0.0, 0.01, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.01, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.005, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.01, 0.005, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]"
+        },
+        {
+          "index1": 3,
+          "index2": 6,
+          "text": "and,",
+          "children": [],
+          "scores": "[0.005, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.01, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.005, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]"
+        },
+        {
+          "index1": 3,
+          "index2": 7,
+          "text": "upon viewing a beautiful sunrise,",
+          "children": [],
+          "scores": "[0.005, 0.01, 0.0, 0.0, 0.0, 0.005, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.025, 0.0, 0.005, 0.0, 0.005, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]"
+        },
+        {
+          "index1": 3,
+          "index2": 8,
+          "text": "recites the poem \"Nothing Gold Can Stay\" by Robert Frost.",
+          "children": [],
+          "scores": "[0.0, 0.015, 0.005, 0.0, 0.0, 0.01, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.025, 0.0, 0.0, 0.0, 0.01, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.005, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]"
+        },
+        {
+          "index1": 3,
+          "index2": 9,
+          "text": "Days later,",
+          "children": [],
+          "scores": "[0.0, 0.0, 0.0, 0.0, 0.0, 0.015, 0.0, 0.0, 0.0, 0.0, 0.0, 0.005, 0.0, 0.01, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.005, 0.0, 0.0, 0.0, 0.0, 0.005, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]"
+        },
+        {
+          "index1": 3,
+          "index2": 10,
+          "text": "Dally comes to check on them,",
+          "children": [],
+          "scores": "[0.0, 0.0, 0.0, 0.015, 0.0, 0.01, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.005, 0.0, 0.0, 0.0, 0.005, 0.005, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.005, 0.0, 0.005, 0.0, 0.0, 0.005, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]"
+        },
+        {
+          "index1": 3,
+          "index2": 11,
+          "text": "revealing that violence between the greasers and Socs has escalated since Bob's death into all-out city-wide warfare,",
+          "children": [],
+          "scores": "[0.0, 0.015, 0.0, 0.0, 0.0, 0.02, 0.0, 0.0, 0.005, 0.005, 0.0, 0.005, 0.0, 0.025, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.01, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.005, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.005, 0.0, 0.0, 0.0, 0.0, 0.0, 0.005, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]"
+        },
+        {
+          "index1": 3,
+          "index2": 12,
+          "text": "with Cherry acting out of guilt as a spy for the greasers.",
+          "children": [],
+          "scores": "[0.0, 0.005, 0.0, 0.0, 0.0, 0.01, 0.0, 0.0, 0.01, 0.005, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.005, 0.0, 0.0, 0.0, 0.005, 0.0, 0.0, 0.0, 0.0, 0.005, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]"
+        },
+        {
+          "index1": 3,
+          "index2": 13,
+          "text": "Johnny decides to turn himself in and Dally agrees to take the boys",
+          "children": [],
+          "scores": "[0.0, 0.0, 0.005, 0.005, 0.0, 0.005, 0.0, 0.0, 0.015, 0.0, 0.0, 0.0, 0.0, 0.01, 0.0, 0.0, 0.0, 0.005, 0.0, 0.0, 0.005, 0.005, 0.0, 0.0, 0.005, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]"
+        }
+      ],
+      "layer1_tspans": [],
+      "scores": "[0.0, 0.5, 0.0, 0.006666666666666667, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]"
+    },
+    {
+      "index1": 4,
+      "text": "Document [5] (Title: The Outsiders (novel)) back home. As they attempt to leave, they notice the church has caught fire and several local schoolchildren have become trapped inside. The greasers run inside the burning church to save the children, but Ponyboy is rendered unconscious by the fumes. At the hospital he discovers that he and Dally are not badly injured, but a piece of the church roof fell on Johnny and broke his back. Sodapop and Darry come to the hospital; Darry breaks down and cries. Ponyboy then realizes that Darry cares about him, and is only hard on him because he loves him and cares",
+      "children": [],
+      "layer1_tspans": [],
+      "scores": "[0.0, 0.0, 0.0, 0.04, 0.0, 0.01, 0.0, 0.0033333333333333335, 0.006666666666666667, 0.0, 0.0, 0.006666666666666667, 0.0, 0.0, 0.10333333333333333, 0.0, 0.0, 0.0, 0.006666666666666667, 0.013333333333333334, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.013333333333333334, 0.0, 0.0, 0.0, 0.0, 0.006666666666666667, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]"
+    },
+    {
+      "index1": 5,
+      "text": "Document [6] (Title: The Outsiders (film)) home. Bob's death has sparked calls from the Socs for \"a rumble,\" which the Greasers win. Dallas drives Ponyboy to the hospital to visit Johnny. Johnny is unimpressed by the victory, and dies after telling Ponyboy to \"stay gold,\" referring to the Frost poem. Unable to bear Johnny's death, Dallas wanders through the hospital, pretending to shoot a doctor with his unloaded gun, which clicks harmlessly. He then robs a grocery store with the same gun, but he is shot and wounded by the owner as he flees. Pursued by the police, Dallas is surrounded in a park and the",
+      "children": [],
+      "layer1_tspans": [],
+      "scores": "[0.0, 0.0, 0.016666666666666666, 0.03, 0.0, 0.0, 0.0, 0.0033333333333333335, 0.01, 0.0, 0.0, 0.006666666666666667, 0.10333333333333333, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0033333333333333335, 0.0, 0.0033333333333333335, 0.0, 0.006666666666666667, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0033333333333333335, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]"
+    },
+    {
+      "index1": 6,
+      "text": "Document [7] (Title: Greaser (subculture)) towards the group. Their choice in clothing was largely drawn from a common understanding of the empowering aesthetic of working-class attire, rather than cohesive association with similarly-dressed individuals. Some greasers were in motorcycle clubs or in gangs (and some gang members and bikers dressed like greasers) though such membership was not an inherent principle of the subculture. Ethnically, original greasers were mostly composed of Italian Americans in the Northeastern United States and Chicanos in the Southwest. Since both of these peoples were mostly olive-skinned, the \"greaser\" label assumed a quasi-racial status that implied an urban lower class masculinity and delinquency.",
+      "children": [],
+      "layer1_tspans": [],
+      "scores": "[0.006666666666666667, 0.0, 0.02, 0.01, 0.0, 0.016666666666666666, 0.0, 0.0, 0.0, 0.0, 0.0, 0.013333333333333334, 0.0, 0.0, 0.0, 0.0, 0.06333333333333334, 0.0, 0.006666666666666667, 0.013333333333333334, 0.02, 0.0, 0.0033333333333333335, 0.0, 0.0, 0.0, 0.01, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]"
+    },
+    {
+      "index1": 7,
+      "text": "Document [8] (Title: Grease (musical)) typically inserted at or near the beginning of the show. The musical begins with all of the cast coming to school and getting ready in Rydell High School Class of 1959 reunion headed by old maid English teacher, Miss Lynch, who sings with Patty and Eugene the school anthem (\"Alma Mater\"). She welcomes former cheerleader/yearbook-editor Patty Simcox Honeywell and class valedictorian Eugene Florczyk. Eugene gives a rousing speech, mentioning that the alumni who are missing from the reunion are surely present in-spirit. Suddenly, the greaser gang known as the Burger Palace Boys (known in later versions as the \"T-Birds\") and",
+      "children": [],
+      "layer1_tspans": [],
+      "scores": "[0.0033333333333333335, 0.0, 0.023333333333333334, 0.13333333333333333, 0.0, 0.09333333333333334, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.01, 0.0, 0.0, 0.0, 0.0, 0.013333333333333334, 0.0, 0.0, 0.0, 0.0, 0.0, 0.006666666666666667, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]"
+    },
+    {
+      "index1": 8,
+      "text": "Document [9] (Title: The Outsiders (film)) told the police that Johnny and Pony were in Texas, and gives Pony a note from Sodapop. They go out to get something to eat, then return to find the church on fire with children trapped inside. The Greasers turn into heroes as they rescue the kids from the burning church. It doesn't take long for Ponyboy and Dally to heal up. Johnny, on the other hand, ends up with a broken back and severe burns. The boys are praised for their heroism, but Johnny is charged with manslaughter for killing Bob, while Ponyboy may be sent to a boys'",
+      "children": [],
+      "layer1_tspans": [],
+      "scores": "[0.01, 0.0033333333333333335, 0.17, 0.0, 0.0, 0.0, 0.0, 0.0, 0.16, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]"
+    },
+    {
+      "index1": 9,
+      "text": "Document [10] (Title: The Outsiders (novel)) police. The greasers find Dally deliberately pointing an unloaded gun at the police, causing them to shoot and kill him. Overwhelmed, Ponyboy faints and is sick in bed for many days due to the resulting concussion from the rumble. When the hearing finally comes, the judge frees Ponyboy from responsibility for Bob's death and allows Pony to remain at home with Darry and Soda. Ponyboy returns to school, but his grades drop. Although he is failing English, his teacher, Mr. Syme, says he will pass him if he writes a decent theme. In the copy of \"Gone with the Wind\"",
+      "children": [],
+      "layer1_tspans": [],
+      "scores": "[0.006666666666666667, 0.0, 0.02, 0.0, 0.0, 0.013333333333333334, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.08, 0.0, 0.0, 0.03, 0.0, 0.013333333333333334, 0.0, 0.006666666666666667, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.01, 0.0, 0.0033333333333333335, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]"
+    }
+  ],
+  "text_outputs": [
+    "Tulsa, Oklahoma",
+    "Windrixville",
+    "Texas",
+    "Rydell High School",
+    "Tulsa",
+    "in the slums",
+    "Oklahoma",
+    "Ponyboy Curtis, a teenaged member of a loose gang of",
+    "in a slum",
+    "in an abandoned church in Windrixville",
+    "in the slums of Chicago",
+    "Ponyboy's neighborhood",
+    "home",
+    "in the hood",
+    "back home",
+    "Ponyboy",
+    "in the ghetto",
+    "the slums",
+    "in the copy of \"Gone with the Wind\"",
+    "in the Northeastern United States and Chicanos in the Southwest",
+    "the Northeastern United States",
+    "in the city",
+    "the South Side of Chicago",
+    "Flatbush",
+    "Ponyboy's home",
+    "in the slums of South Central Los Angeles",
+    "South Central Los Angeles",
+    "in the sewers",
+    "the slums of Chicago",
+    "the slums of South Central Los Angeles",
+    "in the outskirts of town",
+    "Dallas",
+    "in an abandoned church",
+    "in the abandoned church in Windrixville",
+    "in a church",
+    "the outskirts of town",
+    "in the slums of New York City",
+    "the city",
+    "Tulsa,",
+    "in the book",
+    "the 1967 novel \"The Outsiders\" and its 1983 film adaptation, the 1974 film \"",
+    "The story in the book takes place in Tulsa, Oklahoma",
+    "The story in the book takes place in Tulsa, Oklahoma.",
+    "a slum",
+    "The Outsiders",
+    "them to hide in an abandoned church in Windrixville.",
+    "in an abandoned church in",
+    "in the abandoned buildings",
+    "in Windrixville",
+    "in an abandoned house",
+    "in the slums of New Orleans",
+    "in the outskirts of the city",
+    "Chicago",
+    "The story in the novel takes place in",
+    "The story in the Outsiders takes place in Tulsa, Oklahoma.",
+    "in the Northeastern United States",
+    "in the book The Outsiders (novel) back home. As they attempt to",
+    "in the abandoned church",
+    "directing them to hide in an abandoned",
+    "abandoned church in Windrixville",
+    "the book takes place in but this is never explicitly stated in the book.",
+    "The story takes place in but this is never explicitly stated in the book.",
+    "them to hide in an anachronistic church in Windrixville.",
+    "directing them to hide in an an old church in Windrixville.",
+    "directing them to hide in an abandoned church in Windrixville.",
+    "Ponyboy Curtis",
+    "in the book Tulsa",
+    "in the book takes place in Tulsa, Oklahoma",
+    "the slums of New York City",
+    "the book takes place in Tulsa, Oklahoma"
+  ]
+}

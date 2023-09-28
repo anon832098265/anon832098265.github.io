@@ -1,0 +1,265 @@
+{
+  "children": [
+    {
+      "index1": 0,
+      "text": "Document [1] (Title: Reading F.C.) Reading Football Club ownership structure: 75% Owned by Renhe Sports Management Ltd, 100% owned by Xiu Li Dai and Yongge Dai. 25% Owned by Narin Niruttinanon",
+      "children": [],
+      "layer1_tspans": [],
+      "scores": "[0.07666666666666666, 0.0, 0.2866666666666667, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0033333333333333335, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0033333333333333335, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]"
+    },
+    {
+      "index1": 1,
+      "text": "Document [2] (Title: Nigel Howe) Nigel Howe Nigel Howe (born 7 April 1958) is a British property developer, and a director at Reading Football Club, who currently play in the SkyBet Championship in England. The majority of Howe's career was in property management before joining John Madejski in 1995 when he took over as chief executive of Reading F.C. Howe led the redevelopment of both the club's Madejski Stadium and its business management, and is also a non-executive director of a number of other businesses in which John Madejski has invested including the BenhamGoodhead Print Group, Sackville Properties and the Ark Group. He is also",
+      "children": [],
+      "layer1_tspans": [],
+      "scores": "[0.0, 0.2733333333333333, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0033333333333333335, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]"
+    },
+    {
+      "index1": 2,
+      "text": "Document [3] (Title: Anton Zingarevich) The couple married in late 2009 and had a child. Anton Zingarevich Anton Zingarevich (Russian: <unk>\u043d\u0442\u043e\u043d <unk>\u0438\u043d<unk>\u0430\u0440\u0435\u0432\u0438<unk>) is a Russian businessman best known for being the former owner of Reading Football Club, who play in the English Championship. Zingarevich's bid to take over the club was announced in January 2012, and he formally purchased the club on 29 May 2012. Since then, Zingarevich has had minimum interest in the running of the club, however did make the decision to sack manager Brian McDermott, and the subsequent employment of Nigel Adkins. Zingarevich is the son of Boris Zingarevich, a Russian multi-billionaire.",
+      "children": [
+        {
+          "index1": 2,
+          "index2": 0,
+          "text": "Document [3] (Title: Anton Zingarevich)",
+          "children": [],
+          "scores": "[0.075, 0.01, 0.005, 0.0, 0.0, 0.0, 0.0, 0.01, 0.0, 0.0, 0.0, 0.0, 0.005, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.01, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]"
+        },
+        {
+          "index1": 2,
+          "index2": 1,
+          "text": "The couple married in late 2009 and had a child.",
+          "children": [],
+          "scores": "[0.01, 0.005, 0.0, 0.005, 0.005, 0.005, 0.005, 0.015, 0.0, 0.0, 0.005, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.005, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]"
+        },
+        {
+          "index1": 2,
+          "index2": 2,
+          "text": "Anton Zingarevich Anton Zingarevich (Russian: <unk>\u043d\u0442\u043e\u043d <unk>\u0438\u043d<unk>\u0430\u0440\u0435\u0432\u0438<unk>) is a Russian businessman best known for being the former owner of Reading Football Club,",
+          "children": [],
+          "scores": "[0.275, 0.01, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]"
+        },
+        {
+          "index1": 2,
+          "index2": 3,
+          "text": "who play in the English Championship.",
+          "children": [],
+          "scores": "[0.015, 0.02, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.015, 0.0, 0.005, 0.0, 0.0, 0.0, 0.0, 0.005, 0.0, 0.0, 0.0, 0.01, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]"
+        },
+        {
+          "index1": 2,
+          "index2": 4,
+          "text": "Zingarevich's bid to take over the club was announced in January 2012,",
+          "children": [],
+          "scores": "[0.03, 0.01, 0.01, 0.0, 0.02, 0.005, 0.0, 0.01, 0.0, 0.0, 0.0, 0.0, 0.0, 0.01, 0.0, 0.005, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.005, 0.005, 0.0, 0.0, 0.0, 0.005]"
+        },
+        {
+          "index1": 2,
+          "index2": 5,
+          "text": "and he formally purchased the club on 29 May 2012. Since then,",
+          "children": [],
+          "scores": "[0.055, 0.01, 0.0, 0.0, 0.0, 0.005, 0.0, 0.015, 0.005, 0.0, 0.0, 0.015, 0.0, 0.0, 0.005, 0.005, 0.005, 0.005, 0.01, 0.0, 0.0, 0.0, 0.005, 0.0, 0.005, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]"
+        },
+        {
+          "index1": 2,
+          "index2": 6,
+          "text": "Zingarevich has had minimum interest in the running of the club,",
+          "children": [],
+          "scores": "[0.015, 0.005, 0.0, 0.0, 0.015, 0.0, 0.0, 0.01, 0.015, 0.0, 0.0, 0.005, 0.0, 0.0, 0.0, 0.0, 0.0, 0.005, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.005, 0.0, 0.0, 0.0, 0.005, 0.0, 0.0, 0.0]"
+        },
+        {
+          "index1": 2,
+          "index2": 7,
+          "text": "however did make the decision to sack manager Brian McDermott,",
+          "children": [],
+          "scores": "[0.005, 0.0, 0.005, 0.0, 0.005, 0.0, 0.0, 0.0, 0.005, 0.0, 0.0, 0.0, 0.0, 0.01, 0.0, 0.0, 0.005, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]"
+        },
+        {
+          "index1": 2,
+          "index2": 8,
+          "text": "and the subsequent employment of Nigel Adkins.",
+          "children": [],
+          "scores": "[0.005, 0.005, 0.005, 0.0, 0.0, 0.005, 0.0, 0.0, 0.005, 0.0, 0.01, 0.005, 0.005, 0.0, 0.0, 0.005, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]"
+        },
+        {
+          "index1": 2,
+          "index2": 9,
+          "text": "Zingarevich is the son of Boris Zingarevich,",
+          "children": [],
+          "scores": "[0.015, 0.0, 0.005, 0.005, 0.035, 0.0, 0.0, 0.0, 0.025, 0.03, 0.0, 0.005, 0.0, 0.0, 0.005, 0.0, 0.005, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]"
+        },
+        {
+          "index1": 2,
+          "index2": 10,
+          "text": "a Russian multi-billionaire.",
+          "children": [],
+          "scores": "[0.015, 0.0, 0.005, 0.0, 0.005, 0.04, 0.0, 0.0, 0.02, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.01, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]"
+        }
+      ],
+      "layer1_tspans": [],
+      "scores": "[0.44333333333333336, 0.01, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]"
+    },
+    {
+      "index1": 3,
+      "text": "Document [4] (Title: Anton Zingarevich) Anton Zingarevich Anton Zingarevich (Russian: <unk>\u043d\u0442\u043e\u043d <unk>\u0438\u043d<unk>\u0430\u0440\u0435\u0432\u0438<unk>) is a Russian businessman best known for being the former owner of Reading Football Club, who play in the English Championship. Zingarevich's bid to take over the club was announced in January 2012, and he formally purchased the club on 29 May 2012. Since then, Zingarevich has had minimum interest in the running of the club, however did make the decision to sack manager Brian McDermott, and the subsequent employment of Nigel Adkins. Zingarevich is the son of Boris Zingarevich, a Russian multi-billionaire. At the age of 16, Zingarevich began education at Bearwood",
+      "children": [
+        {
+          "index1": 3,
+          "index2": 0,
+          "text": "Document [4] (Title: Anton Zingarevich)",
+          "children": [],
+          "scores": "[0.07, 0.005, 0.0, 0.0, 0.0, 0.0, 0.0, 0.025, 0.0, 0.0, 0.0, 0.0, 0.005, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]"
+        },
+        {
+          "index1": 3,
+          "index2": 1,
+          "text": "Anton Zingarevich Anton Zingarevich (Russian: <unk>\u043d\u0442\u043e\u043d <unk>\u0438\u043d<unk>\u0430\u0440\u0435\u0432\u0438<unk>) is a Russian businessman best known for being the former owner of Reading Football Club,",
+          "children": [],
+          "scores": "[0.25, 0.02, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]"
+        },
+        {
+          "index1": 3,
+          "index2": 2,
+          "text": "who play in the English Championship.",
+          "children": [],
+          "scores": "[0.015, 0.015, 0.005, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.025, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]"
+        },
+        {
+          "index1": 3,
+          "index2": 3,
+          "text": "Zingarevich's bid to take over the club was announced in January 2012,",
+          "children": [],
+          "scores": "[0.065, 0.005, 0.0, 0.0, 0.02, 0.005, 0.0, 0.01, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.005, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]"
+        },
+        {
+          "index1": 3,
+          "index2": 4,
+          "text": "and he formally purchased the club on 29 May 2012. Since then,",
+          "children": [],
+          "scores": "[0.045, 0.0, 0.005, 0.0, 0.005, 0.0, 0.0, 0.02, 0.0, 0.0, 0.0, 0.005, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.005, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]"
+        },
+        {
+          "index1": 3,
+          "index2": 5,
+          "text": "Zingarevich has had minimum interest in the running of the club,",
+          "children": [],
+          "scores": "[0.01, 0.0, 0.01, 0.0, 0.015, 0.0, 0.0, 0.01, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.01, 0.0, 0.0, 0.005, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]"
+        },
+        {
+          "index1": 3,
+          "index2": 6,
+          "text": "however did make the decision to sack manager Brian McDermott,",
+          "children": [],
+          "scores": "[0.025, 0.0, 0.0, 0.0, 0.005, 0.0, 0.0, 0.01, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.005, 0.0]"
+        },
+        {
+          "index1": 3,
+          "index2": 7,
+          "text": "and the subsequent employment of Nigel Adkins.",
+          "children": [],
+          "scores": "[0.01, 0.005, 0.0, 0.005, 0.01, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.005, 0.0, 0.01, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]"
+        },
+        {
+          "index1": 3,
+          "index2": 8,
+          "text": "Zingarevich is the son of Boris Zingarevich,",
+          "children": [],
+          "scores": "[0.01, 0.0, 0.0, 0.0, 0.01, 0.0, 0.0, 0.0, 0.01, 0.015, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.005, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]"
+        },
+        {
+          "index1": 3,
+          "index2": 9,
+          "text": "a Russian multi-billionaire.",
+          "children": [],
+          "scores": "[0.02, 0.005, 0.0, 0.0, 0.0, 0.04, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]"
+        },
+        {
+          "index1": 3,
+          "index2": 10,
+          "text": "At the age of 16, Zingarevich began education at Bearwood",
+          "children": [],
+          "scores": "[0.01, 0.01, 0.005, 0.0, 0.0, 0.0, 0.005, 0.0, 0.0, 0.01, 0.0, 0.0, 0.0, 0.0, 0.005, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.005, 0.0, 0.0]"
+        }
+      ],
+      "layer1_tspans": [],
+      "scores": "[0.4633333333333333, 0.006666666666666667, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]"
+    },
+    {
+      "index1": 4,
+      "text": "Document [5] (Title: Nigel Howe) a non-executive director of the Clearview Traffic Group. Howe is the nephew of former England and Arsenal coach Don Howe. Nigel Howe Nigel Howe (born 7 April 1958) is a British property developer, and a director at Reading Football Club, who currently play in the SkyBet Championship in England. The majority of Howe's career was in property management before joining John Madejski in 1995 when he took over as chief executive of Reading F.C. Howe led the redevelopment of both the club's Madejski Stadium and its business management, and is also a non-executive director of a number of other businesses",
+      "children": [],
+      "layer1_tspans": [],
+      "scores": "[0.056666666666666664, 0.15333333333333332, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]"
+    },
+    {
+      "index1": 5,
+      "text": "Document [6] (Title: Reading F.C.) Reading F.C. Reading Football Club ( ) is a professional association football club based in Reading, Berkshire, England. The team play in the Championship, the second tier of English football. Reading are nicknamed The Royals, due to Reading's location in the Royal County of Berkshire, though they were previously known as The Biscuitmen, due to the town's association with Huntley and Palmers. Established in 1871, the club is one of the oldest teams in England, but did not join The Football League until 1920, and had never played in the top tier of English football league system before the 2006\u201307",
+      "children": [],
+      "layer1_tspans": [],
+      "scores": "[0.016666666666666666, 0.016666666666666666, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.07, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]"
+    },
+    {
+      "index1": 6,
+      "text": "Document [7] (Title: Sport in Reading, Berkshire) Sport in Reading, Berkshire Reading is home to a number of professional sports teams and a large number of amateur sports clubs. Reading is the home of Reading Football Club, an association football club nicknamed \"The Royals\", formed in 1871. Formerly based at Elm Park, the club plays at the 24,161 capacity Madejski Stadium, named after chairman Sir John Madejski. After winning the 2005\u201306 Football League Championship with a record of 106 points, Reading F.C. spent two seasons in the Premier League before being relegated to The Championship. This so far the only time that the club has spent in",
+      "children": [],
+      "layer1_tspans": [],
+      "scores": "[0.04666666666666667, 0.0, 0.0, 0.19, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]"
+    },
+    {
+      "index1": 7,
+      "text": "Document [8] (Title: Reading F.C.) they won promotion to the FA Women's Super League 1 in 2015 after winning the league. In the 2017\u201318 season, they finished fourth in the Women's Super League - their highest league position to date. The team currently plays at Adams Park, home of Wycombe Wanderers. Reading F.C. Reading Football Club ( ) is a professional association football club based in Reading, Berkshire, England. The team play in the Championship, the second tier of English football. Reading are nicknamed The Royals, due to Reading's location in the Royal County of Berkshire, though they were previously known as The Biscuitmen, due",
+      "children": [],
+      "layer1_tspans": [],
+      "scores": "[0.016666666666666666, 0.13, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.006666666666666667, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]"
+    },
+    {
+      "index1": 8,
+      "text": "Document [9] (Title: Reading City F.C.) Reading City F.C. Reading City Football Club is a football club based in Reading, Berkshire, England. They are currently members of the and play at Scours Lane in the Tilehurst area of Reading. The club was established in 2001 as Highmoor Ibis by a merger of Highmoor and Ibis, both of which were playing in the Reading Senior League, Highmoor in the Senior Division and Ibis in the Premier Division. Ibis had also previously played in the Chiltonian League. The new club took Highmoor's place in the Senior Division and were league champions in 2003\u201304 without losing a match. They",
+      "children": [],
+      "layer1_tspans": [],
+      "scores": "[0.013333333333333334, 0.15333333333333332, 0.01, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]"
+    },
+    {
+      "index1": 9,
+      "text": "Document [10] (Title: Sport in Reading, Berkshire) the top division of English football. During their Premier League first season, they fractionally missed-out on UEFA Cup qualification. Reading Town Football Club, formed in 1966, played at Scours Lane and were playing in the Hellenic League Premier Division prior to folding in June 2016. Reading City Football Club (Formerly Highmoor Ibis) have since moved to Scours Lane and currently play in the Hellenic League Premier Division. Reading is a centre for rugby union football in the area, with the Aviva Premiership team London Irish as tenants at the Madejski Stadium. Reading is also home to another three senior semi-professional",
+      "children": [],
+      "layer1_tspans": [],
+      "scores": "[0.013333333333333334, 0.01, 0.0033333333333333335, 0.0033333333333333335, 0.0, 0.0, 0.09333333333333334, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]"
+    }
+  ],
+  "text_outputs": [
+    "Anton Zingarevich",
+    "John Madejski",
+    "Xiu Li Dai and Yongge Dai. 25% Owned",
+    "Sir John Madejski",
+    "Zingarevich",
+    "a Russian multi-billionaire.",
+    "Berkshire",
+    "alan johnson",
+    "Boris Zingarevich",
+    "Berkshire Hathaway",
+    "Berkshire County Council",
+    "Nigel Howe",
+    "Reading Football Club ownership structure: 75% Owned by Renhe Sports Management Ltd, 100%",
+    "Laureus Sport for Good Foundation",
+    "Nigel Adkins",
+    "Nigel Pearson",
+    "Nik Zingarevich",
+    "adrian zingarevich",
+    "Nigel Wray",
+    "a Russian multi-billionaire",
+    "efik Zingarevich",
+    "he formally purchased the club on 29 May 2012. Since then,",
+    "Niall Quinn",
+    "Xiu Li Dai and Yongge Dai",
+    "he formally purchased the club on 29 May 2012. Since then, Zingarevich",
+    "Nigel W. Read",
+    "a consortium of investors",
+    "Laureus Sportif Berkshire",
+    "Nigel W. Piper",
+    "Zingarevich has had minimum interest in the running of the club",
+    "a Russian multi-billionaire. At the age of 16, Zingarevich",
+    "Laurel Whelan",
+    "Zingarevich's bid to take over the club was announced in January 2012,"
+  ]
+}

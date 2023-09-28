@@ -1,0 +1,408 @@
+{
+  "children": [
+    {
+      "index1": 0,
+      "text": "Document [1] (Title: Deadpool 2) Deadpool 2 is scheduled to be released in the United States on May 18, 2018. A sequel, Deadpool 3, is in development.",
+      "children": [
+        {
+          "index1": 0,
+          "index2": 0,
+          "text": "Document [1] (Title: Deadpool 2)",
+          "children": [],
+          "scores": "[0.015, 0.095, 0.085, 0.005, 0.0, 0.0, 0.0, 0.005, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]"
+        },
+        {
+          "index1": 0,
+          "index2": 1,
+          "text": "Deadpool 2 is scheduled to be released in the United States on May 18, 2018. A sequel,",
+          "children": [
+            {
+              "index3": 0,
+              "text": "Deadpool",
+              "children": [],
+              "scores": "[0.0, 0.03, 0.01, 0.0, 0.0, 0.02, 0.0, 0.01, 0.0, 0.0, 0.01, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]"
+            },
+            {
+              "index3": 1,
+              "text": "2",
+              "children": [],
+              "scores": "[0.0, 0.02, 0.02, 0.0, 0.0, 0.07, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.01, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.01, 0.0, 0.0, 0.0, 0.01, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.01, 0.0, 0.0, 0.0]"
+            },
+            {
+              "index3": 2,
+              "text": "is",
+              "children": [],
+              "scores": "[0.0, 0.0, 0.0, 0.0, 0.0, 0.01, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.01, 0.0, 0.0, 0.0, 0.0, 0.01, 0.0, 0.0, 0.0, 0.0, 0.0, 0.01, 0.01, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]"
+            },
+            {
+              "index3": 3,
+              "text": "scheduled",
+              "children": [],
+              "scores": "[0.0, 0.01, 0.04, 0.0, 0.0, 0.01, 0.0, 0.01, 0.0, 0.0, 0.0, 0.01, 0.0, 0.0, 0.0, 0.0, 0.01, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.01, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]"
+            },
+            {
+              "index3": 4,
+              "text": "to",
+              "children": [],
+              "scores": "[0.0, 0.01, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]"
+            },
+            {
+              "index3": 5,
+              "text": "be",
+              "children": [],
+              "scores": "[0.0, 0.0, 0.0, 0.01, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.01]"
+            },
+            {
+              "index3": 6,
+              "text": "released",
+              "children": [],
+              "scores": "[0.0, 0.03, 0.04, 0.01, 0.0, 0.02, 0.0, 0.0, 0.0, 0.0, 0.01, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.01, 0.01, 0.0, 0.0, 0.0, 0.0, 0.0, 0.01, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.01, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]"
+            },
+            {
+              "index3": 7,
+              "text": "in",
+              "children": [],
+              "scores": "[0.01, 0.03, 0.0, 0.0, 0.0, 0.01, 0.0, 0.0, 0.01, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.02, 0.0, 0.0, 0.0, 0.01, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.01, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.01, 0.0, 0.0, 0.0, 0.0, 0.0, 0.01, 0.0, 0.0, 0.0, 0.0, 0.0]"
+            },
+            {
+              "index3": 8,
+              "text": "the",
+              "children": [],
+              "scores": "[0.0, 0.03, 0.01, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.01, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.01, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]"
+            },
+            {
+              "index3": 9,
+              "text": "United",
+              "children": [],
+              "scores": "[0.0, 0.02, 0.02, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.01, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.01, 0.0, 0.0, 0.0, 0.0]"
+            },
+            {
+              "index3": 10,
+              "text": "States",
+              "children": [],
+              "scores": "[0.0, 0.06, 0.04, 0.01, 0.0, 0.0, 0.0, 0.0, 0.01, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.01, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]"
+            },
+            {
+              "index3": 11,
+              "text": "on",
+              "children": [],
+              "scores": "[0.0, 0.01, 0.01, 0.0, 0.0, 0.0, 0.0, 0.0, 0.01, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.01, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.01, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]"
+            },
+            {
+              "index3": 12,
+              "text": "May",
+              "children": [],
+              "scores": "[0.0, 0.02, 0.22, 0.0, 0.0, 0.03, 0.0, 0.0, 0.0, 0.0, 0.03, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.01, 0.0, 0.0, 0.0, 0.01, 0.0, 0.0, 0.0, 0.0, 0.0, 0.01, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]"
+            },
+            {
+              "index3": 13,
+              "text": "18,",
+              "children": [],
+              "scores": "[0.0, 0.02, 0.08, 0.0, 0.0, 0.0, 0.0, 0.01, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.01, 0.0, 0.01, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]"
+            },
+            {
+              "index3": 14,
+              "text": "2018.",
+              "children": [],
+              "scores": "[0.0, 0.04, 0.02, 0.0, 0.0, 0.01, 0.0, 0.0, 0.0, 0.0, 0.06, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.01, 0.01, 0.0, 0.0, 0.0, 0.01, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.01, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.01, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.01, 0.0]"
+            },
+            {
+              "index3": 15,
+              "text": "A",
+              "children": [],
+              "scores": "[0.01, 0.02, 0.04, 0.0, 0.0, 0.0, 0.01, 0.0, 0.0, 0.0, 0.0, 0.01, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.01, 0.0, 0.0]"
+            },
+            {
+              "index3": 16,
+              "text": "sequel,",
+              "children": [],
+              "scores": "[0.0, 0.02, 0.01, 0.0, 0.0, 0.01, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.01, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]"
+            }
+          ],
+          "scores": "[0.0, 0.02, 0.415, 0.0, 0.0, 0.135, 0.0, 0.0, 0.005, 0.0, 0.0, 0.025, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]"
+        },
+        {
+          "index1": 0,
+          "index2": 2,
+          "text": "Deadpool 3, is in development.",
+          "children": [],
+          "scores": "[0.06, 0.07, 0.01, 0.0, 0.0, 0.0, 0.01, 0.085, 0.0, 0.005, 0.0, 0.015, 0.0, 0.005, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.005, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]"
+        }
+      ],
+      "layer1_tspans": [],
+      "scores": "[0.0, 0.043333333333333335, 0.4066666666666667, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]"
+    },
+    {
+      "index1": 1,
+      "text": "Document [2] (Title: Deadpool (film)) footage was leaked online in July 2014, and was met with an overwhelmingly enthusiastic response. That September, Fox gave \"Deadpool\" a release date of February 12, 2016. Production was set to begin in March 2015, with Simon Kinberg joining as producer. Reynolds attributed Fox's green-lighting of the film entirely to the leak. He, Miller and the writers had previously discussed leaking the footage themselves, and Reynolds initially thought that Miller had done so. He later believed the leak came from someone at Fox. In exchange for being able to make the film the way they wanted, Fox gave the crew",
+      "children": [],
+      "layer1_tspans": [],
+      "scores": "[0.04, 0.006666666666666667, 0.04, 0.05333333333333334, 0.14666666666666667, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]"
+    },
+    {
+      "index1": 2,
+      "text": "Document [3] (Title: Deadpool 2) Thanos, in the Marvel Cinematic Universe. Also in April, Leslie Uggams confirmed that she would be reprising her role of Blind Al from the first film, while Fox gave the sequel a June 1, 2018 release date. Noting the release date, Leitch wanted to ensure that the film \"was worthy of a summer tentpole movie, and we knew we were going to be wedged in between some big films\", specifically wanting to expand the action and make the general feeling of the film \"bigger\" than the first one. However, he wanted the film to have the same DNA as the",
+      "children": [
+        {
+          "index1": 2,
+          "index2": 0,
+          "text": "Document [3] (Title: Deadpool 2)",
+          "children": [],
+          "scores": "[0.0, 0.035, 0.015, 0.02, 0.0, 0.0, 0.0, 0.0, 0.005, 0.005, 0.0, 0.0, 0.0, 0.01, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.005, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.005, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]"
+        },
+        {
+          "index1": 2,
+          "index2": 1,
+          "text": "Thanos,",
+          "children": [],
+          "scores": "[0.025, 0.015, 0.02, 0.0, 0.005, 0.0, 0.005, 0.0, 0.0, 0.0, 0.005, 0.005, 0.0, 0.0, 0.0, 0.0, 0.0, 0.01, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]"
+        },
+        {
+          "index1": 2,
+          "index2": 2,
+          "text": "in the Marvel Cinematic Universe.",
+          "children": [],
+          "scores": "[0.0, 0.045, 0.005, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.005, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]"
+        },
+        {
+          "index1": 2,
+          "index2": 3,
+          "text": "Also in April,",
+          "children": [],
+          "scores": "[0.0, 0.035, 0.015, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.005, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.005, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]"
+        },
+        {
+          "index1": 2,
+          "index2": 4,
+          "text": "Leslie Uggams confirmed that she would be reprising her role of Blind Al from the first film,",
+          "children": [],
+          "scores": "[0.005, 0.015, 0.025, 0.01, 0.005, 0.0, 0.005, 0.0, 0.005, 0.005, 0.0, 0.0, 0.01, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.005, 0.005, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]"
+        },
+        {
+          "index1": 2,
+          "index2": 5,
+          "text": "while Fox gave the sequel a June 1, 2018 release date.",
+          "children": [
+            {
+              "index3": 0,
+              "text": "while",
+              "children": [],
+              "scores": "[0.0, 0.02, 0.0, 0.0, 0.0, 0.0, 0.01, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]"
+            },
+            {
+              "index3": 1,
+              "text": "Fox",
+              "children": [],
+              "scores": "[0.03, 0.0, 0.0, 0.0, 0.01, 0.02, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.01, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]"
+            },
+            {
+              "index3": 2,
+              "text": "gave",
+              "children": [],
+              "scores": "[0.0, 0.02, 0.01, 0.01, 0.0, 0.01, 0.01, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]"
+            },
+            {
+              "index3": 3,
+              "text": "the",
+              "children": [],
+              "scores": "[0.01, 0.02, 0.01, 0.0, 0.0, 0.0, 0.01, 0.0, 0.0, 0.01, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.01, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.01, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]"
+            },
+            {
+              "index3": 4,
+              "text": "sequel",
+              "children": [],
+              "scores": "[0.07, 0.02, 0.01, 0.01, 0.0, 0.0, 0.01, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.01, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]"
+            },
+            {
+              "index3": 5,
+              "text": "a",
+              "children": [],
+              "scores": "[0.06, 0.05, 0.0, 0.0, 0.0, 0.0, 0.01, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]"
+            },
+            {
+              "index3": 6,
+              "text": "June",
+              "children": [],
+              "scores": "[0.4, 0.11, 0.0, 0.0, 0.0, 0.01, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]"
+            },
+            {
+              "index3": 7,
+              "text": "1,",
+              "children": [],
+              "scores": "[0.17, 0.01, 0.07, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.01, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]"
+            },
+            {
+              "index3": 8,
+              "text": "2018",
+              "children": [],
+              "scores": "[0.2, 0.15, 0.0, 0.01, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.02, 0.02, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.01, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]"
+            },
+            {
+              "index3": 9,
+              "text": "release",
+              "children": [],
+              "scores": "[0.03, 0.03, 0.01, 0.0, 0.0, 0.0, 0.01, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.01, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]"
+            },
+            {
+              "index3": 10,
+              "text": "date.",
+              "children": [],
+              "scores": "[0.02, 0.0, 0.02, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.01, 0.0, 0.0, 0.01, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.01, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]"
+            }
+          ],
+          "scores": "[0.89, 0.035, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.005, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]"
+        },
+        {
+          "index1": 2,
+          "index2": 6,
+          "text": "Noting the release date,",
+          "children": [],
+          "scores": "[0.03, 0.01, 0.005, 0.0, 0.0, 0.005, 0.0, 0.0, 0.0, 0.005, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.005, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]"
+        },
+        {
+          "index1": 2,
+          "index2": 7,
+          "text": "Leitch wanted to ensure that the film \"was worthy of a summer tentpole movie,",
+          "children": [],
+          "scores": "[0.01, 0.015, 0.025, 0.005, 0.0, 0.0, 0.0, 0.0, 0.0, 0.005, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.005, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]"
+        },
+        {
+          "index1": 2,
+          "index2": 8,
+          "text": "and we knew we were going to be wedged in between some big films\", specifically wanting to expand the action and make the general feeling of the film \"bigger\" than the first one.",
+          "children": [],
+          "scores": "[0.0, 0.025, 0.0, 0.005, 0.005, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.005, 0.005, 0.005, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]"
+        },
+        {
+          "index1": 2,
+          "index2": 9,
+          "text": "However,",
+          "children": [],
+          "scores": "[0.005, 0.04, 0.005, 0.0, 0.0, 0.0, 0.005, 0.0, 0.0, 0.0, 0.0, 0.005, 0.015, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]"
+        },
+        {
+          "index1": 2,
+          "index2": 10,
+          "text": "he wanted the film to have the same DNA as the",
+          "children": [],
+          "scores": "[0.005, 0.055, 0.0, 0.0, 0.0, 0.005, 0.0, 0.0, 0.01, 0.0, 0.0, 0.0, 0.02, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]"
+        }
+      ],
+      "layer1_tspans": [],
+      "scores": "[0.9266666666666666, 0.04, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]"
+    },
+    {
+      "index1": 3,
+      "text": "Document [4] (Title: Deadpool 2) Plans for a sequel to \"Deadpool\" began before that film's release, and were confirmed in February 2016. Though the original creative team of Reynolds, Reese, Wernick, and director Tim Miller were quickly set to return for the second film, Miller left the project in October 2016 due to creative differences with Reynolds and was soon replaced by Leitch. An extensive casting search took place to fill the role of Cable, with Brolin ultimately cast. Filming took place in British Columbia, Canada, from June to October 2017. During filming, stunt woman Joi \"SJ\" Harris died in a motorcycle accident; the film",
+      "children": [],
+      "layer1_tspans": [],
+      "scores": "[0.01, 0.13, 0.013333333333333334, 0.006666666666666667, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]"
+    },
+    {
+      "index1": 4,
+      "text": "Document [5] (Title: Deadpool (film)) said that the company would be willing to make future R-rated Marvel films like \"Deadpool\", potentially under a \"Marvel-R\" brand, \"as long as we let the audiences know what's coming\". Before \"Deadpool\"s release, Fox green-lit a sequel with Reese and Wernick returning to write the screenplay. The involvement of Reynolds and Tim Miller was confirmed at the 2016 CinemaCon in April, but at the end of October, Miller left the film over \"mutual creative differences\" with Reynolds. The next month, David Leitch signed on to replace Miller for the sequel. Leitch first made a short film, \"No Good Deed\", which",
+      "children": [],
+      "layer1_tspans": [],
+      "scores": "[0.006666666666666667, 0.19333333333333333, 0.01, 0.01, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]"
+    },
+    {
+      "index1": 5,
+      "text": "Document [6] (Title: Deadpool (film)) of 21st Century Fox by Disney was announced in December 2017, Bob Iger said that Deadpool would be integrated with the Marvel Cinematic Universe under Disney. Deadpool (film) Deadpool is a 2016 American superhero film based on the Marvel Comics character of the same name, distributed by 20th Century Fox. It is the eighth installment of the \"X-Men\" film series and the first standalone \"Deadpool\" film. Directed by Tim Miller from a screenplay by Rhett Reese and Paul Wernick, the film stars Ryan Reynolds as Wade Wilson / Deadpool alongside Morena Baccarin, Ed Skrein, T. J. Miller, Gina Carano and",
+      "children": [],
+      "layer1_tspans": [],
+      "scores": "[0.01, 0.20666666666666667, 0.013333333333333334, 0.006666666666666667, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]"
+    },
+    {
+      "index1": 6,
+      "text": "Document [7] (Title: Deadpool 2) film, explaining its general plot, was released at the end of March. \"Forbes\" contributor Scott Mendelson called it \"pretty funny and mostly entertaining\", but was disappointed in it being a \"conventional\" trailer compared to the more out-there videos previously released for the film. He explained that he thought the first film \"had a winning lead character and fine character-centric jokes, but a pretty generic origin story plot that eventually became the thing it was critiquing\", and was concerned that the sequel would turn out to be \"a more standard'superhero sequel' sell\". Mendelson also noted the inclusion of T.J. Miller",
+      "children": [],
+      "layer1_tspans": [],
+      "scores": "[0.0033333333333333335, 0.03, 0.03, 0.11, 0.0, 0.0033333333333333335, 0.0, 0.0, 0.0, 0.006666666666666667, 0.0, 0.0, 0.0, 0.0033333333333333335, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]"
+    },
+    {
+      "index1": 7,
+      "text": "Document [8] (Title: Deadpool (film)) Deadpool (film) Deadpool is a 2016 American superhero film based on the Marvel Comics character of the same name, distributed by 20th Century Fox. It is the eighth installment of the \"X-Men\" film series and the first standalone \"Deadpool\" film. Directed by Tim Miller from a screenplay by Rhett Reese and Paul Wernick, the film stars Ryan Reynolds as Wade Wilson / Deadpool alongside Morena Baccarin, Ed Skrein, T. J. Miller, Gina Carano and Brianna Hildebrand. In the film, Wilson\u2014as the antihero Deadpool\u2014hunts down the man who gave him mutant abilities and caused his scarred physical appearance. Development of a",
+      "children": [],
+      "layer1_tspans": [],
+      "scores": "[0.02, 0.20333333333333334, 0.013333333333333334, 0.0, 0.0, 0.0033333333333333335, 0.0033333333333333335, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]"
+    },
+    {
+      "index1": 8,
+      "text": "Document [9] (Title: Deadpool (film)) Deadpool film starring Reynolds began in February 2004, before he went on to play the character in \"\" in 2009. Reese and Wernick were hired for a spinoff in 2010. They worked with Reynolds to adapt the character more faithfully (including his fourth wall breaking) after the portrayal in \"Wolverine\" was criticized for not doing so. Miller was hired in 2011 marking his directorial debut. An enthusiastic response to leaked test footage he created with Reynolds led to a green-light from Fox in 2014. Additional casting began in early 2015, and filming took place in Vancouver, Canada, from March to",
+      "children": [],
+      "layer1_tspans": [],
+      "scores": "[0.02666666666666667, 0.05, 0.006666666666666667, 0.10666666666666667, 0.0, 0.0, 0.03333333333333333, 0.0, 0.0, 0.0, 0.0, 0.0033333333333333335, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]"
+    },
+    {
+      "index1": 9,
+      "text": "Document [10] (Title: Deadpool 2) then [\"Deadpool 3\" is] where we're contracting and staying personal and small.\" After the proposed acquisition of 21st Century Fox by Disney was announced in December 2017, Disney CEO Bob Iger said that Deadpool would be integrated with the Marvel Cinematic Universe (MCU) under Disney, and that the company would be willing to make future R-rated Deadpool films \"as long as we let the audiences know what's coming\". In May 2018, Reynolds stated that a third Deadpool film may not be made given the franchise's shift of focus to X-Force, though Reese and Wernick felt a third film would \"absolutely\"",
+      "children": [],
+      "layer1_tspans": [],
+      "scores": "[0.07, 0.25333333333333335, 0.0, 0.0, 0.0, 0.0, 0.04, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]"
+    }
+  ],
+  "text_outputs": [
+    "June 1, 2018",
+    "2018",
+    "May 18, 2018",
+    "February 14, 2018",
+    "February 12, 2016",
+    "Deadpool 2 is scheduled to be released in the United States on May 18, 2018.",
+    "2019",
+    "Deadpool 3, is in development.",
+    "Deadpool 2",
+    "February 12, 2016.",
+    "May 18, 2018.",
+    "Deadpool 2 is scheduled to be released in the United States on May 18, 2018. A sequel,",
+    "December 1, 2017",
+    "February 12, 2018",
+    "February 1, 2018",
+    "1, 2018",
+    "Deadpool 2 is scheduled to be released in the United States on June 1, 2018.",
+    "April 12, 2018",
+    "Deadpool 2 is scheduled to be released in the United States on 18, 2018.",
+    "May 2018",
+    "Deadpool 2 is scheduled to be released in the United States on May 18, 2018",
+    "Deadpool 2 is scheduled to be released in the United States on December 18, 2018.",
+    "Deadpool 2 is to be released in the United States on February 18, 2018.",
+    "Deadpool 2 is to be released in the United States on May 18, 2018.",
+    "February 14, 2020",
+    "Also in April",
+    "2018.",
+    "February 18, 2017",
+    "Deadpool 2 is scheduled to be released on February 14, 2020.",
+    "Deadpool is scheduled to be released in the United States on May 18, 2018.",
+    "Deadpool is scheduled to be released in the United States on 18, 2018. A sequel, Deadpool",
+    "Deadpool 2 is scheduled to be released on February 14, 2018",
+    "be released in the United States on May 18, 2018",
+    "May 1, 2018",
+    "Also in April,",
+    "in the Marvel Cinematic Universe. Also in April, 2018",
+    "in 2018",
+    "in the Marvel Cinematic Universe. Also in April, Leslie Uggams confirmed that",
+    "December 1, 2018",
+    "February 14, 2019",
+    "Deadpool 2 is set to be released in the United States on May 18, 2018.",
+    "Deadpool 2 is scheduled to be released on May 18, 2018.",
+    "Deadpool 2 is scheduled to be released in the United States on February 18, 2018.",
+    "Deadpool 2 is scheduled to be released to the United States on May 18, 2018.",
+    "Deadpool 2 is to be released in the United States on 18, 2018.",
+    "gave a 1, 2018 release date.",
+    "gave the the 1, 2018 release date.",
+    "Fox gave the sequel a 1, 2018 release date.",
+    "Deadpool 2 is in development.",
+    "Deadpool 2 is scheduled to be released on February 18, 2016.",
+    "Deadpool 2 is scheduled to be released in 2018",
+    "Deadpool 2 is scheduled to be released in the United States on February 18, 2018. A sequel,",
+    "Deadpool 2 is scheduled to be released in the United States on June 18, 2018.",
+    "Deadpool 2 is be released in the United States on May",
+    "Deadpool 2 is scheduled to be released on June 1, 2018.",
+    "Deadpool 3 is scheduled to be released in the United States on February 14, 2018.",
+    "Deadpool 3 is scheduled to be released in the United States on 2018.",
+    "Deadpool 3 is scheduled to be released in the United States on May 18, 2018.",
+    "Deadpool 2 is scheduled for release on February 14, 2020",
+    "Deadpool 2 is scheduled to be released on February 14, 2020",
+    "Deadpool 2 is scheduled to released to the United States on 18, 2018. A Deadpool 3, is",
+    "Deadpool 2 is scheduled to be released in the United States on May 18, 2018. A Deadpool"
+  ]
+}

@@ -1,0 +1,293 @@
+{
+  "children": [
+    {
+      "index1": 0,
+      "text": "Document [1] (Title: List of Dragon Ball Z episodes) long-running anime sequel to the Dragon Ball TV series, adapted from the final twenty-six volumes of the Dragon Ball manga written by Akira Toriyama. The manga portion of the series debuted in Weekly Sh<unk>nen Jump in October 4, 1988 and lasted until 1995; the anime adaptation premiered in Japan on Fuji Television on April 26, 1989, taking over its predecessor's time slot, and ran until its end on January 31, 1996, lasting 291 episodes in Japan, and 276 episodes in the United States originally, although all 291 episodes were later broadcast when content from the first 67 episodes was restored.",
+      "children": [
+        {
+          "index1": 0,
+          "index2": 0,
+          "text": "Document [1] (Title: List of Dragon Ball Z episodes)",
+          "children": [],
+          "scores": "[0.0, 0.115, 0.02, 0.025, 0.02, 0.0, 0.02, 0.045, 0.0, 0.0, 0.005, 0.0, 0.005, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.005, 0.0, 0.0, 0.005, 0.0, 0.0]"
+        },
+        {
+          "index1": 0,
+          "index2": 1,
+          "text": "long-running anime sequel to the Dragon Ball TV series,",
+          "children": [],
+          "scores": "[0.005, 0.005, 0.0, 0.005, 0.005, 0.02, 0.0, 0.01, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.005, 0.005, 0.005]"
+        },
+        {
+          "index1": 0,
+          "index2": 2,
+          "text": "adapted from the final twenty-six volumes of the Dragon Ball manga written by Akira Toriyama.",
+          "children": [],
+          "scores": "[0.03, 0.01, 0.005, 0.02, 0.0, 0.0, 0.0, 0.0, 0.0, 0.005, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.015, 0.01, 0.005, 0.0, 0.005, 0.0, 0.0, 0.0]"
+        },
+        {
+          "index1": 0,
+          "index2": 3,
+          "text": "The manga portion of the series debuted in Weekly Sh<unk>nen Jump in October 4, 1988 and lasted until 1995; the anime adaptation premiered in Japan on Fuji Television on April 26, 1989,",
+          "children": [],
+          "scores": "[0.03, 0.005, 0.025, 0.045, 0.0, 0.02, 0.02, 0.01, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.005, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]"
+        },
+        {
+          "index1": 0,
+          "index2": 4,
+          "text": "taking over its predecessor's time slot,",
+          "children": [],
+          "scores": "[0.005, 0.005, 0.01, 0.005, 0.0, 0.0, 0.0, 0.01, 0.0, 0.0, 0.0, 0.005, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]"
+        },
+        {
+          "index1": 0,
+          "index2": 5,
+          "text": "and ran until its end on January 31, 1996,",
+          "children": [],
+          "scores": "[0.015, 0.0, 0.01, 0.005, 0.0, 0.01, 0.0, 0.015, 0.0, 0.01, 0.0, 0.005, 0.0, 0.0, 0.0, 0.0, 0.005, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]"
+        },
+        {
+          "index1": 0,
+          "index2": 6,
+          "text": "lasting 291 episodes in Japan,",
+          "children": [
+            {
+              "index3": 0,
+              "text": "lasting",
+              "children": [],
+              "scores": "[0.0, 0.22, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]"
+            },
+            {
+              "index3": 1,
+              "text": "291",
+              "children": [],
+              "scores": "[0.17, 0.28, 0.01, 0.0, 0.0, 0.0, 0.01, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]"
+            },
+            {
+              "index3": 2,
+              "text": "episodes",
+              "children": [],
+              "scores": "[0.28, 0.05, 0.01, 0.0, 0.0, 0.01, 0.01, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]"
+            },
+            {
+              "index3": 3,
+              "text": "in",
+              "children": [],
+              "scores": "[0.1, 0.02, 0.01, 0.0, 0.01, 0.0, 0.01, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]"
+            },
+            {
+              "index3": 4,
+              "text": "Japan,",
+              "children": [],
+              "scores": "[0.03, 0.02, 0.01, 0.0, 0.0, 0.0, 0.0, 0.01, 0.0, 0.0, 0.04, 0.0, 0.0, 0.0, 0.0, 0.0, 0.01, 0.0, 0.0, 0.01, 0.0, 0.0, 0.0, 0.0, 0.0]"
+            }
+          ],
+          "scores": "[0.465, 0.315, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]"
+        },
+        {
+          "index1": 0,
+          "index2": 7,
+          "text": "and 276 episodes in the United States originally,",
+          "children": [],
+          "scores": "[0.255, 0.0, 0.005, 0.0, 0.015, 0.005, 0.21, 0.0, 0.0, 0.06, 0.015, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]"
+        },
+        {
+          "index1": 0,
+          "index2": 8,
+          "text": "although all 291 episodes were later broadcast when content from the first 67 episodes was restored.",
+          "children": [
+            {
+              "index3": 0,
+              "text": "although",
+              "children": [],
+              "scores": "[0.02, 0.04, 0.0, 0.01, 0.02, 0.0, 0.0, 0.0, 0.0, 0.01, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.01, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]"
+            },
+            {
+              "index3": 1,
+              "text": "all",
+              "children": [],
+              "scores": "[0.0, 0.19, 0.0, 0.0, 0.01, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]"
+            },
+            {
+              "index3": 2,
+              "text": "291",
+              "children": [],
+              "scores": "[0.05, 0.23, 0.01, 0.0, 0.0, 0.0, 0.02, 0.01, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]"
+            },
+            {
+              "index3": 3,
+              "text": "episodes",
+              "children": [],
+              "scores": "[0.06, 0.05, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]"
+            },
+            {
+              "index3": 4,
+              "text": "were",
+              "children": [],
+              "scores": "[0.0, 0.02, 0.03, 0.01, 0.0, 0.0, 0.0, 0.01, 0.0, 0.01, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]"
+            },
+            {
+              "index3": 5,
+              "text": "later",
+              "children": [],
+              "scores": "[0.0, 0.01, 0.0, 0.01, 0.0, 0.01, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]"
+            },
+            {
+              "index3": 6,
+              "text": "broadcast",
+              "children": [],
+              "scores": "[0.0, 0.02, 0.0, 0.02, 0.0, 0.01, 0.0, 0.0, 0.0, 0.01, 0.0, 0.0, 0.0, 0.0, 0.0, 0.01, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]"
+            },
+            {
+              "index3": 7,
+              "text": "when",
+              "children": [],
+              "scores": "[0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.01, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]"
+            },
+            {
+              "index3": 8,
+              "text": "content",
+              "children": [],
+              "scores": "[0.0, 0.03, 0.01, 0.0, 0.0, 0.01, 0.0, 0.01, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]"
+            },
+            {
+              "index3": 9,
+              "text": "from",
+              "children": [],
+              "scores": "[0.0, 0.01, 0.0, 0.01, 0.0, 0.02, 0.01, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]"
+            },
+            {
+              "index3": 10,
+              "text": "the",
+              "children": [],
+              "scores": "[0.0, 0.01, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]"
+            },
+            {
+              "index3": 11,
+              "text": "first",
+              "children": [],
+              "scores": "[0.0, 0.02, 0.0, 0.0, 0.0, 0.0, 0.01, 0.01, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]"
+            },
+            {
+              "index3": 12,
+              "text": "67",
+              "children": [],
+              "scores": "[0.01, 0.01, 0.0, 0.02, 0.0, 0.0, 0.0, 0.01, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.01, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]"
+            },
+            {
+              "index3": 13,
+              "text": "episodes",
+              "children": [],
+              "scores": "[0.0, 0.01, 0.0, 0.0, 0.0, 0.0, 0.01, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.01, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]"
+            },
+            {
+              "index3": 14,
+              "text": "was",
+              "children": [],
+              "scores": "[0.0, 0.02, 0.0, 0.0, 0.0, 0.0, 0.01, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]"
+            },
+            {
+              "index3": 15,
+              "text": "restored.",
+              "children": [],
+              "scores": "[0.02, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]"
+            }
+          ],
+          "scores": "[0.0, 0.51, 0.0, 0.005, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.005, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]"
+        }
+      ],
+      "layer1_tspans": [],
+      "scores": "[0.56, 0.44, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]"
+    },
+    {
+      "index1": 1,
+      "text": "Document [2] (Title: Dragon Ball Z) 33 DVDs and in fullscreen on a single Blu-ray and eight four-disc Blu-ray sets from September 18, 2009, to August 2, 2011. Funimation released eight DVD and Blu-ray box sets of \"Dragon Ball Z Kai\" from May 18, 2010 to June 5, 2012. These sets contain the original Japanese audio track with English subtitles, as well as the uncut version of the English dub, which does not contain any of the edits made for the TV airings. Before the final volume was even published, Funimation began re-releasing the series in four DVD and Blu-ray \"season\" sets between May 22, 2012",
+      "children": [],
+      "layer1_tspans": [],
+      "scores": "[0.013333333333333334, 0.0033333333333333335, 0.13666666666666666, 0.0, 0.04666666666666667, 0.0, 0.0, 0.013333333333333334, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.02, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]"
+    },
+    {
+      "index1": 2,
+      "text": "Document [3] (Title: Dragon Ball Z) cropped the entire series into 16:9 widescreen format and began re-releasing it to DVD in nine individual \"season\" box sets; the first set released on February 6, 2007 and the final on May 19, 2009. In July 2009, Funimation announced that they would be releasing the Japanese frame-by-frame \"Dragon Box\" restoration of \"Dragon Ball Z\" in North America. These seven limited edition DVD box sets were released uncut in the show's original 4:3 fullscreen format between November 10, 2009 and October 11, 2011. In July 2011, Funimation announced plans to release \"Dragon Ball Z\" in Blu-ray format, with the first",
+      "children": [],
+      "layer1_tspans": [],
+      "scores": "[0.01, 0.0033333333333333335, 0.12666666666666668, 0.0033333333333333335, 0.023333333333333334, 0.0, 0.0, 0.006666666666666667, 0.0, 0.0, 0.0, 0.0, 0.013333333333333334, 0.0033333333333333335, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]"
+    },
+    {
+      "index1": 3,
+      "text": "Document [4] (Title: Dragon Ball Z) manga. He said the reception to \"Kai\" was positive and Bandai had a hit with a card game, so it all worked out. The series initially concluded with the finale of the Cell arc, as opposed to including the Majin Buu arc. It was originally planned to run 98 episodes, however, due to the T<unk>hoku offshore earthquake and tsunami, the final episode of \"Dragon Ball Kai\" was not aired and the series ended on its 97th episode in Japan on March 27, 2011. The 98th episode was later released direct-to-video in Japan on August 2, 2011. In November 2012, Mayumi",
+      "children": [],
+      "layer1_tspans": [],
+      "scores": "[0.016666666666666666, 0.0033333333333333335, 0.0, 0.32, 0.02666666666666667, 0.03666666666666667, 0.0, 0.06333333333333334, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0033333333333333335, 0.0, 0.0, 0.0]"
+    },
+    {
+      "index1": 4,
+      "text": "Document [5] (Title: Dragon Ball Z) as of January 2012. \"Dragon Ball Z\" was listed as the 78th best animated show in IGN's \"Top 100 Animated Series\", and was also listed as the 50th greatest animated show in \"Wizard\" magazine's \"Top 100 Greatest Animated shows\" list. The series ranked #6 on \"Wizard's Anime\" Magazine on their \"Top 50 Anime released in North America\". \"Dragon Ball Z\"s popularity is reflected through a variety of data through online interactions which show the popularity of the media. In 2001, it was reported that the official website of \"Dragon Ball Z\" recorded 4.7 million hits per day and included 500,000+",
+      "children": [],
+      "layer1_tspans": [],
+      "scores": "[0.02, 0.0, 0.14, 0.0033333333333333335, 0.013333333333333334, 0.0033333333333333335, 0.0, 0.013333333333333334, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]"
+    },
+    {
+      "index1": 5,
+      "text": "Document [6] (Title: Dragon Ball Z) Edition,\" which collects three individual volumes into a single large volume. However, in 2013 Viz began publishing new 3-in-1 volumes collecting the entire manga series, including what they previously released as \"Dragon Ball Z\", under the \"Dragon Ball\" name. The \"Dragon Ball Z\" films comprise a total of 15 entries as of 2015. The first 13 films were typically released every March and July during the series' original run in accordance with the spring and summer vacations of Japanese schools. They were typically double features paired up with other anime films, and were thus, usually an hour or less in",
+      "children": [],
+      "layer1_tspans": [],
+      "scores": "[0.01, 0.0033333333333333335, 0.04666666666666667, 0.0, 0.0, 0.03666666666666667, 0.0, 0.0033333333333333335, 0.13, 0.0, 0.0, 0.016666666666666666, 0.013333333333333334, 0.013333333333333334, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0033333333333333335, 0.0, 0.0, 0.0, 0.0]"
+    },
+    {
+      "index1": 6,
+      "text": "Document [7] (Title: Dragon Ball Z) with both the American and Japanese background music. In January 2011, Funimation and Toei announced that they would stream \"Dragon Ball Z\" within 30 minutes before their simulcast of \"One Piece\". As of 2017, \"Dragon Ball Z\" is no longer being streamed on Hulu. The Funimation dubbed episodes also aired in Canada, Ireland, the United Kingdom, the Netherlands, Belgium, Australia and New Zealand. However, beginning with episode 108 (123 uncut), AB Groupe and Westwood Media (in association with Ocean Studios) produced an alternate English dub. The alternate dub was created for broadcast in the UK, the Netherlands and Ireland, although",
+      "children": [],
+      "layer1_tspans": [],
+      "scores": "[0.013333333333333334, 0.01, 0.11333333333333333, 0.0, 0.21666666666666667, 0.08666666666666667, 0.0, 0.04666666666666667, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]"
+    },
+    {
+      "index1": 7,
+      "text": "Document [8] (Title: Dragon Ball Z) also released on VHS in 1999, and on DVD in 2001. Funimation's own distribution of their initial in-house dub, which began with episode 54, in edited or uncut VHS ran between 2000 and 2003. A DVD version was produced alongside these, although they were only produced uncut and contained the option to watch the original Japanese with subtitles. In 2005, Funimation began releasing their in-house dub of the beginning of \"Dragon Ball Z\" on DVD, marking the first time the episodes were seen uncut in North America. However, only nine volumes were released, leaving it incomplete. Instead, Funimation remastered and",
+      "children": [],
+      "layer1_tspans": [],
+      "scores": "[0.06666666666666667, 0.0, 0.12, 0.0, 0.03666666666666667, 0.01, 0.0, 0.016666666666666666, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]"
+    },
+    {
+      "index1": 8,
+      "text": "Document [9] (Title: Dragon Ball Z) in two 26-disc DVD box sets, that were made-to-order only, released on March 19 and September 18 and referred to as \"Dragon Boxes.\" The content of these sets began being released on mass-produced individual 6-episode DVDs on November 2, 2005 and finished with the 49th volume released on February 7, 2007. The international home release structure of \"Dragon Ball Z\" is complicated by the licensing and release of the companies involved in producing and distributing the work. Releases of the media occurred on both VHS and DVD with separate edited and uncut versions being released simultaneously. Both versions of the",
+      "children": [],
+      "layer1_tspans": [],
+      "scores": "[0.06, 0.006666666666666667, 0.13, 0.0, 0.023333333333333334, 0.01, 0.0, 0.013333333333333334, 0.0, 0.0, 0.0, 0.013333333333333334, 0.0, 0.0033333333333333335, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]"
+    },
+    {
+      "index1": 9,
+      "text": "Document [10] (Title: Toonami Jetstream) aired on TV, and previous episodes were available on thirty-two edited DVD volumes, and now available on eight uncut DVD sets by Viz Media. The subtitled uncut episodes are also streaming on Crunchyroll. The episodes on Toonami Jetstream were repeats. \"Dragon Ball Z\", \"Samurai Jack\", \"\", \"Dragon Ball\", \"Pok\u00e9mon Chronicles\", \"Megas XLR\" and \"Bobobo-bo Bo-bobo\" have already been aired completely on Cartoon Network. While \"Samurai Jack\" has only aired a small portion of its episodes on Toonami, it has been completely aired on Cartoon Network and all four seasons of the show are available on DVD and a complete series",
+      "children": [],
+      "layer1_tspans": [],
+      "scores": "[0.26, 0.0, 0.14333333333333334, 0.01, 0.016666666666666666, 0.07333333333333333, 0.0, 0.013333333333333334, 0.0, 0.0, 0.0, 0.0, 0.0, 0.006666666666666667, 0.006666666666666667, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0033333333333333335, 0.0, 0.0, 0.0, 0.0]"
+    }
+  ],
+  "text_outputs": [
+    "291 episodes",
+    "291",
+    "151",
+    "98",
+    "153",
+    "108",
+    "276 episodes",
+    "123",
+    "The \"Dragon Ball Z\" films comprise a total of 15 entries as of 2015.",
+    "276",
+    "260",
+    "49",
+    "15",
+    "a total of 151",
+    "33",
+    "67",
+    "a total of 291 episodes",
+    "adapted from the final twenty-six volumes of the Dragon Ball manga written by Akir",
+    "97",
+    "233",
+    "a total of 151 episodes",
+    "131",
+    "List of Dragon Ball Z episodes",
+    "78",
+    "a total of 276 episodes"
+  ]
+}

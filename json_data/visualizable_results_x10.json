@@ -1,0 +1,300 @@
+{
+  "children": [
+    {
+      "index1": 0,
+      "text": "Document [1] (Title: The Curse of Oak Island) The Curse of Oak Island follows brothers Marty and Rick Lagina, originally from Kingsford, Michigan, through their efforts to find the speculated treasure or historical artifacts believed to be on Oak Island. The series discusses the history of the island, recent discoveries, theories, and prior attempts to investigate the site. Areas of interest include the \"Money Pit\", Borehole 10-x, Smith's Cove, \"Nolan's Cross\", the \"Hatch\", the \"Watchtower\" and the \"Swamp\".",
+      "children": [],
+      "layer1_tspans": [],
+      "scores": "[0.08333333333333333, 0.18666666666666668, 0.02, 0.31333333333333335, 0.0, 0.013333333333333334, 0.0, 0.02, 0.03333333333333333, 0.0033333333333333335, 0.006666666666666667, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]"
+    },
+    {
+      "index1": 1,
+      "text": "Document [2] (Title: Oak Harbor, Washington) scenic vistas of the San Juan Islands, Victoria (British Columbia, Canada), Mount Baker, and Fidalgo Island. Oak Harbor is located at (48.295136, -122.658553). According to the United States Census Bureau, the city has a total area of, of which, is land and is water. Access to the island by land is only available by driving through Deception Pass. Other ways to travel to Whidbey Island include flying or utilizing a ferry service. The Mukilteo-Clinton Ferry provides service connecting the southern end of Whidbey Island and just north of Seattle, WA. Surveys of shorelines throughout the Puget Sound region have",
+      "children": [],
+      "layer1_tspans": [],
+      "scores": "[0.02, 0.15, 0.01, 0.18, 0.0, 0.0033333333333333335, 0.0033333333333333335, 0.0, 0.0, 0.11666666666666667, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.006666666666666667, 0.0, 0.0, 0.0, 0.0, 0.0033333333333333335, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]"
+    },
+    {
+      "index1": 2,
+      "text": "Document [3] (Title: Oak Island, North Carolina) the early 19th century; Fort Caswell was built on its eastern end in 1838. The remainder of the island was developed beginning in the late 1930s, attracting people from nearby Southport. Fox hunting was popular in the northern area near the Intracoastal Waterway. The island was nearly wiped out by Hurricane Hazel in 1954; only five buildings were left standing on Long Beach in the hurricane's wake. The island quickly recovered, and the towns of Long Beach and Yaupon Beach were incorporated in 1955. Other hurricanes, such as Diana in 1984, Bertha and Fran in 1996 and Floyd in 1999,",
+      "children": [
+        {
+          "index1": 2,
+          "index2": 0,
+          "text": "Document [3] (Title: Oak Island, North Carolina)",
+          "children": [],
+          "scores": "[0.28, 0.04, 0.0, 0.01, 0.0, 0.005, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.005, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]"
+        },
+        {
+          "index1": 2,
+          "index2": 1,
+          "text": "the early 19th century; Fort Caswell was built on its eastern end in 1838.",
+          "children": [],
+          "scores": "[0.03, 0.01, 0.01, 0.035, 0.0, 0.0, 0.005, 0.0, 0.0, 0.0, 0.0, 0.01, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]"
+        },
+        {
+          "index1": 2,
+          "index2": 2,
+          "text": "The remainder of the island was developed beginning in the late 1930s,",
+          "children": [],
+          "scores": "[0.01, 0.015, 0.0, 0.005, 0.0, 0.0, 0.005, 0.0, 0.0, 0.0, 0.005, 0.005, 0.0, 0.0, 0.0, 0.005, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.005, 0.0, 0.0, 0.0, 0.0, 0.0]"
+        },
+        {
+          "index1": 2,
+          "index2": 3,
+          "text": "attracting people from nearby Southport.",
+          "children": [],
+          "scores": "[0.015, 0.005, 0.0, 0.005, 0.0, 0.005, 0.0, 0.0, 0.0, 0.0, 0.0, 0.005, 0.0, 0.03, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]"
+        },
+        {
+          "index1": 2,
+          "index2": 4,
+          "text": "Fox hunting was popular in the northern area near the Intracoastal Waterway.",
+          "children": [],
+          "scores": "[0.03, 0.03, 0.01, 0.005, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.025, 0.005, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.005, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]"
+        },
+        {
+          "index1": 2,
+          "index2": 5,
+          "text": "The island was nearly wiped out by Hurricane Hazel in 1954; only five buildings were left standing on Long Beach in the hurricane's wake.",
+          "children": [],
+          "scores": "[0.015, 0.04, 0.0, 0.01, 0.0, 0.01, 0.005, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.01, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]"
+        },
+        {
+          "index1": 2,
+          "index2": 6,
+          "text": "The island quickly recovered,",
+          "children": [],
+          "scores": "[0.015, 0.015, 0.0, 0.015, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.005, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.005, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.005, 0.0, 0.005, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]"
+        },
+        {
+          "index1": 2,
+          "index2": 7,
+          "text": "and the towns of Long Beach and Yaupon Beach were incorporated in 1955.",
+          "children": [],
+          "scores": "[0.01, 0.02, 0.005, 0.015, 0.005, 0.0, 0.01, 0.005, 0.0, 0.0, 0.0, 0.01, 0.035, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]"
+        },
+        {
+          "index1": 2,
+          "index2": 8,
+          "text": "Other hurricanes,",
+          "children": [],
+          "scores": "[0.0, 0.005, 0.0, 0.01, 0.0, 0.005, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.005, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.005, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.005]"
+        },
+        {
+          "index1": 2,
+          "index2": 9,
+          "text": "such as Diana in 1984,",
+          "children": [],
+          "scores": "[0.0, 0.015, 0.0, 0.02, 0.0, 0.0, 0.0, 0.005, 0.0, 0.0, 0.0, 0.0, 0.0, 0.02, 0.0, 0.0, 0.005, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]"
+        },
+        {
+          "index1": 2,
+          "index2": 10,
+          "text": "Bertha and Fran in 1996 and Floyd in 1999,",
+          "children": [],
+          "scores": "[0.01, 0.005, 0.005, 0.025, 0.0, 0.0, 0.0, 0.005, 0.0, 0.0, 0.0, 0.0, 0.0, 0.01, 0.0, 0.005, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]"
+        }
+      ],
+      "layer1_tspans": [],
+      "scores": "[0.3566666666666667, 0.03666666666666667, 0.016666666666666666, 0.01, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]"
+    },
+    {
+      "index1": 3,
+      "text": "Document [4] (Title: Island Oak High School) Island Oak High School Island Oak High School is located in Duncan, Vancouver Island, British Columbia, in Canada. It offers Grades 9 to 12. Enrollment is limited to between 30 and 50 students. The current enrollment is around twenty students split into two classes. There is a faculty of thirteen teachers, specialists, administrators, and assistants. In Feb. 2007 the school hosted the BC Waldorf Teachers Conference. The school has been operated since 1995 by the Steiner Educational Society, a group of parents and community members. It is certified by the Ministry of Education of British Columbia and receives government funding",
+      "children": [],
+      "layer1_tspans": [],
+      "scores": "[0.043333333333333335, 0.08, 0.0033333333333333335, 0.02, 0.0, 0.013333333333333334, 0.11, 0.0, 0.0033333333333333335, 0.0, 0.023333333333333334, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0033333333333333335, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]"
+    },
+    {
+      "index1": 4,
+      "text": "Document [5] (Title: Oak Island mystery) in the January 1965 issue of \"Reader's Digest\". The island was the subject of an episode of \"In Search of...\" which was first broadcast on January 18, 1979. In 1983, Triton Alliance sued Frederick Nolan over the ownership of seven lots on the island and its causeway access. Two years later, Nolan's ownership of the lots was confirmed but he was ordered to pay damages for interfering with Triton's tourist business. On appeal, Triton lost again in 1989 and Nolan's damages were reduced. During the 1990s, further exploration stalled because of legal battles between the Triton partners and a lack",
+      "children": [],
+      "layer1_tspans": [],
+      "scores": "[0.03, 0.12666666666666668, 0.02, 0.02666666666666667, 0.0, 0.03666666666666667, 0.013333333333333334, 0.0033333333333333335, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]"
+    },
+    {
+      "index1": 5,
+      "text": "Document [6] (Title: Oak Island (North Carolina)) the current lighthouse stands. By the 1930s the island had blossomed into a vacation resort, as beach cottages began to dot the area on its western half, something which Hurricane Hazel brought a temporary halt to in 1954 as it washed away some 350 buildings on or near the ocean front. One of the greatest natural disasters to ever affect the state, Hazel was also one of the most destructive hurricanes to strike the United States. The island quickly recovered and development continued anew with the towns of Long Beach and Yaupon Beach being incorporated in 1955; in 1999 they",
+      "children": [],
+      "layer1_tspans": [],
+      "scores": "[0.12666666666666668, 0.15666666666666668, 0.0, 0.006666666666666667, 0.0, 0.0, 0.006666666666666667, 0.04666666666666667, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.006666666666666667, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]"
+    },
+    {
+      "index1": 6,
+      "text": "Document [7] (Title: Oak Island, North Carolina) units at an average density of 834.8/sq mi (322.2/km2). The racial makeup of the town was 98.01% White, 0.43% African American, 0.47% Native American, 0.15% Asian, 0.18% from other races, and 0.76% from two or more races. Hispanic or Latino of any race were 0.75% of the population. There were 3,076 households out of which 18.3% had children under the age of 18 living with them, 59.4% were married couples living together, 6.4% had a female householder with no husband present, and 31.7% were non-families. 25.3% of all households were made up of individuals and 9.9% had someone living alone",
+      "children": [],
+      "layer1_tspans": [],
+      "scores": "[0.2733333333333333, 0.04, 0.02666666666666667, 0.023333333333333334, 0.0, 0.0033333333333333335, 0.006666666666666667, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]"
+    },
+    {
+      "index1": 7,
+      "text": "Document [8] (Title: Island Oak High School) year with varying numbers of students, one at the beginning of the first semester and a second at the beginning of the second semester. Island Oak High School Island Oak High School is located in Duncan, Vancouver Island, British Columbia, in Canada. It offers Grades 9 to 12. Enrollment is limited to between 30 and 50 students. The current enrollment is around twenty students split into two classes. There is a faculty of thirteen teachers, specialists, administrators, and assistants. In Feb. 2007 the school hosted the BC Waldorf Teachers Conference. The school has been operated since 1995 by the Steiner",
+      "children": [],
+      "layer1_tspans": [],
+      "scores": "[0.023333333333333334, 0.1, 0.01, 0.16, 0.0, 0.03, 0.17333333333333334, 0.0, 0.04666666666666667, 0.0, 0.013333333333333334, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]"
+    },
+    {
+      "index1": 8,
+      "text": "Document [9] (Title: Oak Island mystery) loose, not as hard-packed as the surrounding soil. The three men reportedly abandoned the excavation at due to \"superstitious dread\". Another twist on the story has all four people involved as teenagers. In this rendering McGinnis first finds the depression in 1795 while on a fishing expedition. The rest of the story is consistent with the first involving the logs found, but ends with all four individuals giving up after digging as much as they could. In either case word spread fast as by 1801 another man named Gordan Chase attempted to find the treasure. Chase ended any more future",
+      "children": [],
+      "layer1_tspans": [],
+      "scores": "[0.02, 0.09666666666666666, 0.016666666666666666, 0.21, 0.0, 0.20666666666666667, 0.0, 0.03333333333333333, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.016666666666666666, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]"
+    },
+    {
+      "index1": 9,
+      "text": "Document [10] (Title: Oak Beach, New York) although it could not be reached overland at that time. Prior to that, marsh bird hunters had kept shacks in the area. Ferry access from Babylon enabled cottages to be built and made more accessible by car after construction of Ocean Parkway; it was largely a summer community until the completion of the Robert Moses Causeway in 1951, which allowed much faster travel from the main part of Long Island. It has gradually evolved since then to become a location where most residents live year-round. Although now entirely residential, Oak Beach was once the location of the popular but controversial",
+      "children": [
+        {
+          "index1": 9,
+          "index2": 0,
+          "text": "Document [10] (Title: Oak Beach, New York)",
+          "children": [
+            {
+              "index3": 0,
+              "text": "Document",
+              "children": [],
+              "scores": "[0.02, 0.01, 0.02, 0.02, 0.01, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.01, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.01, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]"
+            },
+            {
+              "index3": 1,
+              "text": "[10]",
+              "children": [],
+              "scores": "[0.02, 0.03, 0.01, 0.05, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.01, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.01, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]"
+            },
+            {
+              "index3": 2,
+              "text": "(Title:",
+              "children": [],
+              "scores": "[0.02, 0.07, 0.03, 0.05, 0.0, 0.0, 0.01, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.01, 0.0, 0.01, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]"
+            },
+            {
+              "index3": 3,
+              "text": "Oak",
+              "children": [],
+              "scores": "[0.01, 0.09, 0.08, 0.0, 0.02, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.04, 0.0, 0.0, 0.0, 0.01, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.01, 0.01, 0.0, 0.0, 0.0]"
+            },
+            {
+              "index3": 4,
+              "text": "Beach,",
+              "children": [],
+              "scores": "[0.01, 0.08, 0.13, 0.0, 0.01, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.01, 0.0, 0.0, 0.01, 0.0, 0.0, 0.0, 0.0, 0.0, 0.01, 0.0, 0.0, 0.01, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.01, 0.0, 0.0]"
+            },
+            {
+              "index3": 5,
+              "text": "New",
+              "children": [],
+              "scores": "[0.01, 0.01, 0.08, 0.01, 0.01, 0.01, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.01, 0.0, 0.0, 0.01, 0.0, 0.01, 0.0, 0.01, 0.0, 0.01, 0.0, 0.0, 0.01, 0.0, 0.0, 0.0, 0.0, 0.0, 0.01, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]"
+            },
+            {
+              "index3": 6,
+              "text": "York)",
+              "children": [],
+              "scores": "[0.07, 0.02, 0.09, 0.01, 0.01, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.01, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.01, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.01, 0.0]"
+            }
+          ],
+          "scores": "[0.03, 0.045, 0.43, 0.01, 0.005, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]"
+        },
+        {
+          "index1": 9,
+          "index2": 1,
+          "text": "although it could not be reached overland at that time.",
+          "children": [],
+          "scores": "[0.015, 0.02, 0.05, 0.08, 0.0, 0.0, 0.01, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.01, 0.0, 0.0, 0.0, 0.005, 0.01, 0.0, 0.02, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]"
+        },
+        {
+          "index1": 9,
+          "index2": 2,
+          "text": "Prior to that,",
+          "children": [],
+          "scores": "[0.01, 0.025, 0.0, 0.015, 0.0, 0.0, 0.005, 0.0, 0.0, 0.0, 0.005, 0.0, 0.0, 0.0, 0.0, 0.02, 0.005, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.005, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]"
+        },
+        {
+          "index1": 9,
+          "index2": 3,
+          "text": "marsh bird hunters had kept shacks in the area.",
+          "children": [],
+          "scores": "[0.015, 0.025, 0.005, 0.0, 0.005, 0.0, 0.005, 0.0, 0.0, 0.0, 0.005, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.005, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.01, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]"
+        },
+        {
+          "index1": 9,
+          "index2": 4,
+          "text": "Ferry access from Babylon enabled cottages to be built and made more accessible by car after construction of Ocean Parkway; it was largely a summer community until the completion of the Robert Moses Causeway in 1951,",
+          "children": [],
+          "scores": "[0.01, 0.045, 0.04, 0.05, 0.05, 0.0, 0.005, 0.0, 0.005, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.02, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.005, 0.005, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]"
+        },
+        {
+          "index1": 9,
+          "index2": 5,
+          "text": "which allowed much faster travel from the main part of Long Island.",
+          "children": [],
+          "scores": "[0.005, 0.06, 0.065, 0.04, 0.02, 0.0, 0.01, 0.0, 0.005, 0.0, 0.0, 0.025, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.005, 0.005, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]"
+        },
+        {
+          "index1": 9,
+          "index2": 6,
+          "text": "It has gradually evolved since then to become a location where most residents live year-round.",
+          "children": [],
+          "scores": "[0.02, 0.025, 0.005, 0.035, 0.045, 0.005, 0.0, 0.005, 0.01, 0.0, 0.0, 0.01, 0.0, 0.0, 0.01, 0.0, 0.0, 0.0, 0.01, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]"
+        },
+        {
+          "index1": 9,
+          "index2": 7,
+          "text": "Although now entirely residential,",
+          "children": [],
+          "scores": "[0.02, 0.04, 0.02, 0.0, 0.01, 0.0, 0.005, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.025, 0.01, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]"
+        },
+        {
+          "index1": 9,
+          "index2": 8,
+          "text": "Oak Beach was once the location of the popular but controversial",
+          "children": [],
+          "scores": "[0.0, 0.045, 0.06, 0.08, 0.25, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]"
+        }
+      ],
+      "layer1_tspans": [],
+      "scores": "[0.0, 0.05, 0.51, 0.22666666666666666, 0.12333333333333334, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]"
+    }
+  ],
+  "text_outputs": [
+    "Oak Island, North Carolina",
+    "Oak Island",
+    "Oak Beach, New York",
+    "Kingsford, Michigan",
+    "Oak Beach",
+    "Nova Scotia",
+    "Vancouver Island, British Columbia",
+    "North Carolina",
+    "Duncan, Vancouver Island, British Columbia",
+    "Oak Harbor, Washington",
+    "Vancouver Island",
+    "the Bahamas",
+    "Florida",
+    "Toronto, Ontario",
+    "st. augustine",
+    "Toronto",
+    "New Zealand",
+    "Oak Island, Nova Scotia",
+    "Long Island",
+    "Long Island, New York",
+    "Oak Island, Ontario",
+    "hawaii",
+    "Oak Beach, New Brunswick",
+    "Oak Island, Florida",
+    "New York City",
+    "Oak Island (North Carolina)",
+    "Oak Beach, New",
+    "st. augustine fl",
+    "the island of St. John",
+    "st. augustine, florida",
+    "Long Beach, California",
+    "Toronto, Ontario, Canada",
+    "Oak Beach, Newfoundland",
+    "Oak Island, Tennessee",
+    "Oak Beach, Nova Scotia",
+    "Oak Island, New York",
+    "the island of oahu",
+    "Duncan, Vancouver Island, British Columbia, in Canada",
+    "the gulf of mexico"
+  ]
+}

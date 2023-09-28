@@ -1,0 +1,335 @@
+{
+  "children": [
+    {
+      "index1": 0,
+      "text": "Document [1] (Title: Gallbladder) In vertebrates, the gallbladder is a small hollow organ where bile is stored and concentrated before it is released into the small intestine. In humans, the pear-shaped gallbladder lies beneath the liver, although the structure and position of the gallbladder can vary significantly among animal species. It receives and stores bile, produced by the liver, via the common hepatic duct, and releases it via the common bile duct into the duodenum, where the bile helps in the digestion of fats.",
+      "children": [
+        {
+          "index1": 0,
+          "index2": 0,
+          "text": "Document [1] (Title: Gallbladder)",
+          "children": [],
+          "scores": "[0.015, 0.01, 0.025, 0.0, 0.015, 0.0, 0.02, 0.015, 0.005, 0.005, 0.0, 0.0, 0.02, 0.005, 0.005, 0.005, 0.01, 0.005, 0.0, 0.005, 0.0, 0.0, 0.0, 0.0, 0.02, 0.0, 0.0, 0.0, 0.0, 0.0, 0.005, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.005, 0.005, 0.005, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.005, 0.0, 0.0, 0.0, 0.0, 0.0, 0.005, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.005, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]"
+        },
+        {
+          "index1": 0,
+          "index2": 1,
+          "text": "In vertebrates,",
+          "children": [],
+          "scores": "[0.055, 0.025, 0.015, 0.005, 0.0, 0.005, 0.02, 0.005, 0.005, 0.005, 0.01, 0.0, 0.005, 0.0, 0.0, 0.005, 0.04, 0.0, 0.0, 0.0, 0.0, 0.0, 0.005, 0.0, 0.0, 0.0, 0.0, 0.005, 0.005, 0.0, 0.0, 0.0, 0.005, 0.015, 0.0, 0.0, 0.0, 0.0, 0.005, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.01, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.005, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.005, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.005, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]"
+        },
+        {
+          "index1": 0,
+          "index2": 2,
+          "text": "the gallbladder is a small hollow organ where bile is stored and concentrated before it is released into the small intestine.",
+          "children": [],
+          "scores": "[0.135, 0.02, 0.0, 0.0, 0.03, 0.0, 0.005, 0.0, 0.005, 0.02, 0.005, 0.015, 0.0, 0.0, 0.0, 0.0, 0.03, 0.0, 0.05, 0.005, 0.0, 0.0, 0.0, 0.005, 0.0, 0.0, 0.0, 0.01, 0.0, 0.005, 0.005, 0.005, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.005, 0.0, 0.0, 0.01, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]"
+        },
+        {
+          "index1": 0,
+          "index2": 3,
+          "text": "In humans,",
+          "children": [],
+          "scores": "[0.26, 0.005, 0.01, 0.005, 0.01, 0.0, 0.005, 0.03, 0.0, 0.005, 0.01, 0.0, 0.0, 0.0, 0.0, 0.01, 0.0, 0.0, 0.005, 0.0, 0.0, 0.0, 0.02, 0.0, 0.01, 0.0, 0.0, 0.005, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.005, 0.0, 0.0, 0.0, 0.01, 0.0, 0.0, 0.005, 0.0, 0.0, 0.01, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.005, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.005, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.005, 0.0, 0.0, 0.0, 0.0, 0.005, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.005, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.005, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]"
+        },
+        {
+          "index1": 0,
+          "index2": 4,
+          "text": "the pear-shaped gallbladder lies beneath the liver,",
+          "children": [
+            {
+              "index3": 0,
+              "text": "the",
+              "children": [],
+              "scores": "[0.02, 0.0, 0.0, 0.01, 0.0, 0.0, 0.0, 0.02, 0.03, 0.01, 0.01, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.01, 0.01, 0.0, 0.0, 0.02, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.01, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.01, 0.01, 0.0, 0.0, 0.01, 0.0, 0.0, 0.0, 0.01, 0.02, 0.0, 0.0, 0.01, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.01, 0.0, 0.01, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.01, 0.0, 0.01, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.01, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.01, 0.0, 0.01, 0.0, 0.0, 0.0, 0.0]"
+            },
+            {
+              "index3": 1,
+              "text": "pear-shaped",
+              "children": [],
+              "scores": "[0.04, 0.02, 0.0, 0.0, 0.0, 0.0, 0.0, 0.03, 0.01, 0.01, 0.02, 0.0, 0.01, 0.0, 0.0, 0.0, 0.01, 0.0, 0.0, 0.01, 0.0, 0.0, 0.02, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.02, 0.01, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.01, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.01, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.01, 0.0, 0.01, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.01, 0.0, 0.0, 0.0, 0.01, 0.0, 0.01, 0.0, 0.01, 0.0, 0.0, 0.01, 0.0, 0.0, 0.0, 0.0, 0.0, 0.01, 0.0, 0.01, 0.0, 0.0, 0.01, 0.0, 0.0, 0.0, 0.01, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.01, 0.0, 0.01, 0.0, 0.0, 0.0]"
+            },
+            {
+              "index3": 2,
+              "text": "gallbladder",
+              "children": [],
+              "scores": "[0.05, 0.05, 0.0, 0.0, 0.0, 0.0, 0.0, 0.01, 0.06, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.01, 0.01, 0.01, 0.0, 0.0, 0.0, 0.0, 0.01, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.01, 0.01, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.01, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.01, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.01, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.01, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.01, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.01, 0.01, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]"
+            },
+            {
+              "index3": 3,
+              "text": "lies",
+              "children": [],
+              "scores": "[0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.03, 0.02, 0.0, 0.05, 0.0, 0.0, 0.0, 0.01, 0.01, 0.01, 0.0, 0.01, 0.01, 0.01, 0.0, 0.0, 0.0, 0.01, 0.0, 0.0, 0.01, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.02, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.01, 0.0, 0.0, 0.0, 0.01, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.01, 0.0, 0.01, 0.0, 0.01, 0.0, 0.0, 0.01, 0.0, 0.0, 0.01, 0.01, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.01, 0.0, 0.0, 0.0, 0.0, 0.01, 0.0, 0.0, 0.0, 0.0, 0.01, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.01, 0.0, 0.0, 0.0, 0.0, 0.0, 0.01, 0.0, 0.0, 0.0, 0.01, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.01, 0.0, 0.01]"
+            },
+            {
+              "index3": 4,
+              "text": "beneath",
+              "children": [],
+              "scores": "[0.18, 0.04, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.03, 0.01, 0.01, 0.0, 0.0, 0.0, 0.0, 0.0, 0.01, 0.0, 0.01, 0.0, 0.0, 0.0, 0.01, 0.0, 0.03, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.03, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.01, 0.0, 0.0, 0.0, 0.0, 0.0, 0.02, 0.01, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.01, 0.01, 0.0, 0.0, 0.0, 0.01, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.01, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.01, 0.0, 0.0, 0.0, 0.0, 0.01, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]"
+            },
+            {
+              "index3": 5,
+              "text": "the",
+              "children": [],
+              "scores": "[0.11, 0.01, 0.0, 0.0, 0.0, 0.0, 0.0, 0.01, 0.02, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.01, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.01, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.01, 0.0, 0.0, 0.0, 0.0, 0.0, 0.01, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.01, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.01, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]"
+            },
+            {
+              "index3": 6,
+              "text": "liver,",
+              "children": [],
+              "scores": "[0.18, 0.03, 0.0, 0.01, 0.0, 0.0, 0.0, 0.01, 0.03, 0.01, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.01, 0.01, 0.0, 0.03, 0.0, 0.0, 0.0, 0.0, 0.01, 0.0, 0.0, 0.01, 0.0, 0.0, 0.0, 0.0, 0.01, 0.0, 0.0, 0.0, 0.0, 0.02, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.01, 0.0, 0.0, 0.0, 0.0, 0.03, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.01, 0.0, 0.01, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.01, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.01, 0.0, 0.01, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.01, 0.0, 0.0, 0.0, 0.01, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.01, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.01, 0.0]"
+            }
+          ],
+          "scores": "[0.39, 0.01, 0.0, 0.0, 0.015, 0.0, 0.0, 0.045, 0.16, 0.0, 0.075, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.005, 0.065, 0.0, 0.0, 0.045, 0.0, 0.0, 0.0, 0.0, 0.005, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.01, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]"
+        },
+        {
+          "index1": 0,
+          "index2": 5,
+          "text": "although the structure and position of the gallbladder can vary significantly among animal species.",
+          "children": [],
+          "scores": "[0.055, 0.0, 0.025, 0.005, 0.01, 0.0, 0.005, 0.055, 0.0, 0.005, 0.055, 0.0, 0.01, 0.0, 0.0, 0.005, 0.0, 0.005, 0.005, 0.0, 0.0, 0.0, 0.0, 0.01, 0.01, 0.005, 0.0, 0.0, 0.0, 0.005, 0.01, 0.0, 0.0, 0.0, 0.015, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.005, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.005, 0.0, 0.0, 0.005, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.005, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]"
+        },
+        {
+          "index1": 0,
+          "index2": 6,
+          "text": "It receives and stores bile,",
+          "children": [],
+          "scores": "[0.025, 0.01, 0.0, 0.0, 0.005, 0.0, 0.01, 0.0, 0.02, 0.0, 0.005, 0.0, 0.005, 0.0, 0.0, 0.005, 0.005, 0.0, 0.005, 0.0, 0.0, 0.0, 0.0, 0.0, 0.005, 0.0, 0.005, 0.005, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.005, 0.0, 0.0, 0.0, 0.01, 0.0, 0.0, 0.015, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]"
+        },
+        {
+          "index1": 0,
+          "index2": 7,
+          "text": "produced by the liver,",
+          "children": [],
+          "scores": "[0.015, 0.0, 0.0, 0.005, 0.0, 0.0, 0.005, 0.0, 0.005, 0.005, 0.005, 0.0, 0.0, 0.0, 0.0, 0.015, 0.005, 0.01, 0.0, 0.01, 0.0, 0.0, 0.005, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.005, 0.005, 0.0, 0.015, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.005, 0.005, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.005, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.005, 0.0, 0.0, 0.0, 0.0, 0.005, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]"
+        },
+        {
+          "index1": 0,
+          "index2": 8,
+          "text": "via the common hepatic duct,",
+          "children": [],
+          "scores": "[0.005, 0.005, 0.005, 0.0, 0.0, 0.0, 0.0, 0.005, 0.0, 0.015, 0.0, 0.0, 0.0, 0.0, 0.0, 0.015, 0.0, 0.0, 0.0, 0.01, 0.0, 0.0, 0.005, 0.0, 0.0, 0.0, 0.0, 0.0, 0.005, 0.0, 0.015, 0.0, 0.0, 0.005, 0.0, 0.0, 0.0, 0.0, 0.0, 0.005, 0.0, 0.0, 0.0, 0.0, 0.005, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.005, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]"
+        },
+        {
+          "index1": 0,
+          "index2": 9,
+          "text": "and releases it via the common bile duct into the duodenum,",
+          "children": [],
+          "scores": "[0.035, 0.01, 0.0, 0.005, 0.005, 0.0, 0.01, 0.005, 0.01, 0.0, 0.005, 0.0, 0.01, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.005, 0.0, 0.0, 0.01, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.025, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.005, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.005, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.005, 0.0, 0.01, 0.0, 0.0, 0.005, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.005, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.005, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]"
+        },
+        {
+          "index1": 0,
+          "index2": 10,
+          "text": "where the bile helps in the digestion of fats.",
+          "children": [],
+          "scores": "[0.02, 0.02, 0.01, 0.01, 0.015, 0.0, 0.005, 0.0, 0.005, 0.005, 0.0, 0.0, 0.005, 0.0, 0.0, 0.0, 0.0, 0.005, 0.0, 0.01, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]"
+        }
+      ],
+      "layer1_tspans": [],
+      "scores": "[0.9066666666666666, 0.0, 0.0, 0.0, 0.02666666666666667, 0.0, 0.016666666666666666, 0.023333333333333334, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.006666666666666667, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]"
+    },
+    {
+      "index1": 1,
+      "text": "Document [2] (Title: Urinary bladder) Urinary bladder The urinary bladder is a hollow muscular organ in humans and some other animals that collects and stores urine from the kidneys before disposal by urination. In the human the bladder is a hollow muscular, and distensible (or elastic) organ, that sits on the pelvic floor. Urine enters the bladder via the ureters and exits via the urethra. The typical human bladder will hold between 300 and (10.14 and ) before the urge to empty occurs, but can hold considerably more. In humans, the bladder is a hollow muscular organ situated at the base of the pelvis. Urine",
+      "children": [],
+      "layer1_tspans": [],
+      "scores": "[0.013333333333333334, 0.03333333333333333, 0.01, 0.0, 0.01, 0.0033333333333333335, 0.0, 0.0033333333333333335, 0.0, 0.0033333333333333335, 0.0, 0.013333333333333334, 0.02666666666666667, 0.16666666666666666, 0.016666666666666666, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.02666666666666667, 0.006666666666666667, 0.02, 0.0, 0.01, 0.013333333333333334, 0.013333333333333334, 0.0, 0.0, 0.0033333333333333335, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]"
+    },
+    {
+      "index1": 2,
+      "text": "Document [3] (Title: Pig bladder) Pig bladder Pig bladder (also pig's bladder) is the urinary bladder of a domestic pig, similar to the human urinary bladder. Today, this hollow organ has various applications in medicine, and in traditional cuisines and customs. Historically, the pig bladder had several additional uses, all based on its properties as a lightweight, stretchable container that could be filled and tied off. The pig bladder has several traditional ceremonial uses in Europe. It is traditional during the festival Fasching in Bad Aussee to brandish inflated pig bladders on sticks. Similarly, in Xinzo de Limia, Spain, inflated pig bladders are carried during",
+      "children": [],
+      "layer1_tspans": [],
+      "scores": "[0.03333333333333333, 0.006666666666666667, 0.03, 0.04, 0.0033333333333333335, 0.0033333333333333335, 0.0, 0.006666666666666667, 0.0, 0.0033333333333333335, 0.0, 0.016666666666666666, 0.01, 0.0, 0.023333333333333334, 0.1, 0.0, 0.0033333333333333335, 0.0, 0.0, 0.0, 0.013333333333333334, 0.0, 0.0, 0.0, 0.01, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]"
+    },
+    {
+      "index1": 3,
+      "text": "Document [4] (Title: Gallbladder) a product of haemoglobin breakdown. These may cause significant pain, particularly in the upper-right corner of the abdomen, and are often treated with removal of the gallbladder called a cholecystectomy. Cholecystitis, inflammation of the gallbladder, has a wide range of causes, including result from the impaction of gallstones, infection, and autoimmune disease. The gallbladder is a hollow organ that sits in a shallow depression below the right lobe of the liver, that is grey-blue in life. In adults, the gallbladder measures approximately in length and in diameter when fully distended. The gallbladder has a capacity of about. The gallbladder",
+      "children": [],
+      "layer1_tspans": [],
+      "scores": "[0.01, 0.32666666666666666, 0.16333333333333333, 0.0, 0.013333333333333334, 0.0, 0.02666666666666667, 0.016666666666666666, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]"
+    },
+    {
+      "index1": 4,
+      "text": "Document [5] (Title: Human digestive system) the bile ducts and into the gall bladder for storage. The bile is released in response to cholecystokinin (CCK) a peptide hormone released from the duodenum. The production of CCK (by endocrine cells of the duodenum) is stimulated by the presence of fat in the duodenum. It is divided into three sections, a fundus, body and neck. The neck tapers and connects to the biliary tract via the cystic duct, which then joins the common hepatic duct to form the common bile duct. At this junction is a mucosal fold called \"Hartmann's pouch\", where gallstones commonly get stuck. The muscular",
+      "children": [],
+      "layer1_tspans": [],
+      "scores": "[0.006666666666666667, 0.01, 0.023333333333333334, 0.12666666666666668, 0.013333333333333334, 0.0033333333333333335, 0.013333333333333334, 0.006666666666666667, 0.0, 0.01, 0.0033333333333333335, 0.0, 0.0, 0.0, 0.0033333333333333335, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.006666666666666667, 0.0, 0.0033333333333333335, 0.0033333333333333335, 0.0033333333333333335, 0.0033333333333333335, 0.0, 0.0, 0.01, 0.0, 0.0, 0.0033333333333333335, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]"
+    },
+    {
+      "index1": 5,
+      "text": "Document [6] (Title: Xanthogranulomatous inflammation) and gallbladder. Xanthogranulomatous inflammation The Xanthogranulomatous Process (XP), also known as Xanthogranulomatous Inflammation is a form of acute and chronic inflammation characterized by an exuberant clustering of foamy macrophages among other inflammatory cells. Localization in the kidney and renal pelvis has been the most frequent and better known occurrence followed by that in the gallbladder but many others have been subsequently recorded. The pathological findings of the process and etiopathogenetic and clinical observations have been reviewed by Cozzutto and Carbone. The xanthogranulomatous type of inflammation is most-commonly seen in pyelonephritis and cholecystitis, although it has more recently been described in",
+      "children": [],
+      "layer1_tspans": [],
+      "scores": "[0.02, 0.05, 0.02, 0.013333333333333334, 0.013333333333333334, 0.0033333333333333335, 0.0, 0.0, 0.0, 0.013333333333333334, 0.0, 0.01, 0.0033333333333333335, 0.0, 0.006666666666666667, 0.0, 0.0, 0.006666666666666667, 0.0, 0.0, 0.12, 0.0, 0.0, 0.0033333333333333335, 0.0, 0.0033333333333333335, 0.0033333333333333335, 0.0, 0.0, 0.0, 0.0, 0.0, 0.006666666666666667, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0033333333333333335, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]"
+    },
+    {
+      "index1": 6,
+      "text": "Document [7] (Title: Excretory system) bladder is the organ that collects waste excreted by the kidneys prior to disposal by urination. It is a hollow muscular, and distensible (or elastic) organ, and sits on the pelvic floor. Urine enters the bladder via the ureters and exits via the urethra. Embryologically, the bladder is derived from the urogenital sinus, and it is initially continuous with the allantois. In human males, the base of the bladder lies between the rectum and the pubic symphysis. It is superior to the prostate, and separated from the rectum by the rectovesical excavation. In females, the bladder sits inferior to the",
+      "children": [],
+      "layer1_tspans": [],
+      "scores": "[0.013333333333333334, 0.06666666666666667, 0.006666666666666667, 0.0, 0.19, 0.0, 0.05, 0.0, 0.0, 0.006666666666666667, 0.0, 0.013333333333333334, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.02666666666666667, 0.0, 0.0033333333333333335, 0.0, 0.04, 0.0033333333333333335, 0.0, 0.01, 0.0, 0.0, 0.0, 0.0033333333333333335, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]"
+    },
+    {
+      "index1": 7,
+      "text": "Document [8] (Title: Courvoisier's law) a non-tender, palpable gall bladder. Typically gall bladder stones form slowly which allow time for the gall bladder to become tender. The exceptions to the law are stones that dislodge and acutely block the duct distally to the hepatic/cystic duct junction: Cholangiocarcinoma, Klatskin tumors, ascariasis, or recurrent pyogenic cholangitis are not exceptions to the law because they all fall under it. For example, in the case of recurrent pyogenic cholangitis complicated by calcium bilirubinate stone dislodging to the common bile duct causing a distended gallbladder by back pressure. (Where formation of stones are not strictly in gallbladder, hence not fibrotic,",
+      "children": [],
+      "layer1_tspans": [],
+      "scores": "[0.023333333333333334, 0.006666666666666667, 0.03666666666666667, 0.13666666666666666, 0.0033333333333333335, 0.0, 0.0, 0.006666666666666667, 0.0, 0.0, 0.0, 0.013333333333333334, 0.01, 0.006666666666666667, 0.0, 0.0, 0.0, 0.016666666666666666, 0.0, 0.0, 0.0, 0.01, 0.0, 0.01, 0.0, 0.0, 0.01, 0.0, 0.0033333333333333335, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]"
+    },
+    {
+      "index1": 8,
+      "text": "Document [9] (Title: Gallbladder) secreted by the gallbladder. During gallbladder storage of bile, it is concentrated 3-10 fold by removal of some water and electrolytes. This is through the active transport of sodium and chloride ions across the epithelium of the gallbladder, which creates an osmotic pressure that also causes water and other electrolytes to be reabsorbed. Gallstones form when the bile is saturated, usually with either cholesterol or bilirubin. Most gallstones do not cause symptoms, with stones either remaining in the gallbladder or passed along the biliary system. When symptoms occur, severe \"colicky\" pain in the upper right part of the abdomen is",
+      "children": [],
+      "layer1_tspans": [],
+      "scores": "[0.02666666666666667, 0.006666666666666667, 0.06, 0.013333333333333334, 0.0, 0.21, 0.0, 0.02, 0.0, 0.016666666666666666, 0.0, 0.0, 0.006666666666666667, 0.0, 0.0, 0.0, 0.0, 0.013333333333333334, 0.0, 0.0, 0.0, 0.0033333333333333335, 0.0, 0.01, 0.0, 0.0, 0.006666666666666667, 0.0, 0.006666666666666667, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0033333333333333335, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]"
+    },
+    {
+      "index1": 9,
+      "text": "Document [10] (Title: Jaundice) in the common bile duct, and pancreatic cancer in the head of the pancreas. Also, a group of parasites known as \"liver flukes\" can live in the common bile duct, causing obstructive jaundice. Other causes include strictures of the common bile duct, biliary atresia, cholangiocarcinoma, pancreatitis, cholestasis of pregnancy, and pancreatic pseudocysts. A rare cause of obstructive jaundice is Mirizzi's syndrome (gallstone impaction in the cystic duct or gallbladder neck, with the enlarged gallbladder squeezing on the common hepatic duct). In complete obstruction of the bile duct, no urobilinogen is found in the urine, since bilirubin has no access to",
+      "children": [],
+      "layer1_tspans": [],
+      "scores": "[0.043333333333333335, 0.02, 0.04, 0.03, 0.0033333333333333335, 0.0, 0.0, 0.0033333333333333335, 0.0, 0.01, 0.0, 0.016666666666666666, 0.05, 0.0, 0.12666666666666668, 0.0, 0.0, 0.006666666666666667, 0.0, 0.0, 0.0, 0.02, 0.0, 0.013333333333333334, 0.0, 0.0, 0.006666666666666667, 0.006666666666666667, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.006666666666666667, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0033333333333333335, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]"
+    }
+  ],
+  "text_outputs": [
+    "beneath the liver",
+    "below the right lobe of the liver",
+    "The gallbladder is a hollow organ that sits in a shallow depression below",
+    "located in the right upper quadrant of the abdomen",
+    "on the pelvic floor",
+    "upper right part of the abdomen",
+    "pelvic floor",
+    "In humans, the pear-shaped gallbladder lies beneath the liver, although the",
+    "the pear-shaped gallbladder lies beneath the liver",
+    "the upper right part of the abdomen",
+    "the pear-shaped gallbladder lies beneath the liver, although the structure and position",
+    "between the rectum and the pubic symphysis",
+    "In the human the bladder is a hollow muscular, and distensible (or elastic",
+    "at the base of the pelvis",
+    "in the right upper quadrant of the abdomen",
+    "in the abdomen",
+    "In vertebrates, the gallbladder is a small hollow organ where bil",
+    "located in the upper right part of the abdomen",
+    "the gallbladder is a small hollow organ where bile is stored and concentrated",
+    "the pear-shaped gallbladder lies beneath the liver,",
+    "gallbladder",
+    "between the liver and the small intestine",
+    "In humans, the pear-shaped gallbladder lies beneath the liver,",
+    "In humans, the bladder is a hollow muscular organ situated at the base of the pelvis",
+    "In humans, the bladder is a hollow muscular, and distensible (or elastic",
+    "between the liver and the duodenum",
+    "between the rectum and the pubic symphysis. It is",
+    "the base of the pelvis",
+    "In humans, the gallbladder is a hollow muscular organ situated at the base of",
+    "the right upper quadrant of the abdomen",
+    "via the common hepatic duct",
+    "in the upper right abdomen",
+    "the pelvic floor",
+    "In vertebrates,",
+    "In vertebrates, although the structure and position of the gallbladder can vary significantly",
+    "It receives and stores bile, produced by the liver, via the common he",
+    "lies beneath the liver",
+    "the liver",
+    "In humans, the pear-shaped gallbladder lies beneath the liver",
+    "It receives and stores bile, via the common hepatic duct,",
+    "the bile ducts and into the gall bladder for storage",
+    "It is a hollow muscular, and distensible (or elastic) organ, and",
+    "It receives and stores bile,",
+    "the right upper quadrant",
+    "In humans, although the structure and position of the gallbladder can vary significantly among animal",
+    "lies beneath the liver, although the structure and position of the gallbladder can vary significantly",
+    "It receives and stores bile, produced by the liver, and releases it via the",
+    "located in the upper right abdomen",
+    "between the liver and the spleen",
+    "In humans, the gallbladder lies beneath the liver, although the structure and position of",
+    "liver",
+    "pear-shaped gallbladder lies beneath the liver",
+    "beneath the right lobe of the liver",
+    "In humans, the gallbladder is a hollow muscular, and distensible",
+    "between the liver and the right upper quadrant of the abdomen",
+    "and releases it via the common bile duct into the duodenum",
+    "In vertebrates, gallbladder",
+    "In human males, the base of the bladder lies between the rectum and the pub",
+    "in the upper right quadrant of the abdomen",
+    "pear-shaped gallbladder",
+    "the pear-shaped gallbladder lies",
+    "In humans, the gallbladder lies beneath the liver,",
+    "gallbladder lies beneath the liver",
+    "gallbladder lies beneath the liver,",
+    "In humans, the pear-shaped gallbladder lies beneath liver, although the structure",
+    "beneath liver, although the structure and position of the gallbladder can vary significantly among animal",
+    "the pear-shaped gallbladder is situated beneath the liver, although the structure and",
+    "the pear-shaped gallbladder is a small hollow organ where bile",
+    "the pear-shaped gallbladder is situated beneath the liver",
+    "the pear-shaped lies beneath the liver",
+    "In vertebrates, the gallbladder lies beneath the liver although the structure and position",
+    "beneath liver",
+    "In humans, the gallbladder is a small hollow organ where bile is",
+    "pear-shaped gallbladder beneath the liver",
+    "in the liver, although the structure and position of the gallbladder can vary significantly among",
+    "It receives and stores bile, and releases it via the common bile ",
+    "In vertebrates, the gallbladder is a hollow muscular organ in humans and",
+    "In humans, the gallbladder is a small organ located in the upper right abdomen",
+    "located in the right upper quadrant of the abdomen, just below the liver",
+    "It receives and stores bile, produced by the liver.",
+    "In humans, it receives and stores bile, produced by the liver, and releases",
+    "located in the right upper quadrant of the abdomen,",
+    "In humans, the gall bladder is a hollow muscular organ situated at the base of the pelvi",
+    "located in the right upper quadrant of the abdomen, between the liver and the duoden",
+    "Although the structure and position of the gallbladder can vary significantly among animal species. It",
+    "pear-shaped gallbladder lies in the right upper quadrant of the abdomen",
+    "the pear-shaped gallbladder lies in the liver",
+    "In humans, the gallbladder lies beneath",
+    "In humans, the gallbladder lies beneath liver,",
+    "the pear-shaped gall bladder lies beneath the liver",
+    "gallbladder lies beneath the liver, although the structure and position of the gallblad",
+    "In vertebrates, via the common hepatic duct, where the bil",
+    "In humans, the gallbladder lies beneath the liver",
+    "lies beneath the right lobe of the liver",
+    "In vertebrates, In humans, the pear-shaped gallbladder lies beneath",
+    "In humans, gallbladder lies beneath the liver, although the structure and position of the",
+    "gallbladder lies in the liver",
+    "pear-shaped gallbladder lies in the right upper quadrant of the abdomen,",
+    "pear-shaped gallbladder lies lies in the right upper quadrant of the abdomen",
+    "In humans,",
+    "the bile ducts and into the gall bladder for storage. The bile",
+    "the pear-shaped beneath liver, although the structure and position of the gallbladder",
+    "In humans, the gallbladder is situated in the right upper quadrant of the abdomen",
+    "In humans, the pear-shaped liver",
+    "In humans, the pear-shaped gallbladder lies beneath the liver although the structure",
+    "the pear-shaped gallbladder",
+    "the pear-shaped gallbladder the liver,",
+    "lies the liver,",
+    "pear-shaped lies beneath the liver",
+    "In vertebrates, the pear-shaped gallbladder lies beneath the liver,",
+    "In vertebrates, the gall bladder is a hollow muscular, and distensible",
+    "In vertebrates, the gallbladder lies beneath the liver, although the structure and",
+    "at the base of the liver",
+    "via the common hepatic duct, where the bile helps in the digestion",
+    "In humans, pear-shaped although the structure and position of the gallbladder can",
+    "In humans, pear-shaped lies in the right upper quadrant of the abdomen, although",
+    "In humans, the pear-shaped gallbladder is situated beneath the liver, although",
+    "the pear-shaped gallbladder lies beneath the liver via the common hepati",
+    "In vertebrates, gallbladder lies in the upper right part of the abdomen",
+    "pear-shaped gallbladder lies in the upper right part of the abdomen",
+    "the pear-shaped gallbladder lies in the upper right part of the abdomen",
+    "the pear-shaped gallbladder lies beneath the liver, via the common he",
+    "lies beneath the liver,",
+    "the pear-shaped lies beneath the liver,",
+    "in the liver",
+    "the liver, although the structure and position of the gallbladder can vary significantly among animal",
+    "although the structure and position of the gallbladder can vary significantly among animal species.",
+    "beneath the liver, although the structure and position of the gallbladder can vary significantly among",
+    "the pear-shaped gallbladder lies between the liver and the duodenum",
+    "the pear-shaped gallbladder lies beneath liver",
+    "In humans, the gall bladder is a hollow muscular, and distensible (or",
+    "In humans, the pear-shaped gallbladder lies behind the liver, although the",
+    "the pear-shaped gallbladder lies beneath",
+    "In humans, the pear-shaped gallbladder is situated in the right upper quad",
+    "In vertebrates, the pear-shaped gallbladder It receives and stores",
+    "In humans, the pear-shaped gallbladder lies in the right upper quadrant",
+    "In vertebrates, the pear-shaped gallbladder lies below the liver,",
+    "pear-shaped gallbladder lies"
+  ]
+}

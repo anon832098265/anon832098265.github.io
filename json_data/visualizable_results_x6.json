@@ -1,0 +1,825 @@
+{
+  "children": [
+    {
+      "index1": 0,
+      "text": "Document [1] (Title: Philadelphia Eagles) The Philadelphia Eagles are a professional American football franchise based in Philadelphia, Pennsylvania. The Eagles compete in the National Football League (NFL) as a member club of the league's National Football Conference (NFC) East division. They are Super Bowl champions, having won Super Bowl LII, their fourth NFL title, after winning in 1948, 1949, and 1960.",
+      "children": [
+        {
+          "index1": 0,
+          "index2": 0,
+          "text": "Document [1] (Title: Philadelphia Eagles)",
+          "children": [],
+          "scores": "[0.06, 0.015, 0.01, 0.025, 0.005, 0.0, 0.035, 0.0, 0.0, 0.0, 0.0, 0.01, 0.0, 0.0, 0.0, 0.005, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.005]"
+        },
+        {
+          "index1": 0,
+          "index2": 1,
+          "text": "The Philadelphia Eagles are a professional American football franchise based in Philadelphia,",
+          "children": [],
+          "scores": "[0.015, 0.035, 0.005, 0.03, 0.015, 0.005, 0.01, 0.0, 0.005, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]"
+        },
+        {
+          "index1": 0,
+          "index2": 2,
+          "text": "Pennsylvania.",
+          "children": [],
+          "scores": "[0.015, 0.02, 0.0, 0.02, 0.005, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]"
+        },
+        {
+          "index1": 0,
+          "index2": 3,
+          "text": "The Eagles compete in the National Football League (NFL) as a member club of the league's National Football Conference (NFC) East division.",
+          "children": [],
+          "scores": "[0.015, 0.055, 0.0, 0.04, 0.015, 0.0, 0.005, 0.0, 0.005, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.01, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]"
+        },
+        {
+          "index1": 0,
+          "index2": 4,
+          "text": "They are Super Bowl champions,",
+          "children": [],
+          "scores": "[0.085, 0.04, 0.0, 0.06, 0.0, 0.01, 0.05, 0.0, 0.005, 0.0, 0.01, 0.025, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]"
+        },
+        {
+          "index1": 0,
+          "index2": 5,
+          "text": "having won Super Bowl LII,",
+          "children": [
+            {
+              "index3": 0,
+              "text": "having",
+              "children": [],
+              "scores": "[0.03, 0.03, 0.02, 0.01, 0.02, 0.0, 0.02, 0.0, 0.0, 0.0, 0.02, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]"
+            },
+            {
+              "index3": 1,
+              "text": "won",
+              "children": [],
+              "scores": "[0.03, 0.06, 0.03, 0.02, 0.02, 0.0, 0.02, 0.0, 0.01, 0.0, 0.01, 0.01, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]"
+            },
+            {
+              "index3": 2,
+              "text": "Super",
+              "children": [],
+              "scores": "[0.17, 0.01, 0.0, 0.03, 0.0, 0.0, 0.01, 0.0, 0.0, 0.0, 0.0, 0.01, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]"
+            },
+            {
+              "index3": 3,
+              "text": "Bowl",
+              "children": [],
+              "scores": "[0.08, 0.01, 0.01, 0.04, 0.01, 0.0, 0.01, 0.0, 0.0, 0.0, 0.01, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]"
+            },
+            {
+              "index3": 4,
+              "text": "LII,",
+              "children": [],
+              "scores": "[0.5, 0.0, 0.01, 0.07, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.03, 0.0, 0.0, 0.01, 0.0, 0.0, 0.0]"
+            }
+          ],
+          "scores": "[0.63, 0.025, 0.005, 0.06, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.01, 0.01, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]"
+        },
+        {
+          "index1": 0,
+          "index2": 6,
+          "text": "their fourth NFL title,",
+          "children": [],
+          "scores": "[0.08, 0.02, 0.01, 0.055, 0.04, 0.0, 0.015, 0.0, 0.0, 0.0, 0.005, 0.01, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]"
+        },
+        {
+          "index1": 0,
+          "index2": 7,
+          "text": "after winning in 1948,",
+          "children": [],
+          "scores": "[0.03, 0.115, 0.015, 0.01, 0.025, 0.0, 0.025, 0.0, 0.005, 0.0, 0.03, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]"
+        },
+        {
+          "index1": 0,
+          "index2": 8,
+          "text": "1949,",
+          "children": [],
+          "scores": "[0.01, 0.1, 0.01, 0.035, 0.01, 0.0, 0.01, 0.0, 0.0, 0.0, 0.0, 0.01, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.005, 0.0]"
+        },
+        {
+          "index1": 0,
+          "index2": 9,
+          "text": "and 1960.",
+          "children": [
+            {
+              "index3": 0,
+              "text": "and",
+              "children": [],
+              "scores": "[0.07, 0.05, 0.03, 0.03, 0.01, 0.0, 0.0, 0.0, 0.0, 0.0, 0.01, 0.01, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]"
+            },
+            {
+              "index3": 1,
+              "text": "1960.",
+              "children": [],
+              "scores": "[0.02, 0.36, 0.0, 0.0, 0.0, 0.0, 0.03, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.02, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]"
+            }
+          ],
+          "scores": "[0.01, 0.34, 0.0, 0.0, 0.0, 0.0, 0.02, 0.0, 0.0, 0.0, 0.0, 0.005, 0.0, 0.0, 0.0, 0.0, 0.01, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]"
+        }
+      ],
+      "layer1_tspans": [],
+      "scores": "[0.43333333333333335, 0.25, 0.0, 0.013333333333333334, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]"
+    },
+    {
+      "index1": 1,
+      "text": "Document [2] (Title: Veterans Stadium) Tampa Bay Buccaneers in the NFC Championship Game on January 19, 2003. The Eagles moved into Lincoln Financial Field in August 2003. The final game ever played at the stadium was the afternoon of September 28, 2003, a 5-2 Phillies loss to the Atlanta Braves. The final hit was recorded by Greg Maddux of the Braves, the final loss by the Phils' Kevin Millwood. The final Phillies run was scored by Marlon Byrd at the top of the 3rd inning, and the final run altogether by the Braves' Andruw Jones on a double by Robert Fick (who also had the",
+      "children": [],
+      "layer1_tspans": [],
+      "scores": "[0.11, 0.023333333333333334, 0.016666666666666666, 0.02666666666666667, 0.023333333333333334, 0.10666666666666667, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]"
+    },
+    {
+      "index1": 2,
+      "text": "Document [3] (Title: History of the Philadelphia Eagles) the NFL with a 13-3 record which gave them their first NFC East Championship since 2013, and gave them a first round bye for the first time since the 2004 season which was the last time they last went to the Super Bowl. Carson Wentz improved drastically during the season in which he threw for 33 touchdowns and only 7 interceptions. His potential MVP season came to an end though during Week 14 against the Los Angeles Rams where he tore his ACL, and would be out for the rest of the year. Nick Foles who returned to the Eagles",
+      "children": [
+        {
+          "index1": 2,
+          "index2": 0,
+          "text": "Document [3] (Title: History of the Philadelphia Eagles)",
+          "children": [],
+          "scores": "[0.04, 0.06, 0.005, 0.02, 0.01, 0.0, 0.005, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]"
+        },
+        {
+          "index1": 2,
+          "index2": 1,
+          "text": "the NFL with a 13-3 record which gave them their first NFC East Championship since 2013, and gave them a first round bye for the first time since the 2004 season which was the last time they last went to the Super Bowl.",
+          "children": [
+            {
+              "index3": 0,
+              "text": "the",
+              "children": [],
+              "scores": "[0.0, 0.0, 0.0, 0.01, 0.01, 0.01, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]"
+            },
+            {
+              "index3": 1,
+              "text": "NFL",
+              "children": [],
+              "scores": "[0.0, 0.02, 0.0, 0.0, 0.0, 0.02, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]"
+            },
+            {
+              "index3": 2,
+              "text": "with",
+              "children": [],
+              "scores": "[0.02, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]"
+            },
+            {
+              "index3": 3,
+              "text": "a",
+              "children": [],
+              "scores": "[0.01, 0.01, 0.0, 0.01, 0.01, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]"
+            },
+            {
+              "index3": 4,
+              "text": "13-3",
+              "children": [],
+              "scores": "[0.01, 0.0, 0.0, 0.0, 0.01, 0.01, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]"
+            },
+            {
+              "index3": 5,
+              "text": "record",
+              "children": [],
+              "scores": "[0.0, 0.01, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]"
+            },
+            {
+              "index3": 6,
+              "text": "which",
+              "children": [],
+              "scores": "[0.02, 0.01, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]"
+            },
+            {
+              "index3": 7,
+              "text": "gave",
+              "children": [],
+              "scores": "[0.02, 0.01, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]"
+            },
+            {
+              "index3": 8,
+              "text": "them",
+              "children": [],
+              "scores": "[0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]"
+            },
+            {
+              "index3": 9,
+              "text": "their",
+              "children": [],
+              "scores": "[0.0, 0.0, 0.0, 0.0, 0.0, 0.01, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]"
+            },
+            {
+              "index3": 10,
+              "text": "first",
+              "children": [],
+              "scores": "[0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]"
+            },
+            {
+              "index3": 11,
+              "text": "NFC",
+              "children": [],
+              "scores": "[0.03, 0.01, 0.0, 0.01, 0.01, 0.01, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.01, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]"
+            },
+            {
+              "index3": 12,
+              "text": "East",
+              "children": [],
+              "scores": "[0.01, 0.02, 0.01, 0.01, 0.01, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]"
+            },
+            {
+              "index3": 13,
+              "text": "Championship",
+              "children": [],
+              "scores": "[0.0, 0.0, 0.0, 0.0, 0.02, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.01, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]"
+            },
+            {
+              "index3": 14,
+              "text": "since",
+              "children": [],
+              "scores": "[0.03, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.01, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]"
+            },
+            {
+              "index3": 15,
+              "text": "2013,",
+              "children": [],
+              "scores": "[0.04, 0.0, 0.0, 0.02, 0.0, 0.01, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]"
+            },
+            {
+              "index3": 16,
+              "text": "and",
+              "children": [],
+              "scores": "[0.02, 0.01, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]"
+            },
+            {
+              "index3": 17,
+              "text": "gave",
+              "children": [],
+              "scores": "[0.0, 0.0, 0.04, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.01, 0.0, 0.0, 0.0, 0.0, 0.0]"
+            },
+            {
+              "index3": 18,
+              "text": "them",
+              "children": [],
+              "scores": "[0.0, 0.0, 0.01, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]"
+            },
+            {
+              "index3": 19,
+              "text": "a",
+              "children": [],
+              "scores": "[0.0, 0.0, 0.0, 0.02, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]"
+            },
+            {
+              "index3": 20,
+              "text": "first",
+              "children": [],
+              "scores": "[0.01, 0.0, 0.01, 0.01, 0.01, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]"
+            },
+            {
+              "index3": 21,
+              "text": "round",
+              "children": [],
+              "scores": "[0.03, 0.01, 0.0, 0.0, 0.01, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]"
+            },
+            {
+              "index3": 22,
+              "text": "bye",
+              "children": [],
+              "scores": "[0.02, 0.03, 0.0, 0.0, 0.01, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]"
+            },
+            {
+              "index3": 23,
+              "text": "for",
+              "children": [],
+              "scores": "[0.0, 0.01, 0.01, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]"
+            },
+            {
+              "index3": 24,
+              "text": "the",
+              "children": [],
+              "scores": "[0.01, 0.0, 0.01, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]"
+            },
+            {
+              "index3": 25,
+              "text": "first",
+              "children": [],
+              "scores": "[0.01, 0.01, 0.0, 0.01, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]"
+            },
+            {
+              "index3": 26,
+              "text": "time",
+              "children": [],
+              "scores": "[0.02, 0.02, 0.0, 0.0, 0.01, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]"
+            },
+            {
+              "index3": 27,
+              "text": "since",
+              "children": [],
+              "scores": "[0.03, 0.0, 0.01, 0.01, 0.01, 0.01, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]"
+            },
+            {
+              "index3": 28,
+              "text": "the",
+              "children": [],
+              "scores": "[0.01, 0.03, 0.01, 0.0, 0.01, 0.01, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]"
+            },
+            {
+              "index3": 29,
+              "text": "2004",
+              "children": [],
+              "scores": "[0.05, 0.0, 0.21, 0.0, 0.02, 0.01, 0.01, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]"
+            },
+            {
+              "index3": 30,
+              "text": "season",
+              "children": [],
+              "scores": "[0.0, 0.02, 0.02, 0.01, 0.0, 0.0, 0.01, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]"
+            },
+            {
+              "index3": 31,
+              "text": "which",
+              "children": [],
+              "scores": "[0.03, 0.02, 0.04, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]"
+            },
+            {
+              "index3": 32,
+              "text": "was",
+              "children": [],
+              "scores": "[0.01, 0.02, 0.02, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.01, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]"
+            },
+            {
+              "index3": 33,
+              "text": "the",
+              "children": [],
+              "scores": "[0.02, 0.02, 0.0, 0.0, 0.01, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]"
+            },
+            {
+              "index3": 34,
+              "text": "last",
+              "children": [],
+              "scores": "[0.01, 0.03, 0.06, 0.0, 0.01, 0.01, 0.01, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]"
+            },
+            {
+              "index3": 35,
+              "text": "time",
+              "children": [],
+              "scores": "[0.0, 0.01, 0.02, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]"
+            },
+            {
+              "index3": 36,
+              "text": "they",
+              "children": [],
+              "scores": "[0.0, 0.0, 0.02, 0.02, 0.0, 0.0, 0.0, 0.0, 0.01, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]"
+            },
+            {
+              "index3": 37,
+              "text": "last",
+              "children": [],
+              "scores": "[0.01, 0.03, 0.03, 0.0, 0.01, 0.0, 0.01, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]"
+            },
+            {
+              "index3": 38,
+              "text": "went",
+              "children": [],
+              "scores": "[0.03, 0.01, 0.01, 0.02, 0.0, 0.0, 0.01, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]"
+            },
+            {
+              "index3": 39,
+              "text": "to",
+              "children": [],
+              "scores": "[0.03, 0.06, 0.0, 0.0, 0.0, 0.01, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]"
+            },
+            {
+              "index3": 40,
+              "text": "the",
+              "children": [],
+              "scores": "[0.02, 0.03, 0.03, 0.0, 0.0, 0.0, 0.0, 0.0, 0.01, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]"
+            },
+            {
+              "index3": 41,
+              "text": "Super",
+              "children": [],
+              "scores": "[0.0, 0.05, 0.06, 0.02, 0.03, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]"
+            },
+            {
+              "index3": 42,
+              "text": "Bowl.",
+              "children": [],
+              "scores": "[0.05, 0.01, 0.04, 0.0, 0.02, 0.0, 0.02, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.01, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]"
+            }
+          ],
+          "scores": "[0.0, 0.17, 0.345, 0.005, 0.05, 0.005, 0.005, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.005, 0.0, 0.0, 0.0, 0.0, 0.0]"
+        },
+        {
+          "index1": 2,
+          "index2": 2,
+          "text": "Carson Wentz improved drastically during the season in which he threw for 33 touchdowns and only 7 interceptions.",
+          "children": [],
+          "scores": "[0.06, 0.04, 0.0, 0.025, 0.015, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]"
+        },
+        {
+          "index1": 2,
+          "index2": 3,
+          "text": "His potential MVP season came to an end though during Week 14 against the Los Angeles Rams where he tore his ACL,",
+          "children": [],
+          "scores": "[0.035, 0.02, 0.0, 0.03, 0.02, 0.005, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]"
+        },
+        {
+          "index1": 2,
+          "index2": 4,
+          "text": "and would be out for the rest of the year.",
+          "children": [],
+          "scores": "[0.065, 0.015, 0.0, 0.025, 0.0, 0.005, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.005, 0.0, 0.0]"
+        },
+        {
+          "index1": 2,
+          "index2": 5,
+          "text": "Nick Foles who returned to the Eagles",
+          "children": [],
+          "scores": "[0.05, 0.01, 0.0, 0.015, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]"
+        }
+      ],
+      "layer1_tspans": [],
+      "scores": "[0.0033333333333333335, 0.17333333333333334, 0.3433333333333333, 0.006666666666666667, 0.06, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]"
+    },
+    {
+      "index1": 3,
+      "text": "Document [4] (Title: 2013 Philadelphia Eagles season) at the quarterback helm. This was the first game in NFL history to end with a final score of 54-11. With the convincing win, the Eagles improved to 9-6, and will face their arch rivals, the Dallas Cowboys, next Sunday Night for the division crown. This game would end when Kyle Orton threw an interception late in the fourth quarter. With the win, the Eagles improved to 10-6 and sealed NFC East Championship and 3rd seed in the playoffs. They would also be the third team in a row to defeat the Cowboys in the last game of the regular",
+      "children": [],
+      "layer1_tspans": [],
+      "scores": "[0.27666666666666667, 0.06333333333333334, 0.0033333333333333335, 0.02666666666666667, 0.013333333333333334, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]"
+    },
+    {
+      "index1": 4,
+      "text": "Document [5] (Title: Temple Stadium) Philadelphia Eagles used the stadium twice for home games. On Tuesday, November 6, 1934, the Eagles beat the Cincinnati Reds, 64-0. This game was historic because it was the first time in NFL history that a team scored ten touchdowns in one game, and it is still the second most lopsided game in NFL history, second only to the Chicago Bears' 73-0 victory over the Washington Redskins in the 1940 NFL Championship Game. It was also the last game ever for the Reds, who had found out the previous day that their team was being disbanded and replaced in the",
+      "children": [],
+      "layer1_tspans": [],
+      "scores": "[0.03333333333333333, 0.16333333333333333, 0.0033333333333333335, 0.02, 0.05, 0.11333333333333333, 0.0, 0.0, 0.0033333333333333335, 0.0, 0.0, 0.0, 0.006666666666666667, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]"
+    },
+    {
+      "index1": 5,
+      "text": "Document [6] (Title: 2009 Philadelphia Eagles season) Broncos with 7 seconds of game time. Time ran out on the ensuing kickoff, and the Eagles held on to win by a score of 30-27. The victory, their sixth consecutive, boosted Philadelphia's record to 11-4, setting up a decisive Week 17 game with the Cowboys for the division title. In the final game of the regular season, the first-place Eagles battled the second-place Cowboys in Dallas, with the winner crowned as NFC East champs. The game began with Dallas driving 80 yards down the field in 9 plays for the touchdown. Cowboys quarterback Tony Romo completed a 10-yard pass",
+      "children": [],
+      "layer1_tspans": [],
+      "scores": "[0.15, 0.05, 0.02666666666666667, 0.016666666666666666, 0.013333333333333334, 0.0, 0.0, 0.0, 0.12333333333333334, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]"
+    },
+    {
+      "index1": 6,
+      "text": "Document [7] (Title: 1985 Philadelphia Eagles season) RFK Stadium. On November 10, at Veterans Stadium, Jaworski combined with wide receiver Mike Quick for a club-record 99-yard touchdown pass in overtime to beat the Atlanta Falcons, 23\u201317. 1985 Philadelphia Eagles season The 1985 Philadelphia Eagles season was their 53rd in the National Football League (NFL). The team improved upon their previous output of 6\u20139\u20131, winning seven games. This was the fourth consecutive season in which the team failed to qualify for the playoffs. Philadelphia was in position to earn a wild-card berth with a 6\u20135 record by late November, but a four-game losing streak, which included a home",
+      "children": [],
+      "layer1_tspans": [],
+      "scores": "[0.19666666666666666, 0.12666666666666668, 0.006666666666666667, 0.013333333333333334, 0.05333333333333334, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]"
+    },
+    {
+      "index1": 7,
+      "text": "Document [8] (Title: History of the Philadelphia Eagles) Eagles defeated the Bears 33-19 at Soldier Field. Reaching the NFC Championship game, they were unable to stop the St. Louis Rams, who defeated them 29-24 Despite injuries, McNabb led the Eagles to a 12-4 season in 2002. Once again, they reached the NFC Championship, but lost at home 27-10 to the eventual Super Bowl champion Tampa Bay Buccaneers in the last game at Veterans Stadium. The 2003 team lost its first two games, both at their new home. In the opening game of the 2003 season, the Eagles were shut out 17-0 by the Tampa Bay Buccaneers in the",
+      "children": [],
+      "layer1_tspans": [],
+      "scores": "[0.24666666666666667, 0.05333333333333334, 0.01, 0.006666666666666667, 0.09333333333333334, 0.0, 0.0, 0.0, 0.0033333333333333335, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]"
+    },
+    {
+      "index1": 8,
+      "text": "Document [9] (Title: 2017 Philadelphia Eagles season) threw an incomplete pass to Julio Jones, essentially sealing a 15-10 win for the Eagles. Against many analyst predictions, the top seeded Philadelphia Eagles advanced to the NFC Championship game. The Eagles were once again underdogs going into the NFC Championship Game, this time to the second-seeded Minnesota Vikings, who were coming off a notable playoff victory in the Divisional Round. This was the Eagles first NFC Championship appearance since the 2008\u201309 NFL playoffs. Though the Eagles allowed a Vikings touchdown on the opening drive, it was the Vikings only score. Case Keenum's pick-six to Patrick Robinson changed the game,",
+      "children": [],
+      "layer1_tspans": [],
+      "scores": "[0.25666666666666665, 0.02666666666666667, 0.0033333333333333335, 0.25666666666666665, 0.01, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]"
+    },
+    {
+      "index1": 9,
+      "text": "Document [10] (Title: 2014 Baltimore Ravens season) were ultimately defeated in the AFC Divisional Round by the eventual Super Bowl champion New England Patriots. As of 2018, this is the last time the Ravens have made the playoffs. During the first preseason game vs the 49ers the Ravens won the third \"Harbowl\", as coach John Harbaugh defeated his brother Jim Harbaugh for the third time (following the Thanksgiving game in 2011 and Super Bowl XLVII). Note: Intra-division opponents are in bold text. Joe Flacco would break an NFL record for fastest time for throwing 5 touchdown passes (16 minutes) since the AFL\u2013NFL merger. The Ravens were the",
+      "children": [
+        {
+          "index1": 9,
+          "index2": 0,
+          "text": "Document [10] (Title: 2014 Baltimore Ravens season)",
+          "children": [],
+          "scores": "[0.195, 0.01, 0.02, 0.005, 0.015, 0.04, 0.005, 0.0, 0.0, 0.0, 0.0, 0.0, 0.005, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]"
+        },
+        {
+          "index1": 9,
+          "index2": 1,
+          "text": "were ultimately defeated in the AFC Divisional Round by the eventual Super Bowl champion New England Patriots.",
+          "children": [],
+          "scores": "[0.02, 0.05, 0.005, 0.04, 0.055, 0.025, 0.01, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]"
+        },
+        {
+          "index1": 9,
+          "index2": 2,
+          "text": "As of 2018, this is the last time the Ravens have made the playoffs.",
+          "children": [],
+          "scores": "[0.12, 0.04, 0.0, 0.05, 0.035, 0.01, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]"
+        },
+        {
+          "index1": 9,
+          "index2": 3,
+          "text": "During the first preseason game vs the 49ers the Ravens won the third \"Harbowl\", as coach John Harbaugh defeated his brother Jim Harbaugh for the third time (following the Thanksgiving game in 2011 and Super Bowl XLVII). Note: Intra-division opponents are in bold text.",
+          "children": [
+            {
+              "index3": 0,
+              "text": "During",
+              "children": [],
+              "scores": "[0.06, 0.03, 0.0, 0.01, 0.0, 0.0, 0.0, 0.03, 0.0, 0.0, 0.0, 0.0, 0.01, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]"
+            },
+            {
+              "index3": 1,
+              "text": "the",
+              "children": [],
+              "scores": "[0.0, 0.0, 0.0, 0.02, 0.0, 0.0, 0.01, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]"
+            },
+            {
+              "index3": 2,
+              "text": "first",
+              "children": [],
+              "scores": "[0.02, 0.01, 0.0, 0.01, 0.0, 0.03, 0.0, 0.01, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]"
+            },
+            {
+              "index3": 3,
+              "text": "preseason",
+              "children": [],
+              "scores": "[0.0, 0.0, 0.0, 0.05, 0.01, 0.02, 0.01, 0.01, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]"
+            },
+            {
+              "index3": 4,
+              "text": "game",
+              "children": [],
+              "scores": "[0.01, 0.01, 0.0, 0.0, 0.0, 0.0, 0.01, 0.01, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]"
+            },
+            {
+              "index3": 5,
+              "text": "vs",
+              "children": [],
+              "scores": "[0.02, 0.01, 0.0, 0.0, 0.01, 0.01, 0.01, 0.01, 0.0, 0.0, 0.0, 0.0, 0.01, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]"
+            },
+            {
+              "index3": 6,
+              "text": "the",
+              "children": [],
+              "scores": "[0.0, 0.01, 0.0, 0.0, 0.0, 0.0, 0.0, 0.01, 0.0, 0.01, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]"
+            },
+            {
+              "index3": 7,
+              "text": "49ers",
+              "children": [],
+              "scores": "[0.01, 0.02, 0.0, 0.02, 0.01, 0.02, 0.01, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]"
+            },
+            {
+              "index3": 8,
+              "text": "the",
+              "children": [],
+              "scores": "[0.02, 0.01, 0.0, 0.01, 0.0, 0.0, 0.0, 0.01, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.01, 0.0, 0.0, 0.0, 0.0]"
+            },
+            {
+              "index3": 9,
+              "text": "Ravens",
+              "children": [],
+              "scores": "[0.04, 0.01, 0.01, 0.0, 0.0, 0.01, 0.0, 0.0, 0.01, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]"
+            },
+            {
+              "index3": 10,
+              "text": "won",
+              "children": [],
+              "scores": "[0.0, 0.01, 0.0, 0.01, 0.01, 0.0, 0.01, 0.0, 0.0, 0.01, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]"
+            },
+            {
+              "index3": 11,
+              "text": "the",
+              "children": [],
+              "scores": "[0.01, 0.01, 0.0, 0.0, 0.0, 0.0, 0.01, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]"
+            },
+            {
+              "index3": 12,
+              "text": "third",
+              "children": [],
+              "scores": "[0.03, 0.0, 0.0, 0.01, 0.0, 0.01, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.01, 0.0, 0.0, 0.0, 0.0]"
+            },
+            {
+              "index3": 13,
+              "text": "\"Harbowl\",",
+              "children": [],
+              "scores": "[0.03, 0.02, 0.0, 0.01, 0.01, 0.02, 0.01, 0.01, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]"
+            },
+            {
+              "index3": 14,
+              "text": "as",
+              "children": [],
+              "scores": "[0.0, 0.01, 0.0, 0.0, 0.01, 0.02, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]"
+            },
+            {
+              "index3": 15,
+              "text": "coach",
+              "children": [],
+              "scores": "[0.0, 0.0, 0.0, 0.01, 0.01, 0.01, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]"
+            },
+            {
+              "index3": 16,
+              "text": "John",
+              "children": [],
+              "scores": "[0.04, 0.0, 0.0, 0.0, 0.0, 0.01, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]"
+            },
+            {
+              "index3": 17,
+              "text": "Harbaugh",
+              "children": [],
+              "scores": "[0.01, 0.0, 0.0, 0.01, 0.0, 0.0, 0.01, 0.02, 0.0, 0.01, 0.0, 0.0, 0.0, 0.01, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]"
+            },
+            {
+              "index3": 18,
+              "text": "defeated",
+              "children": [],
+              "scores": "[0.0, 0.0, 0.0, 0.0, 0.02, 0.02, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]"
+            },
+            {
+              "index3": 19,
+              "text": "his",
+              "children": [],
+              "scores": "[0.02, 0.0, 0.01, 0.0, 0.0, 0.01, 0.01, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]"
+            },
+            {
+              "index3": 20,
+              "text": "brother",
+              "children": [],
+              "scores": "[0.01, 0.0, 0.01, 0.0, 0.0, 0.01, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]"
+            },
+            {
+              "index3": 21,
+              "text": "Jim",
+              "children": [],
+              "scores": "[0.01, 0.01, 0.0, 0.0, 0.0, 0.01, 0.0, 0.01, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]"
+            },
+            {
+              "index3": 22,
+              "text": "Harbaugh",
+              "children": [],
+              "scores": "[0.05, 0.02, 0.0, 0.0, 0.01, 0.03, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]"
+            },
+            {
+              "index3": 23,
+              "text": "for",
+              "children": [],
+              "scores": "[0.02, 0.0, 0.02, 0.0, 0.0, 0.02, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]"
+            },
+            {
+              "index3": 24,
+              "text": "the",
+              "children": [],
+              "scores": "[0.0, 0.01, 0.0, 0.0, 0.01, 0.0, 0.01, 0.01, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]"
+            },
+            {
+              "index3": 25,
+              "text": "third",
+              "children": [],
+              "scores": "[0.04, 0.0, 0.0, 0.0, 0.0, 0.01, 0.01, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]"
+            },
+            {
+              "index3": 26,
+              "text": "time",
+              "children": [],
+              "scores": "[0.02, 0.0, 0.0, 0.01, 0.01, 0.03, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]"
+            },
+            {
+              "index3": 27,
+              "text": "(following",
+              "children": [],
+              "scores": "[0.08, 0.01, 0.0, 0.0, 0.03, 0.01, 0.0, 0.01, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]"
+            },
+            {
+              "index3": 28,
+              "text": "the",
+              "children": [],
+              "scores": "[0.02, 0.01, 0.0, 0.0, 0.0, 0.01, 0.0, 0.04, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]"
+            },
+            {
+              "index3": 29,
+              "text": "Thanksgiving",
+              "children": [],
+              "scores": "[0.04, 0.0, 0.0, 0.01, 0.0, 0.03, 0.01, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]"
+            },
+            {
+              "index3": 30,
+              "text": "game",
+              "children": [],
+              "scores": "[0.04, 0.0, 0.02, 0.04, 0.0, 0.0, 0.01, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]"
+            },
+            {
+              "index3": 31,
+              "text": "in",
+              "children": [],
+              "scores": "[0.04, 0.0, 0.01, 0.02, 0.01, 0.03, 0.0, 0.0, 0.0, 0.01, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]"
+            },
+            {
+              "index3": 32,
+              "text": "2011",
+              "children": [],
+              "scores": "[0.04, 0.0, 0.0, 0.0, 0.01, 0.04, 0.01, 0.09, 0.0, 0.0, 0.0, 0.0, 0.02, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]"
+            },
+            {
+              "index3": 33,
+              "text": "and",
+              "children": [],
+              "scores": "[0.09, 0.03, 0.01, 0.01, 0.01, 0.02, 0.01, 0.01, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]"
+            },
+            {
+              "index3": 34,
+              "text": "Super",
+              "children": [],
+              "scores": "[0.17, 0.0, 0.0, 0.0, 0.01, 0.06, 0.01, 0.04, 0.0, 0.01, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]"
+            },
+            {
+              "index3": 35,
+              "text": "Bowl",
+              "children": [],
+              "scores": "[0.06, 0.0, 0.0, 0.01, 0.03, 0.03, 0.02, 0.02, 0.0, 0.01, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]"
+            },
+            {
+              "index3": 36,
+              "text": "XLVII).",
+              "children": [],
+              "scores": "[0.14, 0.0, 0.02, 0.03, 0.0, 0.15, 0.05, 0.04, 0.0, 0.06, 0.0, 0.0, 0.02, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]"
+            },
+            {
+              "index3": 37,
+              "text": "Note:",
+              "children": [],
+              "scores": "[0.05, 0.01, 0.0, 0.0, 0.01, 0.01, 0.0, 0.02, 0.0, 0.01, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]"
+            },
+            {
+              "index3": 38,
+              "text": "Intra-division",
+              "children": [],
+              "scores": "[0.02, 0.02, 0.01, 0.01, 0.0, 0.01, 0.01, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]"
+            },
+            {
+              "index3": 39,
+              "text": "opponents",
+              "children": [],
+              "scores": "[0.01, 0.0, 0.0, 0.0, 0.0, 0.02, 0.01, 0.0, 0.0, 0.01, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]"
+            },
+            {
+              "index3": 40,
+              "text": "are",
+              "children": [],
+              "scores": "[0.01, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]"
+            },
+            {
+              "index3": 41,
+              "text": "in",
+              "children": [],
+              "scores": "[0.01, 0.01, 0.0, 0.0, 0.0, 0.0, 0.0, 0.01, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]"
+            },
+            {
+              "index3": 42,
+              "text": "bold",
+              "children": [],
+              "scores": "[0.01, 0.0, 0.0, 0.0, 0.01, 0.0, 0.01, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.01, 0.0, 0.0, 0.0, 0.0]"
+            },
+            {
+              "index3": 43,
+              "text": "text.",
+              "children": [],
+              "scores": "[0.0, 0.0, 0.0, 0.02, 0.0, 0.0, 0.0, 0.0, 0.01, 0.01, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]"
+            }
+          ],
+          "scores": "[0.435, 0.0, 0.0, 0.0, 0.17, 0.12, 0.015, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]"
+        },
+        {
+          "index1": 9,
+          "index2": 4,
+          "text": "Joe Flacco would break an NFL record for fastest time for throwing 5 touchdown passes (16 minutes) since the AFL\u2013NFL merger.",
+          "children": [],
+          "scores": "[0.1, 0.025, 0.0, 0.02, 0.015, 0.005, 0.005, 0.0, 0.0, 0.005, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]"
+        },
+        {
+          "index1": 9,
+          "index2": 5,
+          "text": "The Ravens were the",
+          "children": [],
+          "scores": "[0.035, 0.01, 0.005, 0.03, 0.07, 0.015, 0.005, 0.0, 0.005, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]"
+        }
+      ],
+      "layer1_tspans": [],
+      "scores": "[0.43666666666666665, 0.01, 0.0, 0.0, 0.22666666666666666, 0.11333333333333333, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]"
+    }
+  ],
+  "text_outputs": [
+    "Super Bowl LII",
+    "1960",
+    "2004",
+    "2017",
+    "Super Bowl XXXI",
+    "Super Bowl XXXIX",
+    "Super Bowl XXXII",
+    "2011",
+    "2009",
+    "Super Bowl XLVII",
+    "1948",
+    "1949",
+    "2010",
+    "February 6, 2017",
+    "2013",
+    "2003",
+    "1960.",
+    "LII",
+    "the 2004 season",
+    "February 5, 2017",
+    "Bowl LII",
+    "the 2017 season",
+    "1949, and 1960.",
+    "1949, and 1960"
+  ]
+}

@@ -1,0 +1,308 @@
+{
+  "children": [
+    {
+      "index1": 0,
+      "text": "Document [1] (Title: Cyrus Cylinder) The Cylinder's text has traditionally been seen by biblical scholars as corroborative evidence of Cyrus' policy of the repatriation of the Jewish people following their Babylonian captivity (an act that the Book of Ezra attributes to Cyrus), as the text refers to the restoration of cult sanctuaries and repatriation of deported peoples. This interpretation has been disputed, as the text identifies only Mesopotamian sanctuaries, and makes no mention of Jews, Jerusalem, or Judea. The Cylinder has also been referred to by Mohammad Reza Pahlavi, the last Shah of Iran as the first declaration of universal human rights, a view rejected by some historians as anachronistic and a misunderstanding of the Cylinder's generic nature as a typical statement made by a new monarch at the beginning of his reign. Neil MacGregor, Director of the British Museum, has stated that the cylinder was \"the first attempt we know about running a society, a state with different nationalities and faiths\u2014a new kind of statecraft.\" It was adopted as a national symbol of Iran by the Imperial State which put it on display in Tehran in 1971 to commemorate 2,500 year celebration of the Persian Empire. On October 14, the Mohammad Reza Shah's sister, Princess Ashraf Pahlavi, presented the United Nations Secretary General U Thant with a replica of the Cylinder. The princess asserted that \"the heritage of Cyrus was the heritage of human understanding, tolerance, courage, compassion and, above all, human liberty\".",
+      "children": [],
+      "layer1_tspans": [],
+      "scores": "[0.0, 0.0, 0.08666666666666667, 0.05333333333333334, 0.07666666666666666, 0.14333333333333334, 0.0, 0.0, 0.0, 0.0033333333333333335, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]"
+    },
+    {
+      "index1": 1,
+      "text": "Document [2] (Title: John Peters Humphrey) John Peters Humphrey John Peters Humphrey, OC (April 30, 1905 \u2013 March 14, 1995) was a Canadian legal scholar, jurist, and human rights advocate. He is most famous as the author of the first draft of the Universal Declaration of Human Rights. Humphrey was born to Frank Humphrey and Nellie Peter on April 30, 1905, in Hampton, New Brunswick. His childhood was touched by tragedy as he lost both his parents to cancer and he also lost one of his arms in an accident while playing with fire. Humphrey attended a boarding school where he endured teasing from other students;",
+      "children": [
+        {
+          "index1": 1,
+          "index2": 0,
+          "text": "Document [2] (Title: John Peters Humphrey)",
+          "children": [],
+          "scores": "[0.085, 0.005, 0.0, 0.005, 0.0, 0.0, 0.0, 0.0, 0.0, 0.015, 0.0, 0.0, 0.01, 0.0, 0.0, 0.0, 0.0, 0.005, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.005, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]"
+        },
+        {
+          "index1": 1,
+          "index2": 1,
+          "text": "John Peters Humphrey John Peters Humphrey,",
+          "children": [],
+          "scores": "[0.05, 0.0, 0.0, 0.0, 0.0, 0.005, 0.0, 0.0, 0.0, 0.015, 0.0, 0.005, 0.03, 0.0, 0.0, 0.0, 0.0, 0.005, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.005, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.01, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]"
+        },
+        {
+          "index1": 1,
+          "index2": 2,
+          "text": "OC (April 30, 1905 \u2013 March 14, 1995) was a Canadian legal scholar,",
+          "children": [],
+          "scores": "[0.06, 0.005, 0.005, 0.005, 0.005, 0.0, 0.0, 0.0, 0.045, 0.005, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.01, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]"
+        },
+        {
+          "index1": 1,
+          "index2": 3,
+          "text": "jurist,",
+          "children": [],
+          "scores": "[0.005, 0.0, 0.0, 0.0, 0.005, 0.0, 0.0, 0.005, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.015, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.005, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.005, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]"
+        },
+        {
+          "index1": 1,
+          "index2": 4,
+          "text": "and human rights advocate.",
+          "children": [],
+          "scores": "[0.015, 0.005, 0.0, 0.015, 0.0, 0.0, 0.0, 0.005, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.005, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.005, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.005, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.005, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]"
+        },
+        {
+          "index1": 1,
+          "index2": 5,
+          "text": "He is most famous as the author of the first draft of the Universal Declaration of Human Rights.",
+          "children": [],
+          "scores": "[0.255, 0.005, 0.0, 0.015, 0.005, 0.0, 0.0, 0.01, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.005, 0.0, 0.0, 0.0, 0.0, 0.0, 0.005, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.005, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]"
+        },
+        {
+          "index1": 1,
+          "index2": 6,
+          "text": "Humphrey was born to Frank Humphrey and Nellie Peter on April 30, 1905,",
+          "children": [],
+          "scores": "[0.0, 0.0, 0.0, 0.005, 0.005, 0.0, 0.005, 0.0, 0.0, 0.005, 0.0, 0.0, 0.005, 0.0, 0.0, 0.01, 0.0, 0.0, 0.0, 0.0, 0.0, 0.005, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]"
+        },
+        {
+          "index1": 1,
+          "index2": 7,
+          "text": "in Hampton,",
+          "children": [],
+          "scores": "[0.0, 0.005, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.005, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.005, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]"
+        },
+        {
+          "index1": 1,
+          "index2": 8,
+          "text": "New Brunswick.",
+          "children": [],
+          "scores": "[0.0, 0.005, 0.0, 0.0, 0.01, 0.005, 0.015, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.005, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]"
+        },
+        {
+          "index1": 1,
+          "index2": 9,
+          "text": "His childhood was touched by tragedy as he lost both his parents to cancer and he also lost one of his arms in an accident while playing with fire.",
+          "children": [],
+          "scores": "[0.005, 0.0, 0.005, 0.005, 0.0, 0.0, 0.0, 0.0, 0.0, 0.015, 0.0, 0.0, 0.0, 0.0, 0.0, 0.01, 0.0, 0.0, 0.0, 0.0, 0.0, 0.005, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.005, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]"
+        },
+        {
+          "index1": 1,
+          "index2": 10,
+          "text": "Humphrey attended a boarding school where he endured teasing from other students;",
+          "children": [],
+          "scores": "[0.03, 0.0, 0.0, 0.0, 0.005, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.005, 0.0, 0.015, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.005, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]"
+        }
+      ],
+      "layer1_tspans": [],
+      "scores": "[0.4866666666666667, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]"
+    },
+    {
+      "index1": 2,
+      "text": "Document [3] (Title: John Peters Humphrey) of the bench, which sits beside two tall stone plinths, one of which has several articles from the Universal Declaration of Human Rights carved into it in English, French and Maliseet. The memorial sits on the front lawn of the County Court House in the center of the town. John Peters Humphrey John Peters Humphrey, OC (April 30, 1905 \u2013 March 14, 1995) was a Canadian legal scholar, jurist, and human rights advocate. He is most famous as the author of the first draft of the Universal Declaration of Human Rights. Humphrey was born to Frank Humphrey and Nellie Peter",
+      "children": [
+        {
+          "index1": 2,
+          "index2": 0,
+          "text": "Document [3] (Title: John Peters Humphrey)",
+          "children": [],
+          "scores": "[0.09, 0.01, 0.005, 0.0, 0.0, 0.005, 0.0, 0.0, 0.0, 0.005, 0.0, 0.0, 0.02, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.005, 0.01, 0.0, 0.0, 0.0, 0.0, 0.005, 0.0, 0.005, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.005, 0.0, 0.0, 0.0, 0.005, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.005, 0.0, 0.0, 0.0]"
+        },
+        {
+          "index1": 2,
+          "index2": 1,
+          "text": "of the bench,",
+          "children": [],
+          "scores": "[0.0, 0.0, 0.0, 0.0, 0.01, 0.0, 0.0, 0.0, 0.005, 0.0, 0.0, 0.0, 0.0, 0.0, 0.005, 0.015, 0.0, 0.0, 0.0, 0.005, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.005, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.005, 0.0, 0.0, 0.0, 0.0, 0.005, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]"
+        },
+        {
+          "index1": 2,
+          "index2": 2,
+          "text": "which sits beside two tall stone plinths,",
+          "children": [],
+          "scores": "[0.0, 0.0, 0.0, 0.005, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.02, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.005, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]"
+        },
+        {
+          "index1": 2,
+          "index2": 3,
+          "text": "one of which has several articles from the Universal Declaration of Human Rights carved into it in English,",
+          "children": [],
+          "scores": "[0.025, 0.005, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.005, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.01, 0.005, 0.0, 0.0, 0.0, 0.0, 0.0, 0.025, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.005, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.005, 0.0, 0.005, 0.005, 0.0, 0.005, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.005, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.005, 0.0, 0.0]"
+        },
+        {
+          "index1": 2,
+          "index2": 4,
+          "text": "French and Maliseet.",
+          "children": [],
+          "scores": "[0.005, 0.0, 0.0, 0.0, 0.005, 0.0, 0.005, 0.0, 0.0, 0.0, 0.0, 0.0, 0.005, 0.005, 0.0, 0.02, 0.0, 0.0, 0.0, 0.0, 0.01, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.005, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.005, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.005]"
+        },
+        {
+          "index1": 2,
+          "index2": 5,
+          "text": "The memorial sits on the front lawn of the County Court House in the center of the town.",
+          "children": [],
+          "scores": "[0.015, 0.0, 0.0, 0.0, 0.0, 0.0, 0.005, 0.0, 0.005, 0.0, 0.0, 0.0, 0.01, 0.0, 0.0, 0.0, 0.0, 0.005, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.005, 0.0, 0.0, 0.0, 0.005, 0.0, 0.0, 0.005, 0.005, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.005, 0.0, 0.0, 0.0, 0.005, 0.0, 0.0, 0.0, 0.0]"
+        },
+        {
+          "index1": 2,
+          "index2": 6,
+          "text": "John Peters Humphrey John Peters Humphrey,",
+          "children": [],
+          "scores": "[0.115, 0.005, 0.005, 0.01, 0.0, 0.0, 0.0, 0.0, 0.0, 0.01, 0.0, 0.0, 0.02, 0.005, 0.0, 0.0, 0.0, 0.0, 0.005, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.015, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]"
+        },
+        {
+          "index1": 2,
+          "index2": 7,
+          "text": "OC (April 30, 1905 \u2013 March 14, 1995) was a Canadian legal scholar,",
+          "children": [],
+          "scores": "[0.05, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.045, 0.0, 0.0, 0.005, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.005, 0.0, 0.0, 0.0, 0.005, 0.0, 0.015, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.005, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]"
+        },
+        {
+          "index1": 2,
+          "index2": 8,
+          "text": "jurist,",
+          "children": [],
+          "scores": "[0.015, 0.0, 0.0, 0.005, 0.0, 0.0, 0.0, 0.0, 0.01, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.01, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.005, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.005, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.005, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.005, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]"
+        },
+        {
+          "index1": 2,
+          "index2": 9,
+          "text": "and human rights advocate.",
+          "children": [],
+          "scores": "[0.01, 0.0, 0.005, 0.0, 0.0, 0.0, 0.015, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.005, 0.005, 0.0, 0.005, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.02, 0.005, 0.0, 0.0, 0.0, 0.0, 0.0, 0.005, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.005, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.005, 0.0]"
+        },
+        {
+          "index1": 2,
+          "index2": 10,
+          "text": "He is most famous as the author of the first draft of the Universal Declaration of Human Rights.",
+          "children": [],
+          "scores": "[0.17, 0.0, 0.0, 0.015, 0.005, 0.0, 0.0, 0.02, 0.01, 0.0, 0.0, 0.01, 0.0, 0.0, 0.005, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.01, 0.0, 0.0, 0.005, 0.0, 0.0, 0.0, 0.0, 0.0, 0.01, 0.0, 0.0, 0.0, 0.0, 0.0, 0.005, 0.0, 0.005, 0.0, 0.0, 0.0, 0.0, 0.005, 0.0, 0.005, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.005, 0.0, 0.0, 0.0, 0.0, 0.005, 0.0, 0.0, 0.0, 0.0, 0.0]"
+        },
+        {
+          "index1": 2,
+          "index2": 11,
+          "text": "Humphrey was born to Frank Humphrey and Nellie Peter",
+          "children": [],
+          "scores": "[0.03, 0.005, 0.005, 0.005, 0.0, 0.005, 0.005, 0.005, 0.005, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.025, 0.0, 0.0, 0.0, 0.005, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.005, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.005, 0.01, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]"
+        }
+      ],
+      "layer1_tspans": [],
+      "scores": "[0.49333333333333335, 0.0033333333333333335, 0.0, 0.013333333333333334, 0.0, 0.0, 0.0, 0.0, 0.0, 0.006666666666666667, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]"
+    },
+    {
+      "index1": 3,
+      "text": "Document [4] (Title: Drafting of the Universal Declaration of Human Rights) P. C. Chang of Republic of China (Taiwan), and Hansa Mehta of India among others. While not a member of the drafting committee, the French philosopher Jacques Maritain was influential in the lead up to the drafting of the Universal Declaration, advocacy for it within UNESCO in 1947-8, and in its subsequent advancement. The Drafting Committee included John Peters Humphrey was newly appointed as Director of the Division of Human Rights within the United Nations Secretariat. In this role, he produced the first draft of a list of rights that were to form the basis of the Declaration. The underlying",
+      "children": [],
+      "layer1_tspans": [],
+      "scores": "[0.02, 0.013333333333333334, 0.006666666666666667, 0.03333333333333333, 0.006666666666666667, 0.0, 0.0, 0.0033333333333333335, 0.0, 0.0, 0.0, 0.013333333333333334, 0.0, 0.0, 0.09, 0.0, 0.0, 0.02, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.006666666666666667, 0.0, 0.0, 0.01, 0.0, 0.0, 0.0033333333333333335, 0.0, 0.0, 0.0, 0.0033333333333333335, 0.0, 0.0, 0.0, 0.006666666666666667, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]"
+    },
+    {
+      "index1": 4,
+      "text": "Document [5] (Title: Universal Declaration of Human Rights) the Rights of the Child, the United Nations Convention Against Torture, and many more. The Declaration continues to be widely cited by governments, academics, advocates, and constitutional courts, and by individuals who appeal to its principles for the protection of their recognised human rights. The Universal Declaration has received praise from a number of notable people. The Lebanese philosopher and diplomat Charles Malik called it \"an international document of the first order of importance\", while Eleanor Roosevelt\u2014first chairwoman of the Commission on Human Rights (CHR) that drafted the Declaration\u2014stated that it \"may well become the international Magna Carta of all",
+      "children": [],
+      "layer1_tspans": [],
+      "scores": "[0.016666666666666666, 0.013333333333333334, 0.0033333333333333335, 0.0, 0.02, 0.0, 0.1, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0033333333333333335, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.01, 0.01, 0.013333333333333334, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]"
+    },
+    {
+      "index1": 5,
+      "text": "Document [6] (Title: P. C. Chang) as Voltaire, Quesnay and Diderot in their humanistic revolt against feudalism,\" he told the UN General Assembly in 1948. On the Universal Declaration of Human Rights drafting committee, he served both as an effective Asian delegate and also as a mediator when the negotiations reached a stalemate. He served as Vice-Chairman of the original UN Commission on Human Rights and Republic of China delegate to committee and played a pivotal role in its drafting of the Universal Declaration of Human Rights (UDHR) of 1948. He and fellow delegate Charles Malik, the Lebanese philosopher-diplomat, shared ideals of universal human rights, but",
+      "children": [],
+      "layer1_tspans": [],
+      "scores": "[0.01, 0.0033333333333333335, 0.0, 0.03, 0.016666666666666666, 0.0, 0.013333333333333334, 0.006666666666666667, 0.0, 0.0, 0.0, 0.013333333333333334, 0.0, 0.0, 0.0033333333333333335, 0.0, 0.0, 0.0, 0.07, 0.0, 0.013333333333333334, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]"
+    },
+    {
+      "index1": 6,
+      "text": "Document [7] (Title: Human rights in the United States) prisoners at Guantanamo Bay and black sites, and extrajudicial targeted killings (Disposition Matrix). Some observers give the U.S. high to fair marks on human rights, while others charge it with a persistent pattern of human rights violations. The first human rights organization in the Thirteen Colonies of British America, dedicated to the abolition of slavery, was formed by Anthony Benezet in 1775. A year later, the Declaration of Independence announced that the Thirteen Colonies regarded themselves as independent states, and no longer a part of the British Empire. The Declaration stated \"that all men are created equal, that they are",
+      "children": [],
+      "layer1_tspans": [],
+      "scores": "[0.0033333333333333335, 0.006666666666666667, 0.006666666666666667, 0.0033333333333333335, 0.02, 0.0, 0.0, 0.006666666666666667, 0.0, 0.02, 0.08666666666666667, 0.0, 0.0, 0.013333333333333334, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.013333333333333334, 0.0033333333333333335, 0.0, 0.0033333333333333335, 0.0, 0.006666666666666667, 0.01, 0.0, 0.0, 0.0, 0.006666666666666667, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0033333333333333335, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]"
+    },
+    {
+      "index1": 7,
+      "text": "Document [8] (Title: Drafting of the Universal Declaration of Human Rights) Drafting of the Universal Declaration of Human Rights The Universal Declaration of Human Rights was drafted from early 1947 to late 1948 by Drafting Committee the first United Nations Commission on Human Rights. Further discussion and amendments were made by the Commission on Human Rights, the Economic and Social Council and the General Assembly of the United Nations. Members of the Commission who contributed significantly to the creation of the Declaration included Canadian John Peters Humphrey of the United Nations Secretariat, Eleanor Roosevelt of the United States (who chaired the Drafting Committee), Ren\u00e9 Cassin of France, Charles Malik of Lebanon,",
+      "children": [],
+      "layer1_tspans": [],
+      "scores": "[0.016666666666666666, 0.20333333333333334, 0.043333333333333335, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.023333333333333334, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.013333333333333334, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.006666666666666667, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]"
+    },
+    {
+      "index1": 8,
+      "text": "Document [9] (Title: Human rights) and peace in the world.\" The declaration was the first international legal effort to limit the behaviour of states and press upon them duties to their citizens. The UDHR was framed by members of the Human Rights Commission, with former First Lady Eleanor Roosevelt as Chair, who began to discuss an \"International Bill of Rights\" in 1947. The members of the Commission did not immediately agree on the form of such a bill of rights, and whether, or how, it should be enforced. The Commission proceeded to frame the UDHR and accompanying treaties, but the UDHR quickly became the priority.",
+      "children": [],
+      "layer1_tspans": [],
+      "scores": "[0.006666666666666667, 0.03, 0.0033333333333333335, 0.016666666666666666, 0.016666666666666666, 0.0, 0.006666666666666667, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.02, 0.0, 0.0, 0.0, 0.016666666666666666, 0.0, 0.08666666666666667, 0.0, 0.0, 0.013333333333333334, 0.0, 0.0, 0.01, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0033333333333333335, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]"
+    },
+    {
+      "index1": 9,
+      "text": "Document [10] (Title: Universal Declaration of Human Rights) committee included Ren\u00e9 Cassin of France, Charles Malik of Lebanon, and P. C. Chang of the Republic of China. Humphrey provided the initial draft that became the working text of the Commission. According to Allan Carlson, the Declaration's pro-family phrases were the result of the Christian Democratic movement's influence on Cassin and Malik. Once the Committee finished its work in May 1948, the draft was further discussed by the Commission on Human Rights, the Economic and Social Council, the Third Committee of the General Assembly before being put to vote in December 1948. During these discussions many amendments and propositions",
+      "children": [],
+      "layer1_tspans": [],
+      "scores": "[0.03333333333333333, 0.013333333333333334, 0.0033333333333333335, 0.01, 0.03, 0.0, 0.0, 0.02666666666666667, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.08, 0.0, 0.0, 0.0, 0.0, 0.0, 0.01, 0.013333333333333334, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.01, 0.01, 0.0, 0.0, 0.0, 0.0, 0.0, 0.006666666666666667, 0.0, 0.006666666666666667, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]"
+    }
+  ],
+  "text_outputs": [
+    "John Peters Humphrey",
+    "The Universal Declaration of Human Rights was drafted from early 1947 to late 1948 by Drafting Committee",
+    "The Cylinder",
+    "Mohammad Reza Pahlavi, the last Shah of Iran",
+    "Mohammad Reza Pahlavi",
+    "Cyrus",
+    "the Universal Declaration of Human Rights",
+    "Ren\u00e9 Cassin of France, Charles Malik of Lebanon, and P. C. Chang",
+    "OC",
+    "Cyrus Cylinder",
+    "Anthony Benezet",
+    "P. C. Chang",
+    "John Locke",
+    "Drafting Committee the first United Nations Commission on Human Rights",
+    "P. C. Chang of Republic of China (Taiwan), and Hansa Me",
+    "john locke",
+    "Document [10] (Title: Universal Declaration of Human Rights) committee included Ren\u00e9",
+    "The Drafting Committee",
+    "Voltaire, Quesnay and Diderot in their humanistic revolt against feu",
+    "the United Nations General Assembly",
+    "Voltaire, Quesnay and Diderot",
+    "The UDHR was framed by members of the Human Rights Commission, with former First Lady",
+    "the Human Rights Commission",
+    "John Peters Humphrey of the United Nations Secretariat, Eleanor Roosevelt",
+    "francois rabelais",
+    "The first human rights organization in the Thirteen Colonies of British America, dedicated to the",
+    "the Declaration of Independence",
+    "oc",
+    "The Universal Declaration of Human Rights was drafted by the United Nations General Assembly in 1948.",
+    "the French philosopher Jacques Maritain",
+    "the United Nations",
+    "the Committee on Human Rights",
+    "The Drafting Committee included John Peters Humphrey",
+    "john kendall",
+    "John Peters Humphrey John Peters Humphrey,",
+    "john kenyon",
+    "The Universal Declaration of Human Rights",
+    "The Drafting Committee included John Peters",
+    "the first United Nations Commission on Human Rights",
+    "OC (April 30, 1905 \u2013 March 14, 1995) was a Canadian legal scholar",
+    "committee included Ren\u00e9 Cassin of France, Charles Malik of Lebanon, and P. C",
+    "John Peters",
+    "The Drafting Committee included John Peters Humphrey was newly appointed as Director of the",
+    "committee",
+    "john stuart mill",
+    "French and Maliseet.",
+    "dr. francois roosevelt",
+    "dr. john stuart mill",
+    "and human rights advocate. He is most famous as the author of the first draft of the Universal",
+    "The Universal Declaration of Human Rights was drafted by a group of statesmen, including the",
+    "The Universal Declaration of Human Rights was drafted by a group of jurists, including",
+    "The Universal Declaration of Human Rights was drafted by the United Nations General Assembly, with the assistance",
+    "a French jurist, and human rights advocate. He is most famous as the author of",
+    "French jurist,",
+    "dr. francois rabelais",
+    "the Human Rights Commission, with former First Lady Eleanor Roosevelt as Chair",
+    "John Peters Humphrey John Peters Humphrey, jurist, and",
+    "Universal Declaration of Human Rights",
+    "Humphrey",
+    "charles napoleon",
+    "charles charles degaulle",
+    "john humphrey",
+    "humphrey",
+    "francois de la rouviere",
+    "francois degaulle",
+    "The Declaration of Independence",
+    "charles xavier delafontaine",
+    "charles charnier",
+    "charles edouard dreyfus"
+  ]
+}
