@@ -98,18 +98,13 @@
 
 
 <body>
-
   <div >
-    <label for="fname">Sample ID (choose a number 0 through 19):</label>
-    <input onchange="udpateSampleUsed(this.value)" value="0"></input> <br><br>
+    <label for="fname"><b>Sample ID:</b></label>
+    <input onchange="udpateSampleUsed(this.value)" value="0"></input> <br>
+    <span>(choose a number 0 through 19)</span>
+    <br><br>
   </div>
-
 <table style="display:table;" class="answer_key">
-    <tr><td> Rontgen </td></tr>
-    <tr><td> Curie </td></tr>
-    <tr><td> XX </td></tr>
-    <tr><td> XX </td></tr>
-
 </table>
 <div >
     <b> Output Classes: </b>
@@ -135,16 +130,12 @@
 </div>
 <br>
 <div class="long_document"></div>
-
 <br>
-
 
 
 
 <script>
   var longdoc = d3.select("div.long_document");
-
-
 
   function rgb(r, g, b){return "rgb("+r+","+g+","+b+")";}
   function rgba(r, g, b, a){return "rgba("+r+","+g+","+b+","+a+")";}
