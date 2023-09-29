@@ -104,6 +104,11 @@
     <span>(choose a number 0 through 19)</span>
     <br><br>
   </div>
+    
+<label for="query" style="font-size:26px;"><b>Question:</b></label>
+<div class="curr_question"></div>
+<br>
+    
 <table style="display:table;" class="answer_key">
 </table>
 <div >
@@ -230,6 +235,8 @@
     }
 
 
+    question_div = d3.select('div.curr_question')
+    question_div.text(hierarchyDictInOneJSON['question']+"?")
 
     C_MAX = GLOBAL_MAX_C;
     answer_table = d3.select('table.answer_key')
